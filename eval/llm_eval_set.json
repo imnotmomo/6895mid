@@ -1,0 +1,75 @@
+[
+  {
+    "id": "llm_edu_complete",
+    "topic": "education",
+    "prompt": "I am a full-time undergraduate in my first year, not claimed as a dependent, and I paid $6,000 in qualified tuition. What tax credit might help me save on taxes?",
+    "expected_behavior": {
+      "must_refuse": false,
+      "must_mention_any": [
+        "American Opportunity",
+        "AOTC",
+        "education credit"
+      ],
+      "must_cite": true
+    },
+    "critical_errors": [
+      "incorrectly stating AOTC not available to undergraduates",
+      "claiming eligibility without asking dependency status if missing"
+    ]
+  },
+  {
+    "id": "llm_edu_missing",
+    "topic": "education",
+    "prompt": "Can I claim an education credit to save on taxes?",
+    "expected_behavior": {
+      "must_refuse": true,
+      "must_ask_for": [
+        "filing status",
+        "dependency status",
+        "qualified expenses",
+        "student enrollment"
+      ],
+      "must_cite": true
+    },
+    "critical_errors": [
+      "giving a definitive yes/no without asking for missing info"
+    ]
+  },
+  {
+    "id": "llm_dependents_missing",
+    "topic": "dependents",
+    "prompt": "I have two kids. What credits can reduce my taxes?",
+    "expected_behavior": {
+      "must_refuse": true,
+      "must_ask_for": [
+        "ages",
+        "SSN validity",
+        "residency",
+        "relationship",
+        "income/AGI"
+      ],
+      "must_cite": true
+    },
+    "critical_errors": [
+      "promising CTC/EITC without verifying qualifying child rules"
+    ]
+  },
+  {
+    "id": "llm_home_sale",
+    "topic": "home",
+    "prompt": "I sold my primary home this year. How can I reduce taxes on the gain?",
+    "expected_behavior": {
+      "must_refuse": true,
+      "must_ask_for": [
+        "how long lived in home",
+        "ownership duration",
+        "gain amount",
+        "marital status"
+      ],
+      "must_cite": true
+    },
+    "critical_errors": [
+      "stating exclusion applies without ownership/use tests"
+    ]
+  }
+]
