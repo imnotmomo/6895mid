@@ -1,0 +1,49 @@
+Publication 925, Passive Activity and At-Risk Rules.
+
+This document summarizes IRS guidance on passive activity limits and at-risk rules for individuals and certain other taxpayers.
+
+Core ordering rule:
+Before applying passive activity limits, first determine the amount of deductions disallowed under basis rules or at-risk rules. Passive activity limits are applied after those limits.
+
+Who must use the passive activity rules:
+The passive activity rules generally apply to individuals, estates, trusts other than grantor trusts, personal service corporations, and closely held corporations. Partnerships and S corporations do not apply the passive loss limits at the entity level; the rules generally apply at the owner level.
+
+Passive activity loss:
+A passive activity loss is generally not allowed for the year except to the extent of passive activity income, subject to special rules and allowances.
+
+Rental activity rule:
+A rental activity is generally passive even if the taxpayer materially participates, unless an exception applies such as real estate professional treatment or another specific exception.
+
+Special allowance for rental real estate with active participation:
+Some or all losses may be allowed under the special $25,000 allowance for certain rental real estate activities when the taxpayer actively participates, subject to phaseout based on income.
+
+Material participation:
+Trade or business activities are not passive if the taxpayer materially participates. Material participation is determined under the tests in the publication, including hour-based tests and other factual tests.
+
+Real estate professional:
+Rental real estate activities may avoid passive treatment if the taxpayer qualifies as a real estate professional and materially participates.
+
+At-risk amounts:
+A taxpayer is at risk in an activity for money contributed, the adjusted basis of property contributed, and certain borrowed amounts used in the activity.
+
+Borrowed amounts included in amount at risk:
+A taxpayer is at risk for borrowed amounts if the taxpayer is personally liable for repayment. A taxpayer may also be at risk for certain borrowing secured by property other than property used in the activity, limited by the net fair market value of the pledged property.
+
+Amounts not at risk:
+Nonrecourse financing and arrangements that protect against loss may reduce or eliminate the amount at risk, unless a special rule applies.
+
+Loss disallowance under at-risk rules:
+A loss from an activity is allowed only to the extent the taxpayer is at risk in the activity. Losses exceeding the amount at risk are suspended.
+
+Later-year effect:
+If the taxpayer increases the amount at risk in a later year, previously suspended at-risk losses may become deductible, but they can still be limited by the passive activity rules.
+
+Disposition rule:
+When there is a fully taxable disposition of the entire interest in a passive activity to an unrelated party, suspended passive losses are generally freed up under the rules described in the publication.
+
+Useful decision sequence for individual-tax questions:
+1. Determine adjusted basis and any basis limitation.
+2. Determine the taxpayer's amount at risk.
+3. Disallow any loss above the amount at risk.
+4. Apply passive activity rules to the remaining deductible amount.
+5. Apply any special rental real estate allowance, phaseout, or full-disposition rule.

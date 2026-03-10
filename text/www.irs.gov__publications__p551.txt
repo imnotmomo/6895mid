@@ -1,0 +1,40 @@
+Publication 551, Basis of Assets.
+
+This document summarizes IRS guidance on cost basis, adjusted basis, and basis other than cost.
+
+Definition of basis:
+Basis is the amount of a taxpayer's investment in property for tax purposes. Basis is used to figure depreciation, amortization, depletion, casualty losses, and gain or loss on sale or other disposition.
+
+Cost basis:
+The basis of property bought is generally its cost. Certain acquisition or production costs may also have to be capitalized into basis.
+
+Adjusted basis:
+Original basis is increased by items such as capital improvements and certain capitalizable costs, and decreased by items such as depreciation, amortization, depletion, and casualty loss deductions.
+
+Gift basis:
+Property received by gift can have carryover basis, subject to special rules including possible adjustments for gift tax in certain cases and special loss-basis rules when fair market value is below donor basis.
+
+Inherited-property basis:
+Property acquired from a decedent generally uses the rules described in the publication for basis other than cost, including the relevant inherited-property rules.
+
+Basis in like-kind exchanges:
+Replacement-property basis in a like-kind exchange is generally determined by starting from the basis of the property transferred and adjusting for money received, money paid, recognized gain, recognized loss where applicable, and the fair market value of non-like-kind property involved in the exchange.
+
+Allocation of basis when mixed property is received:
+If both like-kind and non-like-kind property are received, basis is allocated under the ordering and allocation rules in the publication, with non-like-kind property generally taking basis up to fair market value first and the balance assigned to the like-kind replacement property.
+
+Involuntary conversions:
+When gain is not recognized because qualifying replacement property is acquired after an involuntary conversion, the basis of replacement property is generally its cost reduced by gain not recognized.
+
+Improvements and multiple assets:
+When multiple assets are acquired in one transaction, total basis must be allocated among the assets. When land and building are acquired together, allocation is generally made according to relative fair market values.
+
+Depreciation interaction:
+The publication cross-references depreciation rules because allowable depreciation reduces adjusted basis and often changes gain or recapture computations.
+
+Useful decision sequence for basis questions:
+1. Determine how the taxpayer acquired the property: purchase, gift, inheritance, exchange, or conversion.
+2. Determine original basis under the applicable rule.
+3. Apply all increases and decreases to reach adjusted basis.
+4. If replacement property is received, compute its basis under the applicable exchange or involuntary-conversion rule.
+5. Use adjusted basis in later gain, loss, depreciation, or recapture calculations.

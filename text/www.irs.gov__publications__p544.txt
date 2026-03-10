@@ -1,0 +1,51 @@
+Publication 544, Sales and Other Dispositions of Assets.
+
+This document summarizes IRS guidance on sales, exchanges, involuntary conversions, and other dispositions of assets.
+
+General gain or loss rule:
+Gain or loss from a sale or exchange is generally figured by comparing the amount realized with the adjusted basis of the property disposed of.
+
+Amount realized:
+The amount realized generally includes money received plus the fair market value of other property received, reduced by selling expenses when appropriate.
+
+Adjusted basis:
+Adjusted basis starts from basis and is then increased or decreased by adjustments required under the tax rules, including improvements and depreciation.
+
+Section 1231 and business property:
+Business-use real and depreciable property may be subject to section 1231 rules. Net section 1231 gain may receive capital-gain treatment and net section 1231 loss may receive ordinary-loss treatment, subject to recapture rules.
+
+Depreciation recapture:
+Depreciation or additional depreciation may cause ordinary income recapture under section 1245 or section 1250 rules when qualifying property is disposed of.
+
+Like-kind exchanges of real property:
+Real property held for productive use in a trade or business or for investment may qualify for nonrecognition treatment if exchanged solely for like-kind real property held for productive use in a trade or business or for investment, subject to the rules described in the publication.
+
+Recognized gain in like-kind exchange:
+Even in a qualifying like-kind exchange, gain may be recognized to the extent of money or other non-like-kind property received. Loss is generally not recognized in a like-kind exchange.
+
+Liabilities in like-kind exchanges:
+Relief from liabilities is treated similarly to money received. Liabilities assumed by the taxpayer can offset liabilities assumed by the other party. Net liability relief can increase the amount of boot and affect recognized gain calculations.
+
+Basis of replacement property in like-kind exchange:
+The basis of replacement property generally begins with the adjusted basis of property given up, adjusted for money received, money paid, gain recognized, loss recognized where applicable, and non-like-kind property involved in the exchange.
+
+Involuntary conversions:
+Property converted because of destruction, theft, seizure, requisition, condemnation, or threat of condemnation can trigger gain or loss. Gain can be deferred if replacement-property requirements are met under the rules summarized in the publication.
+
+Sale of business assets:
+The publication explains allocation issues, reporting of business-asset sales, and treatment of classes of assets and intangible assets.
+
+Main-home cross-reference:
+Sale of a main home is generally covered by Publication 523 rather than Publication 544.
+
+Installment-sale cross-reference:
+Installment-sale rules are generally covered in Publication 537.
+
+Useful decision sequence for property-transaction questions:
+1. Identify the type of asset and whether it is personal, investment, or business property.
+2. Compute adjusted basis.
+3. Compute amount realized.
+4. Determine realized gain or loss.
+5. Check whether nonrecognition rules apply, including like-kind exchange or involuntary conversion rules.
+6. Apply any boot, liability, recapture, or character rules.
+7. Determine the basis of replacement property if relevant.

@@ -1,0 +1,39 @@
+Publication 537, Installment Sales.
+
+This document summarizes IRS guidance on installment-sale reporting.
+
+Basic rule:
+An installment sale is a disposition of property where at least one payment is received after the tax year of the sale.
+
+Installment method:
+Under the installment method, gain is generally reported proportionately as payments are received rather than entirely in the year of sale, unless an exception or election applies.
+
+Gross profit percentage:
+The fraction used to determine gain recognized on each principal payment is the gross profit percentage. Gross profit percentage generally equals gross profit divided by contract price.
+
+Gross profit:
+Gross profit is generally selling price minus adjusted basis minus selling expenses, with adjustments as described in the publication.
+
+Contract price:
+Contract price reflects the amount the seller is entitled to receive for the property under the installment-sale rules and is used in the denominator of the gross profit percentage.
+
+Interest:
+Stated or imputed interest is not part of the gain percentage calculation. Interest is generally reported separately from gain.
+
+Depreciation recapture and certain gain components:
+Recapture income and certain other amounts may have to be recognized in the year of sale rather than deferred under the installment method.
+
+Related-party and special-property rules:
+The publication describes special rules for related-party sales and other special situations.
+
+Cross-reference to asset-disposition rules:
+Publication 537 works together with Publication 544 and Publication 551 because installment-sale questions often still require determination of adjusted basis, realized gain, and asset character.
+
+Useful decision sequence for installment-sale questions:
+1. Confirm that at least one payment is received after the year of sale.
+2. Compute selling price, adjusted basis, selling expenses, and gross profit.
+3. Compute contract price.
+4. Compute gross profit percentage.
+5. Apply that percentage to each principal payment received to determine recognized gain.
+6. Separate and report any interest component.
+7. Check for recapture or special rules that require immediate recognition.
