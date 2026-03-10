@@ -1,4 +1,9 @@
 {
   "url": "https://www.irs.gov/payments/pay-taxes-on-time",
-  "type": "html"
+  "type": "html",
+  "topic": "auxiliary_or_admin",
+  "subtopic": "administrative_guidance",
+  "source_type": "guidance",
+  "doc_family": "pay-taxes-on-time",
+  "priority": 1
 }

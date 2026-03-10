@@ -1,4 +1,9 @@
 {
   "url": "https://www.irs.gov/retirement-plans",
-  "type": "html"
+  "type": "html",
+  "topic": "retirement_and_financial_planning",
+  "subtopic": "retirement_rules",
+  "source_type": "guidance",
+  "doc_family": "retirement-plans",
+  "priority": 2
 }

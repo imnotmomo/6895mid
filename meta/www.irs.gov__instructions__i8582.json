@@ -1,4 +1,9 @@
 {
   "url": "https://www.irs.gov/instructions/i8582",
-  "type": "html"
+  "type": "html",
+  "topic": "passive_activity_and_at_risk",
+  "subtopic": "at_risk_ordering",
+  "source_type": "instruction",
+  "doc_family": "i8582",
+  "priority": 3
 }

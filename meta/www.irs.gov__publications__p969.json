@@ -1,4 +1,9 @@
 {
   "url": "https://www.irs.gov/publications/p969",
-  "type": "html"
+  "type": "html",
+  "topic": "retirement_and_financial_planning",
+  "subtopic": "tax_favored_accounts",
+  "source_type": "publication",
+  "doc_family": "p969",
+  "priority": 3
 }

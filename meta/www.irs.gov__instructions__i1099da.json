@@ -2,8 +2,11 @@
   "doc": "Instructions for Form 1099-DA (2025) | Internal Revenue Service",
   "url": "https://www.irs.gov/instructions/i1099da",
   "title": "Instructions for Form 1099-DA (2025) | Internal Revenue Service",
-  "source_type": "irs_web",
-  "topic": "digital_assets",
+  "source_type": "instruction",
+  "topic": "auxiliary_or_admin",
   "tax_year": "2025/2026 current guidance",
-  "text": "IRS instructions for Form 1099-DA.\n\nThe 2025 instructions explain how brokers report digital asset proceeds and, in some cases, basis information. The instructions describe phased reporting requirements, including additional basis reporting fields for certain sales on or after January 1, 2026.\n\nThe instructions also discuss covered versus noncovered securities in the digital asset reporting context and describe circumstances in which brokers may voluntarily report certain basis fields for noncovered securities.\n\nThese instructions are useful for RAG when answering questions about what information may appear on Form 1099-DA and how broker reporting changes over time."
+  "text": "IRS instructions for Form 1099-DA.\n\nThe 2025 instructions explain how brokers report digital asset proceeds and, in some cases, basis information. The instructions describe phased reporting requirements, including additional basis reporting fields for certain sales on or after January 1, 2026.\n\nThe instructions also discuss covered versus noncovered securities in the digital asset reporting context and describe circumstances in which brokers may voluntarily report certain basis fields for noncovered securities.\n\nThese instructions are useful for RAG when answering questions about what information may appear on Form 1099-DA and how broker reporting changes over time.",
+  "subtopic": "administrative_guidance",
+  "doc_family": "i1099d",
+  "priority": 1
 }

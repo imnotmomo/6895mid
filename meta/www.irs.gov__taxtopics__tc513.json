@@ -1,4 +1,9 @@
 {
   "url": "https://www.irs.gov/taxtopics/tc513",
-  "type": "html"
+  "type": "html",
+  "topic": "auxiliary_or_admin",
+  "subtopic": "administrative_guidance",
+  "source_type": "taxtopic",
+  "doc_family": "tc513",
+  "priority": 1
 }

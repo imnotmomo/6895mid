@@ -1,4 +1,9 @@
 {
   "url": "https://www.irs.gov/credits-deductions/home-energy-tax-credits",
-  "type": "html"
+  "type": "html",
+  "topic": "deductions_and_credits",
+  "subtopic": "credits_and_itemized_deductions",
+  "source_type": "guidance",
+  "doc_family": "home-energy-tax-credits",
+  "priority": 2
 }

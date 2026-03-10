@@ -1,4 +1,9 @@
 {
   "url": "https://www.irs.gov/publications/p505",
-  "type": "html"
+  "type": "html",
+  "topic": "general_individual_tax",
+  "subtopic": "withholding_and_estimated_tax",
+  "source_type": "publication",
+  "doc_family": "p505",
+  "priority": 3
 }

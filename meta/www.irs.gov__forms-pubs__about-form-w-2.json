@@ -1,4 +1,9 @@
 {
   "url": "https://www.irs.gov/forms-pubs/about-form-w-2",
-  "type": "html"
+  "type": "html",
+  "topic": "auxiliary_or_admin",
+  "subtopic": "administrative_guidance",
+  "source_type": "about_form",
+  "doc_family": "w-2",
+  "priority": 1
 }

@@ -1,4 +1,9 @@
 {
   "url": "https://www.irs.gov/payments/direct-pay-with-bank-account",
-  "type": "html"
+  "type": "html",
+  "topic": "auxiliary_or_admin",
+  "subtopic": "administrative_guidance",
+  "source_type": "guidance",
+  "doc_family": "direct-pay-with-bank-account",
+  "priority": 1
 }

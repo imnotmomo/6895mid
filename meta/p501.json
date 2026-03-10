@@ -1,4 +1,9 @@
 {
   "url": "https://www.irs.gov/pub/irs-pdf/p501.pdf",
-  "type": "pdf"
+  "type": "pdf",
+  "topic": "general_individual_tax",
+  "subtopic": "filing_status_and_dependents",
+  "source_type": "publication",
+  "doc_family": "p501",
+  "priority": 3
 }

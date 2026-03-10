@@ -1,4 +1,9 @@
 {
   "url": "https://www.irs.gov/credits-deductions/individuals/child-and-dependent-care-credit-information",
-  "type": "html"
+  "type": "html",
+  "topic": "deductions_and_credits",
+  "subtopic": "credits_and_itemized_deductions",
+  "source_type": "guidance",
+  "doc_family": "child-and-dependent-care-credit-information",
+  "priority": 2
 }

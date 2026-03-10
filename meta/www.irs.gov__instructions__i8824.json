@@ -1,4 +1,9 @@
 {
   "url": "https://www.irs.gov/instructions/i8824",
-  "type": "html"
+  "type": "html",
+  "topic": "property_transactions",
+  "subtopic": "like_kind_and_basis",
+  "source_type": "instruction",
+  "doc_family": "i8824",
+  "priority": 3
 }

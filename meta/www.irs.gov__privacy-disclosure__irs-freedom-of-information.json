@@ -1,4 +1,9 @@
 {
   "url": "https://www.irs.gov/privacy-disclosure/irs-freedom-of-information",
-  "type": "html"
+  "type": "html",
+  "topic": "auxiliary_or_admin",
+  "subtopic": "administrative_guidance",
+  "source_type": "guidance",
+  "doc_family": "irs-freedom-of-information",
+  "priority": 1
 }

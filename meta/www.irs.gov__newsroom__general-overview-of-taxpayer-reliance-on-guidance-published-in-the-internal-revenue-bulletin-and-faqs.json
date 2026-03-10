@@ -1,4 +1,9 @@
 {
   "url": "https://www.irs.gov/newsroom/general-overview-of-taxpayer-reliance-on-guidance-published-in-the-internal-revenue-bulletin-and-faqs",
-  "type": "html"
+  "type": "html",
+  "topic": "auxiliary_or_admin",
+  "subtopic": "administrative_guidance",
+  "source_type": "newsroom",
+  "doc_family": "general-overview-of-taxpayer-reliance-on-guidance-published-in-the-internal-reve",
+  "priority": 1
 }

@@ -1,4 +1,9 @@
 {
   "url": "https://www.irs.gov/forms-pubs/about-form-8582-cr",
-  "type": "html"
+  "type": "html",
+  "topic": "passive_activity_and_at_risk",
+  "subtopic": "at_risk_ordering",
+  "source_type": "about_form",
+  "doc_family": "8582-cr",
+  "priority": 2
 }

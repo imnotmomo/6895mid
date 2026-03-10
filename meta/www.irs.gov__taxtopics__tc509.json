@@ -1,4 +1,9 @@
 {
   "url": "https://www.irs.gov/taxtopics/tc509",
-  "type": "html"
+  "type": "html",
+  "topic": "gift_estate_and_charitable",
+  "subtopic": "individual_credits_and_dependents",
+  "source_type": "taxtopic",
+  "doc_family": "tc509",
+  "priority": 2
 }

@@ -1,4 +1,9 @@
 {
   "url": "https://www.irs.gov/forms-pubs/about-form-6198",
-  "type": "html"
+  "type": "html",
+  "topic": "passive_activity_and_at_risk",
+  "subtopic": "at_risk_limits",
+  "source_type": "about_form",
+  "doc_family": "6198",
+  "priority": 2
 }

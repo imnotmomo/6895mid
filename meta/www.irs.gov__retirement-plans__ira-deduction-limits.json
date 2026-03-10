@@ -1,4 +1,9 @@
 {
   "url": "https://www.irs.gov/retirement-plans/ira-deduction-limits",
-  "type": "html"
+  "type": "html",
+  "topic": "retirement_and_financial_planning",
+  "subtopic": "ira_contributions",
+  "source_type": "guidance",
+  "doc_family": "ira-deduction-limits",
+  "priority": 2
 }

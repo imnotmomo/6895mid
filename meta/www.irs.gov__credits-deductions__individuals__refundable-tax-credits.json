@@ -1,4 +1,9 @@
 {
   "url": "https://www.irs.gov/credits-deductions/individuals/refundable-tax-credits",
-  "type": "html"
+  "type": "html",
+  "topic": "general_individual_tax",
+  "subtopic": "filing_and_procedures",
+  "source_type": "guidance",
+  "doc_family": "refundable-tax-credits",
+  "priority": 2
 }

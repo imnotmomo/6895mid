@@ -1,4 +1,9 @@
 {
   "url": "https://www.irs.gov/credits-deductions/individuals/education-credits-aotc-and-llc",
-  "type": "html"
+  "type": "html",
+  "topic": "education_and_credits",
+  "subtopic": "education_benefits",
+  "source_type": "guidance",
+  "doc_family": "education-credits-aotc-and-llc",
+  "priority": 2
 }

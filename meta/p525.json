@@ -1,4 +1,9 @@
 {
   "url": "https://www.irs.gov/pub/irs-pdf/p525.pdf",
-  "type": "pdf"
+  "type": "pdf",
+  "topic": "general_individual_tax",
+  "subtopic": "taxable_and_nontaxable_income",
+  "source_type": "publication",
+  "doc_family": "p525",
+  "priority": 3
 }

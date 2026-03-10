@@ -1,4 +1,9 @@
 {
   "url": "https://www.irs.gov/publications/p544",
-  "type": "html"
+  "type": "html",
+  "topic": "property_transactions",
+  "subtopic": "gain_loss_and_basis",
+  "source_type": "publication",
+  "doc_family": "p544",
+  "priority": 3
 }

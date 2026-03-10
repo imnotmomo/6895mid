@@ -1,4 +1,9 @@
 {
   "url": "https://www.irs.gov/instructions/i1040sc",
-  "type": "html"
+  "type": "html",
+  "topic": "general_individual_tax",
+  "subtopic": "core_filing_rules",
+  "source_type": "instruction",
+  "doc_family": "i1040s",
+  "priority": 3
 }

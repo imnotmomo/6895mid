@@ -1,4 +1,9 @@
 {
   "url": "https://www.irs.gov/publications/p523",
-  "type": "html"
+  "type": "html",
+  "topic": "property_transactions",
+  "subtopic": "principal_residence",
+  "source_type": "publication",
+  "doc_family": "p523",
+  "priority": 3
 }

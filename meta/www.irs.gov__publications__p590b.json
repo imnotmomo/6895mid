@@ -1,4 +1,9 @@
 {
   "url": "https://www.irs.gov/publications/p590b",
-  "type": "html"
+  "type": "html",
+  "topic": "retirement_and_financial_planning",
+  "subtopic": "ira_distributions",
+  "source_type": "publication",
+  "doc_family": "p590b",
+  "priority": 3
 }

@@ -1,4 +1,9 @@
 {
   "url": "https://www.irs.gov/help/let-us-help-you",
-  "type": "html"
+  "type": "html",
+  "topic": "auxiliary_or_admin",
+  "subtopic": "administrative_guidance",
+  "source_type": "guidance",
+  "doc_family": "let-us-help-you",
+  "priority": 1
 }

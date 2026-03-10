@@ -2,8 +2,11 @@
   "doc": "Understanding your Form 1099-DA | Internal Revenue Service",
   "url": "https://www.irs.gov/businesses/understanding-your-form-1099-da",
   "title": "Understanding your Form 1099-DA | Internal Revenue Service",
-  "source_type": "irs_web",
+  "source_type": "guidance",
   "topic": "digital_assets",
   "tax_year": "2025/2026 current guidance",
-  "text": "IRS guidance on Form 1099-DA.\n\nForm 1099-DA, Digital Asset Proceeds From Broker Transactions, is used by brokers to report proceeds from and in some cases basis for digital asset dispositions to taxpayers and the IRS.\n\nThe IRS says taxpayers must report all income, gains, and losses from digital asset transactions whether or not they receive Form 1099-DA.\n\nFor 2025, the filing requirements generally apply to U.S. brokers. Taxpayers using foreign brokers may not receive Form 1099-DA, but taxable transactions through foreign brokers still must be reported.\n\nThe IRS says Form 1099-DA may be issued when digital assets are disposed of for another digital asset, for U.S. dollars or other currency, for property, goods, or services, or to pay broker transaction costs with digital assets. Taxpayers should use the form together with their own records and must calculate basis before filing."
+  "text": "IRS guidance on Form 1099-DA.\n\nForm 1099-DA, Digital Asset Proceeds From Broker Transactions, is used by brokers to report proceeds from and in some cases basis for digital asset dispositions to taxpayers and the IRS.\n\nThe IRS says taxpayers must report all income, gains, and losses from digital asset transactions whether or not they receive Form 1099-DA.\n\nFor 2025, the filing requirements generally apply to U.S. brokers. Taxpayers using foreign brokers may not receive Form 1099-DA, but taxable transactions through foreign brokers still must be reported.\n\nThe IRS says Form 1099-DA may be issued when digital assets are disposed of for another digital asset, for U.S. dollars or other currency, for property, goods, or services, or to pay broker transaction costs with digital assets. Taxpayers should use the form together with their own records and must calculate basis before filing.",
+  "subtopic": "reporting_and_taxation",
+  "doc_family": "understanding-your-form-1099-da",
+  "priority": 2
 }

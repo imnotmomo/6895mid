@@ -1,4 +1,9 @@
 {
   "url": "https://www.irs.gov/privacy-disclosure/irs-privacy-policy",
-  "type": "html"
+  "type": "html",
+  "topic": "auxiliary_or_admin",
+  "subtopic": "administrative_guidance",
+  "source_type": "guidance",
+  "doc_family": "irs-privacy-policy",
+  "priority": 1
 }

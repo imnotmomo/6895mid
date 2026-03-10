@@ -1,4 +1,9 @@
 {
   "url": "https://www.irs.gov/forms-pubs/about-publication-969",
-  "type": "html"
+  "type": "html",
+  "topic": "retirement_and_financial_planning",
+  "subtopic": "tax_favored_accounts",
+  "source_type": "guidance",
+  "doc_family": "about-publication-969",
+  "priority": 2
 }

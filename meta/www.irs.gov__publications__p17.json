@@ -1,4 +1,9 @@
 {
   "url": "https://www.irs.gov/publications/p17",
-  "type": "html"
+  "type": "html",
+  "topic": "general_individual_tax",
+  "subtopic": "core_filing_rules",
+  "source_type": "publication",
+  "doc_family": "p17",
+  "priority": 3
 }

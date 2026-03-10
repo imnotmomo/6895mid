@@ -1,4 +1,9 @@
 {
   "url": "https://www.irs.gov/pub/irs-pdf/p970.pdf",
-  "type": "pdf"
+  "type": "pdf",
+  "topic": "education_and_credits",
+  "subtopic": "education_benefits",
+  "source_type": "publication",
+  "doc_family": "p970",
+  "priority": 3
 }

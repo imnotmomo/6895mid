@@ -1,4 +1,9 @@
 {
   "url": "https://www.irs.gov/instructions/i8949",
-  "type": "html"
+  "type": "html",
+  "topic": "property_transactions",
+  "subtopic": "capital_transactions",
+  "source_type": "instruction",
+  "doc_family": "i8949",
+  "priority": 3
 }

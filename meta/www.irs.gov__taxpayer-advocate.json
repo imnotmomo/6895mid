@@ -1,4 +1,9 @@
 {
   "url": "https://www.irs.gov/taxpayer-advocate",
-  "type": "html"
+  "type": "html",
+  "topic": "auxiliary_or_admin",
+  "subtopic": "administrative_guidance",
+  "source_type": "guidance",
+  "doc_family": "taxpayer-advocate",
+  "priority": 1
 }

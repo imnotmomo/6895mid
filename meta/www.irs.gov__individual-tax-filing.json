@@ -1,4 +1,9 @@
 {
   "url": "https://www.irs.gov/individual-tax-filing",
-  "type": "html"
+  "type": "html",
+  "topic": "general_individual_tax",
+  "subtopic": "filing_and_procedures",
+  "source_type": "guidance",
+  "doc_family": "individual-tax-filing",
+  "priority": 2
 }

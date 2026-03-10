@@ -1,4 +1,9 @@
 {
   "url": "https://www.irs.gov/appeals",
-  "type": "html"
+  "type": "html",
+  "topic": "auxiliary_or_admin",
+  "subtopic": "administrative_guidance",
+  "source_type": "guidance",
+  "doc_family": "appeals",
+  "priority": 1
 }

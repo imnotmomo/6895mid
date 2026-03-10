@@ -1,4 +1,9 @@
 {
   "url": "https://www.irs.gov/forms-pubs/about-form-w-7",
-  "type": "html"
+  "type": "html",
+  "topic": "general_individual_tax",
+  "subtopic": "filing_and_procedures",
+  "source_type": "about_form",
+  "doc_family": "w-7",
+  "priority": 2
 }

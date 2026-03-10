@@ -1,4 +1,9 @@
 {
   "url": "https://www.irs.gov/publications/p551",
-  "type": "html"
+  "type": "html",
+  "topic": "property_transactions",
+  "subtopic": "basis_rules",
+  "source_type": "publication",
+  "doc_family": "p551",
+  "priority": 3
 }

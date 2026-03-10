@@ -1,4 +1,9 @@
 {
   "url": "https://www.irs.gov/publications/p936",
-  "type": "html"
+  "type": "html",
+  "topic": "deductions_and_credits",
+  "subtopic": "home_mortgage_interest",
+  "source_type": "publication",
+  "doc_family": "p936",
+  "priority": 3
 }

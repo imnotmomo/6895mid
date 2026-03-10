@@ -1,4 +1,9 @@
 {
   "url": "https://www.irs.gov/credits-deductions/individuals/child-tax-credit",
-  "type": "html"
+  "type": "html",
+  "topic": "gift_estate_and_charitable",
+  "subtopic": "individual_credits_and_dependents",
+  "source_type": "guidance",
+  "doc_family": "child-tax-credit",
+  "priority": 2
 }

@@ -1,4 +1,9 @@
 {
   "url": "https://www.irs.gov/instructions/i6198",
-  "type": "html"
+  "type": "html",
+  "topic": "passive_activity_and_at_risk",
+  "subtopic": "at_risk_limits",
+  "source_type": "instruction",
+  "doc_family": "i6198",
+  "priority": 3
 }

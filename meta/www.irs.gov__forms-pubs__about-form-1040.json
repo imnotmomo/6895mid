@@ -1,4 +1,9 @@
 {
   "url": "https://www.irs.gov/forms-pubs/about-form-1040",
-  "type": "html"
+  "type": "html",
+  "topic": "general_individual_tax",
+  "subtopic": "core_filing_rules",
+  "source_type": "about_form",
+  "doc_family": "1040",
+  "priority": 2
 }

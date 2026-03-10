@@ -1,4 +1,9 @@
 {
   "url": "https://www.irs.gov/forms-pubs/about-form-9465",
-  "type": "html"
+  "type": "html",
+  "topic": "general_individual_tax",
+  "subtopic": "filing_and_procedures",
+  "source_type": "about_form",
+  "doc_family": "9465",
+  "priority": 2
 }

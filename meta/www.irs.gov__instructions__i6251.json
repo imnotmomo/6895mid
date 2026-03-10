@@ -1,4 +1,9 @@
 {
   "url": "https://www.irs.gov/instructions/i6251",
-  "type": "html"
+  "type": "html",
+  "topic": "auxiliary_or_admin",
+  "subtopic": "administrative_guidance",
+  "source_type": "instruction",
+  "doc_family": "i6251",
+  "priority": 3
 }

@@ -1,4 +1,9 @@
 {
   "url": "https://www.irs.gov/help/ita/how-much-is-my-standard-deduction",
-  "type": "html"
+  "type": "html",
+  "topic": "auxiliary_or_admin",
+  "subtopic": "administrative_guidance",
+  "source_type": "guidance",
+  "doc_family": "how-much-is-my-standard-deduction",
+  "priority": 1
 }

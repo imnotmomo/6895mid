@@ -1,4 +1,9 @@
 {
   "url": "https://www.irs.gov/help/ita/how-do-i-report-the-debt-forgiven-on-my-residence-due-to-foreclosure-repossession-abandonment-or-because-of-a-loan-modification-or-short-sale",
-  "type": "html"
+  "type": "html",
+  "topic": "property_transactions",
+  "subtopic": "principal_residence",
+  "source_type": "guidance",
+  "doc_family": "how-do-i-report-the-debt-forgiven-on-my-residence-due-to-foreclosure-repossessio",
+  "priority": 2
 }

@@ -1,4 +1,9 @@
 {
   "url": "https://www.irs.gov/filing/file-an-amended-return",
-  "type": "html"
+  "type": "html",
+  "topic": "general_individual_tax",
+  "subtopic": "amended_returns",
+  "source_type": "guidance",
+  "doc_family": "file-an-amended-return",
+  "priority": 2
 }

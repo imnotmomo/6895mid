@@ -1,4 +1,9 @@
 {
   "url": "https://www.irs.gov/credits-deductions/clean-vehicle-and-energy-credits",
-  "type": "html"
+  "type": "html",
+  "topic": "deductions_and_credits",
+  "subtopic": "credits_and_itemized_deductions",
+  "source_type": "guidance",
+  "doc_family": "clean-vehicle-and-energy-credits",
+  "priority": 2
 }

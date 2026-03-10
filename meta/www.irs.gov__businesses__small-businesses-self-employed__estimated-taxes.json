@@ -1,4 +1,9 @@
 {
   "url": "https://www.irs.gov/businesses/small-businesses-self-employed/estimated-taxes",
-  "type": "html"
+  "type": "html",
+  "topic": "general_individual_tax",
+  "subtopic": "withholding_and_estimated_tax",
+  "source_type": "guidance",
+  "doc_family": "estimated-taxes",
+  "priority": 2
 }

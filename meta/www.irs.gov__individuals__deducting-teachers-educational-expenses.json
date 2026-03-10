@@ -1,4 +1,9 @@
 {
   "url": "https://www.irs.gov/individuals/deducting-teachers-educational-expenses",
-  "type": "html"
+  "type": "html",
+  "topic": "education_and_credits",
+  "subtopic": "education_benefits",
+  "source_type": "guidance",
+  "doc_family": "deducting-teachers-educational-expenses",
+  "priority": 2
 }

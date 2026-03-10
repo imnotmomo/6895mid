@@ -1,4 +1,9 @@
 {
   "url": "https://www.irs.gov/newsroom/how-to-correct-an-electronically-filed-return-rejected-for-a-missing-form-8962",
-  "type": "html"
+  "type": "html",
+  "topic": "auxiliary_or_admin",
+  "subtopic": "administrative_guidance",
+  "source_type": "newsroom",
+  "doc_family": "how-to-correct-an-electronically-filed-return-rejected-for-a-missing-form-8962",
+  "priority": 1
 }

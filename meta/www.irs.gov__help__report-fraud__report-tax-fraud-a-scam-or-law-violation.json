@@ -1,4 +1,9 @@
 {
   "url": "https://www.irs.gov/help/report-fraud/report-tax-fraud-a-scam-or-law-violation",
-  "type": "html"
+  "type": "html",
+  "topic": "auxiliary_or_admin",
+  "subtopic": "administrative_guidance",
+  "source_type": "guidance",
+  "doc_family": "report-tax-fraud-a-scam-or-law-violation",
+  "priority": 1
 }

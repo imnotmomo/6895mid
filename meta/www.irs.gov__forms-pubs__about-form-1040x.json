@@ -1,4 +1,9 @@
 {
   "url": "https://www.irs.gov/forms-pubs/about-form-1040x",
-  "type": "html"
+  "type": "html",
+  "topic": "general_individual_tax",
+  "subtopic": "amended_returns",
+  "source_type": "about_form",
+  "doc_family": "1040x",
+  "priority": 2
 }

@@ -1,4 +1,9 @@
 {
   "url": "https://www.irs.gov/filing/wheres-my-amended-return",
-  "type": "html"
+  "type": "html",
+  "topic": "general_individual_tax",
+  "subtopic": "amended_returns",
+  "source_type": "guidance",
+  "doc_family": "wheres-my-amended-return",
+  "priority": 2
 }

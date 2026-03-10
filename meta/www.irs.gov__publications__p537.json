@@ -1,4 +1,9 @@
 {
   "url": "https://www.irs.gov/publications/p537",
-  "type": "html"
+  "type": "html",
+  "topic": "property_transactions",
+  "subtopic": "installment_sales",
+  "source_type": "publication",
+  "doc_family": "p537",
+  "priority": 3
 }

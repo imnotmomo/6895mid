@@ -1,4 +1,9 @@
 {
   "url": "https://www.irs.gov/individuals/tax-withholding-estimator",
-  "type": "html"
+  "type": "html",
+  "topic": "general_individual_tax",
+  "subtopic": "withholding_and_estimated_tax",
+  "source_type": "guidance",
+  "doc_family": "tax-withholding-estimator",
+  "priority": 2
 }

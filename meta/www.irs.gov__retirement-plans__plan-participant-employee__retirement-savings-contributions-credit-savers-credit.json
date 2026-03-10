@@ -1,4 +1,9 @@
 {
   "url": "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-savings-contributions-credit-savers-credit",
-  "type": "html"
+  "type": "html",
+  "topic": "retirement_and_financial_planning",
+  "subtopic": "retirement_rules",
+  "source_type": "guidance",
+  "doc_family": "retirement-savings-contributions-credit-savers-credit",
+  "priority": 2
 }
