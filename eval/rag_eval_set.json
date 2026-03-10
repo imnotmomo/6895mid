@@ -1,0 +1,47 @@
+[
+  {
+    "id": "rag_edu_aotc",
+    "query": "Do I qualify for the American Opportunity Tax Credit (AOTC)?",
+    "expected_sources_any": [
+      "p970",
+      "education-credits-aotc-and-llc"
+    ],
+    "notes": "Education credits should retrieve Pub 970 and/or IRS education credits guidance page."
+  },
+  {
+    "id": "rag_dep_ctc",
+    "query": "What are the requirements for the Child Tax Credit and qualifying child?",
+    "expected_sources_any": [
+      "child-tax-credit",
+      "p501"
+    ],
+    "notes": "Child/dependent credit should retrieve IRS child tax credit guidance and/or Pub 501."
+  },
+  {
+    "id": "rag_income_taxable",
+    "query": "Is scholarship income taxable and when is it excluded?",
+    "expected_sources_any": [
+      "p525",
+      "p17"
+    ],
+    "notes": "Taxable vs nontaxable income should retrieve Pub 525 or Pub 17 sections."
+  },
+  {
+    "id": "rag_ira_deduction",
+    "query": "Can I deduct IRA contributions and what affects eligibility?",
+    "expected_sources_any": [
+      "p590a",
+      "ira-deduction-limits"
+    ],
+    "notes": "IRA deduction should retrieve Pub 590-A and/or IRA deduction limits guidance."
+  },
+  {
+    "id": "rag_capital_gains",
+    "query": "How are capital gains and losses taxed for individuals?",
+    "expected_sources_any": [
+      "tc409",
+      "p17"
+    ],
+    "notes": "Capital gains/losses should retrieve Tax Topic 409 and/or Pub 17."
+  }
+]
