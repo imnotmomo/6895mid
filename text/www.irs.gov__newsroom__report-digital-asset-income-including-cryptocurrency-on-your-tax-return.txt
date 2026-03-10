@@ -1,0 +1,5 @@
+IRS newsroom article on reporting digital asset income.
+
+The IRS says any income earned from digital asset transactions must be reported on the federal tax return. Examples mentioned by the IRS include cryptocurrency, stablecoins, non-fungible tokens, and rewards income from staking or earn programs.
+
+The IRS states that taxpayers filing Form 1040, 1040-SR, 1040-NR, 1041, 1065, 1120, or 1120-S must answer the digital asset question and report earned income from digital asset transactions.

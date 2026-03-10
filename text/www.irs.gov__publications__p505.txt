@@ -1,0 +1,6 @@
+Publication 505 (2025), Tax Withholding and Estimated Tax
+Source: https://www.irs.gov/publications/p505
+
+- Publication 505 is the IRS guide for withholding and estimated tax.
+- Use it for questions about Form W-4 adjustments, quarterly estimated tax payments, underpayment safe harbors, and coordinating withholding across multiple jobs or income sources.
+- This publication is useful when the user asks how much to withhold, whether estimated payments are needed, or how to avoid underpayment penalties.

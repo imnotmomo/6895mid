@@ -1,0 +1,13 @@
+IRS FAQs on digital asset transactions.
+
+The IRS defines a digital asset as a digital representation of value recorded on a cryptographically secured distributed ledger or similar technology, excluding cash.
+
+Highlights from the FAQ set:
+- Gain or loss on the sale of digital assets for U.S. dollars generally equals adjusted basis minus amount realized, with amount realized reduced by allocable digital asset transaction costs.
+- Digital asset transaction costs can include transaction fees, gas fees, transfer taxes, and commissions paid to effect a purchase, sale, or disposition.
+- If digital assets are purchased with cash, basis generally includes the cash paid plus transaction costs allocable to the purchase.
+- If digital assets are received for services, the taxpayer generally recognizes ordinary income equal to fair market value in U.S. dollars when received, and that fair market value generally becomes basis.
+- If digital assets are exchanged for other digital assets differing materially in kind or extent, basis in the digital assets received is generally their cost, measured by the fair market value used to determine amount realized on the disposition.
+- The FAQ set addresses basis from gifts, exchanges, debt instruments, and hard forks.
+- Individuals report capital gain or loss from digital assets on the applicable capital gain forms and report non-business ordinary income on Form 1040, 1040-SS, 1040-NR, or Schedule 1 as applicable.
+- Income from digital assets received after a hard fork is generally ordinary income equal to fair market value when received, assuming dominion and control.

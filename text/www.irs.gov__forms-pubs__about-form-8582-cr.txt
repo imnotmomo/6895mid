@@ -1,0 +1,10 @@
+About Form 8582-CR, Passive Activity Credit Limitations
+Source: IRS About Form 8582-CR page
+
+IRS description:
+- Noncorporate taxpayers use Form 8582-CR to figure the amount of any passive activity credit for the current tax year, including prior-year unallowed credits, and the amount of credit allowed for the current year.
+- Form 8582-CR is also used to make the election to increase the basis of credit property when a taxpayer disposes of an interest in an activity.
+
+Related context:
+- Publication 925 and Topic no. 425 both point to Form 8582-CR when passive activity credits are relevant.
+- This form is useful for questions where passive credits, rather than passive losses, are the bottleneck.

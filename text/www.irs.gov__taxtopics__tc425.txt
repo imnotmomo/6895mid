@@ -1,0 +1,15 @@
+Topic no. 425, Passive activities – Losses and credits
+Source: IRS Topic no. 425
+
+IRS summary points:
+- Active participation is a less stringent standard than material participation.
+- Publication 925 contains the guidelines for determining material participation, real estate professional rules, active participation, and special rules for publicly traded partnership passive items.
+
+Disposition of entire interest:
+- Generally, you may fully deduct previously disallowed passive activity losses in the year you dispose of your entire interest in the activity.
+- Unused passive activity credits are treated differently. You generally may not claim unused passive activity credits merely because you disposed of your entire interest.
+- However, you may elect to increase the basis of credit property by the portion of unused credit that previously reduced basis.
+
+Forms used:
+- Use Form 8582, Passive Activity Loss Limitations, to summarize passive income and losses and compute deductible passive losses.
+- Use Form 8582-CR, Passive Activity Credit Limitations, to summarize passive credits and compute allowed passive credits.

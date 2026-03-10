@@ -1,0 +1,13 @@
+Publication 527 (2025), Residential Rental Property
+Source: IRS Publication 527 page
+
+Passive activity limits section:
+- In most cases, all rental real estate activities are passive activities unless an exception applies, such as certain real estate professionals.
+- A rental activity is generally an activity where income is received mainly for the use of tangible property rather than for services.
+- Deductions or losses from passive activities are limited.
+- You generally cannot offset nonpassive income with passive losses, and you generally cannot offset tax on nonpassive income with passive credits.
+- Excess passive loss or credit is generally carried forward to the next tax year.
+- Exceptions for personal use of a dwelling and rental real estate with active participation are discussed in the publication.
+
+Cross-reference useful for RAG:
+- Publication 527 explicitly points readers back to Publication 925 for the discussion of rental activities that are not treated as rental activities and for broader passive activity rules.

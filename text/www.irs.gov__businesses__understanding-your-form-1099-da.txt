@@ -1,0 +1,9 @@
+IRS guidance on Form 1099-DA.
+
+Form 1099-DA, Digital Asset Proceeds From Broker Transactions, is used by brokers to report proceeds from and in some cases basis for digital asset dispositions to taxpayers and the IRS.
+
+The IRS says taxpayers must report all income, gains, and losses from digital asset transactions whether or not they receive Form 1099-DA.
+
+For 2025, the filing requirements generally apply to U.S. brokers. Taxpayers using foreign brokers may not receive Form 1099-DA, but taxable transactions through foreign brokers still must be reported.
+
+The IRS says Form 1099-DA may be issued when digital assets are disposed of for another digital asset, for U.S. dollars or other currency, for property, goods, or services, or to pay broker transaction costs with digital assets. Taxpayers should use the form together with their own records and must calculate basis before filing.

@@ -1,0 +1,9 @@
+{
+  "doc": "Frequently asked questions about broker reporting | Internal Revenue Service",
+  "url": "https://www.irs.gov/filing/frequently-asked-questions-about-broker-reporting",
+  "title": "Frequently asked questions about broker reporting | Internal Revenue Service",
+  "source_type": "irs_web",
+  "topic": "digital_assets",
+  "tax_year": "2025/2026 current guidance",
+  "text": "IRS FAQs about broker reporting for digital assets.\n\nThe IRS explains that broker reporting for digital assets arises from Internal Revenue Code section 6045 changes made by the Infrastructure Investment and Jobs Act. Treasury and the IRS issued final regulations requiring Form 1099-DA reporting for certain digital asset sale and exchange transactions beginning with transactions on or after January 1, 2025.\n\nThe FAQ page clarifies examples of when a business is or is not treated as effecting a sale transaction for broker reporting purposes. For example, merely providing custody and transferring assets to another exchange platform without effecting the sale generally does not itself create a reporting obligation in the example given by the IRS.\n\nThe broker reporting guidance expands on which intermediaries may have reporting obligations, including custodial trading platforms, certain hosted wallet providers, kiosks, and certain payment processors."
+}

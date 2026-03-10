@@ -1,0 +1,6 @@
+Instructions for Form 6251 (2025)
+Source: https://www.irs.gov/instructions/i6251
+
+- These are the IRS instructions for Form 6251, Alternative Minimum Tax for individuals.
+- Use them for AMT filing requirements, AMTI adjustments and preferences, exemption computation, prior-year minimum tax credit references, and related recordkeeping.
+- This instruction set matters when a fact pattern involves AMT-sensitive deductions, incentive stock options, or other AMT preference items.

@@ -1,0 +1,13 @@
+IRS FAQs on virtual currency transactions.
+
+The IRS states that virtual currency is treated as property for federal income tax purposes, and general tax principles for property transactions apply.
+
+Key points from the FAQ set:
+- Selling virtual currency for real currency generally triggers capital gain or loss, subject to normal capital loss limits.
+- Cryptocurrency is a type of virtual currency that uses cryptography and distributed ledger technology.
+- Virtual currency received by an independent contractor for services is generally self-employment income measured in U.S. dollars at the date of receipt and is subject to self-employment tax.
+- Virtual currency paid by an employer as remuneration for services is wages for employment tax purposes.
+- Gain or loss when using virtual currency to pay for services or exchanging it for property is generally the difference between fair market value received and adjusted basis in the virtual currency transferred.
+- If property exchanged for virtual currency is a capital asset, gain or loss is capital; if not, gain or loss is ordinary.
+
+The FAQ page cross-references Publication 544 for property transaction rules and Notice 2014-21 for tax treatment of virtual currency.

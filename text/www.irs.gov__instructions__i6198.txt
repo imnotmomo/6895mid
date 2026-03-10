@@ -1,0 +1,17 @@
+Instructions for Form 6198 (11/2025)
+Source: IRS Instructions for Form 6198
+
+Purpose of Form 6198:
+- Use Form 6198 to figure the profit or loss from an at-risk activity for the current year.
+- Use Form 6198 to figure the amount at risk for the current year.
+- Use Form 6198 to figure the deductible loss for the current year.
+- The at-risk rules of section 465 limit the amount of loss you can deduct to the amount at risk.
+- For more detail, the IRS points taxpayers to Publication 925.
+
+Who must file:
+- Form 6198 is filed by individuals, including filers of Schedules C, E, and F, as well as estates, trusts, and certain closely held C corporations.
+- File Form 6198 if you or a flow-through activity had amounts not at risk invested in an at-risk activity that incurred a loss.
+
+Use in the ordering of limitations:
+- At-risk limits apply before passive activity loss limits.
+- Form 6198 is therefore central for questions involving borrowed funds, nonrecourse financing, and whether a loss is deductible before Form 8582 is even applied.

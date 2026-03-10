@@ -1,0 +1,15 @@
+About Form 8582, Passive Activity Loss Limitations
+Source: IRS About Form 8582 page
+
+IRS description:
+- Noncorporate taxpayers use Form 8582 to figure the amount of any passive activity loss for the current tax year.
+- Form 8582 is also used to report the application of prior-year unallowed passive activity losses.
+
+Related IRS items called out on the page:
+- Publication 925, Passive Activity and At-Risk Rules
+- Form 6198, At-Risk Limitations
+- Form 8582-CR, Passive Activity Credit Limitations
+- Form 8949, Sales and Other Dispositions of Capital Assets
+
+Use in a passive-loss workflow:
+- After basis and at-risk limits are applied, Form 8582 is the main noncorporate form for determining how much passive loss is currently deductible and how much is carried forward.

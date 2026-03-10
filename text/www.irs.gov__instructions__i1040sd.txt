@@ -1,0 +1,6 @@
+Instructions for Schedule D (Form 1040) (2025)
+Source: https://www.irs.gov/instructions/i1040sd
+
+- These are the IRS instructions for Schedule D (Form 1040), Capital Gains and Losses.
+- Use them for capital asset classification, gain/loss netting, home sale cross-references, installment sale cross-references, wash sales, and capital loss limitation issues.
+- This instruction set helps answer questions about when a sale is reported on Schedule D and how it coordinates with Form 8949 and other schedules.

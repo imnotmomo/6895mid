@@ -1,0 +1,6 @@
+Instructions for Form 8824 (2025)
+Source: https://www.irs.gov/instructions/i8824
+
+- These are the IRS instructions for Form 8824, Like-Kind Exchanges.
+- Use them for reporting exchanges of business or investment real property, determining realized and recognized gain, tracking boot and liabilities, and computing basis in replacement property.
+- This instruction set is directly relevant to property-transaction benchmark questions involving section 1031 exchanges.

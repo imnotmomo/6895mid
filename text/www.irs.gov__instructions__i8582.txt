@@ -1,0 +1,29 @@
+Instructions for Form 8582 (2025)
+Source: IRS Instructions for Form 8582
+
+Purpose of Form 8582:
+- Form 8582 is used by noncorporate taxpayers to figure the amount of any passive activity loss for the current tax year and to report the application of prior-year unallowed passive activity losses.
+- A passive activity loss occurs when total passive losses, including prior-year unallowed losses, exceed total passive income.
+- Generally, passive activities include trade or business activities in which you did not materially participate and rental activities regardless of participation, unless an exception applies.
+
+Key filing rule:
+- Passive activity losses cannot be used to offset nonpassive income unless an exception applies.
+- Passive losses not allowed currently are carried forward until allowed against passive income, the special rental real estate allowance, or a fully taxable disposition of the entire interest to an unrelated party.
+
+Exception highlighted by the IRS:
+- You may not have to file Form 8582 if your only passive activities are rental real estate activities with active participation, you have no prior-year unallowed losses or credits, your total loss does not exceed $25,000 or $12,500 for certain married filing separately taxpayers, and your modified AGI is within the IRS threshold.
+
+Coordination with other limitations:
+- Passive activity losses are subject to other limitations, such as basis and at-risk limits, before passive loss limitations are applied.
+- Once a loss is allowable under basis and at-risk rules, you then determine whether it is limited under the passive loss rules.
+- The instructions specifically direct taxpayers to Form 6198 for at-risk rules.
+- After other loss limitations and passive loss limitations, noncorporate taxpayers may still need Form 461 for the excess business loss limitation.
+
+Trade or business activities section:
+- A trade or business activity for these rules is not a rental activity or an activity treated as incidental to holding property for investment.
+- These activities are generally reported on Schedule C, Schedule F, or Part II or III of Schedule E.
+
+Special allowance for rental real estate activities:
+- If you actively participated in a passive rental real estate activity, you may be able to deduct up to $25,000 of loss from the activity from nonpassive income.
+- The special allowance is not available if you were married, filed separately, and lived with your spouse at any time during the year.
+- Limited partners are not treated as actively participating in a partnership's rental real estate activity.

@@ -1,0 +1,6 @@
+Instructions for Schedule B (Form 1040) (2025)
+Source: https://www.irs.gov/instructions/i1040sb
+
+- These are the IRS instructions for Schedule B (Form 1040), Interest and Ordinary Dividends.
+- Use them for reporting taxable interest, ordinary dividends, nominee situations, OID items, tax-exempt interest disclosures, and foreign account reporting prompts tied to Schedule B.
+- This instruction set is useful when the issue is how portfolio-income items are reported rather than whether they are taxable in the abstract.

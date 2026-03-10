@@ -1,0 +1,16 @@
+About Form 6198, At-Risk Limitations
+Source: IRS About Form 6198 page
+
+IRS description:
+- Use Form 6198 to figure the profit or loss from an at-risk activity for the current year.
+- Use Form 6198 to figure the amount at risk for the current year.
+- Use Form 6198 to figure the deductible loss for the current year.
+
+Related IRS items called out on the page:
+- Publication 925, Passive Activity and At-Risk Rules
+- Publication 551, Basis of Assets
+- Form 8582, Passive Activity Loss Limitations
+- Form 4952, Investment Interest Expense Deduction
+
+Workflow note for RAG:
+- Form 6198 sits before Form 8582 in the ordering of common noncorporate loss limitations. It helps determine how much of a business or rental activity loss survives the at-risk rules before passive loss rules are applied.

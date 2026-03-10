@@ -1,0 +1,12 @@
+IRS fact sheet on final digital asset broker reporting regulations.
+
+Treasury and the IRS issued final regulations on reporting by brokers for certain sale or exchange transactions involving digital assets. The IRS states this reporting is required on Form 1099-DA for transactions on or after January 1, 2025.
+
+The regulations apply to brokers that take possession of digital assets being sold for customers. The guidance discusses gain and loss computation rules, basis determination rules, and backup withholding rules.
+
+The IRS also describes phased implementation:
+- gross proceeds reporting for transactions on or after January 1, 2025,
+- basis reporting for certain transactions on or after January 1, 2026,
+- and additional real-estate-related reporting beginning in 2026.
+
+The IRS notes that some transactions, including certain staking, wrapping and unwrapping, liquidity provider, and similar transactions, received transition guidance or delayed reporting treatment under related notices.

@@ -1,0 +1,6 @@
+Credits and deductions for individuals
+Source: https://www.irs.gov/credits-deductions-for-individuals
+
+- This IRS page is a hub for credits and deductions available to individual taxpayers.
+- Use it as a routing page when the question asks broadly about which credits or deductions may apply to an individual or household.
+- It is helpful for steering retrieval toward more specific credit and deduction pages when the user question is still broad.

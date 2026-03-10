@@ -1,0 +1,6 @@
+Instructions for Form 8949 (2025)
+Source: https://www.irs.gov/instructions/i8949
+
+- These are the IRS instructions for Form 8949, Sales and Other Dispositions of Capital Assets.
+- Use them for broker statement adjustments, basis reporting categories, digital asset transaction boxes, short-term versus long-term sales, and the transfer of totals to Schedule D.
+- This instruction set is essential when the issue is detailed reporting of capital asset sales.
