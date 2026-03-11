@@ -40,8 +40,10 @@
     "query": "How are capital gains and losses taxed for individuals?",
     "expected_sources_any": [
       "tc409",
-      "p17"
+      "p17",
+      "p550",
+      "p544"
     ],
-    "notes": "Capital gains/losses should retrieve Tax Topic 409 and/or Pub 17."
+    "notes": "Capital gains/losses should retrieve Tax Topic 409, Pub 17, Pub 550 (Investment Income ch.2), or Pub 544 (Sales/Dispositions ch.2)."
   }
 ]
