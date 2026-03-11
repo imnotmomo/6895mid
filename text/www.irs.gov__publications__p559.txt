@@ -1,0 +1,148 @@
+IRS Publication 559 – Survivors, Executors, and Administrators / Gift and Estate Tax Rules (Full Reference)
+
+OVERVIEW
+Publication 559 provides information for personal representatives (executors, administrators) and survivors of decedents. It covers the tax responsibilities including filing the final return, estate income tax, estate tax, and the basis rules for inherited property. This reference also incorporates gift tax rules from IRS guidance.
+
+PART I: GIFT TAX RULES
+
+Federal Gift Tax Overview
+The federal gift tax applies to transfers of property by gift during a person's lifetime. A gift is any transfer to an individual, either directly or indirectly, where full consideration (measured in money or money's worth) is not received in return.
+
+Gift Tax Annual Exclusion
+The gift tax annual exclusion allows a donor to give up to a certain amount per recipient per year without any gift tax consequences and without using any of the lifetime exemption.
+
+Annual exclusion amounts:
+- 2024: $18,000 per recipient
+- 2025: $19,000 per recipient
+
+The exclusion applies per donee (recipient), so a donor can give $19,000 (2025) to any number of people without gift tax consequences.
+
+Gift Splitting: Married couples can elect to split gifts, meaning each spouse is treated as making half of the gift. This effectively doubles the annual exclusion to $38,000 (2025) per recipient. Gift splitting must be elected on a gift tax return (Form 709) and applies to all gifts made during the year.
+
+Taxable Gifts
+A taxable gift is the total amount of gifts made during the year, minus:
+- The annual exclusion for each donee ($19,000 for 2025)
+- Charitable gifts
+- Gifts to a U.S. citizen spouse (unlimited marital deduction)
+- Qualified transfers for medical expenses (paid directly to the medical provider)
+- Qualified transfers for education (tuition paid directly to the educational institution)
+
+Unified Credit / Lifetime Exemption
+The unified credit (also called the applicable exclusion amount or lifetime exemption) offsets both gift tax and estate tax. It is a cumulative lifetime amount.
+
+Unified credit / lifetime exemption amounts:
+- 2024: $13.61 million per person
+- 2025: $13.99 million per person
+- This amount is scheduled to be reduced by approximately half after 2025 (under the sunset provisions of the Tax Cuts and Jobs Act), unless Congress acts to extend it.
+
+If total taxable gifts (above the annual exclusion) over a lifetime exceed the lifetime exemption, gift tax is owed at rates up to 40%.
+
+Transfers Not Subject to Gift Tax
+The following are NOT gifts for gift tax purposes:
+- Transfers for full and adequate consideration
+- Qualified transfers for medical expenses (paid directly to the provider)
+- Qualified transfers for tuition (paid directly to the educational institution)
+- Transfers to a U.S. citizen spouse (unlimited marital deduction)
+- Transfers to qualified charities
+- Transfers to political organizations
+
+Transfers Subject to Gift Tax
+The following ARE gifts:
+- Below-market sales to family members (the difference between FMV and the sale price is a gift)
+- Interest-free or below-market loans to family members (the foregone interest may be treated as a gift)
+- Adding a joint tenant to property (may be a gift of half the value)
+- Forgiving a debt owed by a family member (the forgiven amount is a gift)
+- Paying someone's debts (if not a qualified medical or educational transfer)
+
+Common Gift Tax Scenarios Tested on Exams:
+
+Scenario: Cash gift to multiple recipients
+Mann makes a $5,000 cash gift to his church (charitable, not subject to gift tax) and a $14,000 cash gift to a friend.
+Gift to church: Not a taxable gift (charitable deduction).
+Gift to friend: $14,000. If annual exclusion is $18,000, the gift is entirely covered by the exclusion. No taxable gift.
+
+Scenario: Which payments include a taxable gift?
+- Payment of a friend's mortgage: This is a gift (not a qualified medical or educational transfer). Subject to gift tax above the annual exclusion.
+- Payment of a grandchild's tuition directly to the university: NOT a taxable gift (qualified educational transfer, excluded regardless of amount).
+- Payment of a grandchild's medical bills directly to the hospital: NOT a taxable gift (qualified medical transfer, excluded regardless of amount).
+- Transfer between spouses: NOT a taxable gift (marital deduction for U.S. citizen spouses).
+
+Scenario: Gift of below-market sale
+John sells his house (FMV $500,000) to his adult child for $375,000. The difference ($125,000) is a gift. The gift is reduced by the annual exclusion ($19,000 for 2025), so the taxable gift is $106,000. This uses $106,000 of John's lifetime exemption. No gift tax is owed unless the lifetime exemption is exceeded.
+
+PART II: ESTATE TAX
+
+Estate Tax Overview
+The federal estate tax is a tax on the transfer of a decedent's estate at death. The estate includes all property owned by the decedent at death, certain transfers made during life, and the decedent's share of joint property.
+
+Gross Estate
+The gross estate includes:
+- Real property, personal property, and financial assets owned at death
+- Life insurance proceeds on policies owned by the decedent (or policies transferred within 3 years of death)
+- Jointly held property (generally 50% for spouses, or the portion attributable to the decedent's contribution for non-spouses)
+- Property over which the decedent held a general power of appointment
+- Certain transfers made within 3 years of death
+- Annuities and retirement account balances
+
+Deductions from the Gross Estate:
+- Marital deduction (unlimited for property passing to a U.S. citizen surviving spouse)
+- Charitable deduction (for bequests to qualifying charities)
+- Debts, mortgages, and liens
+- Funeral expenses
+- Administration expenses (executor fees, attorney fees, court costs)
+- State death taxes (limited deduction or credit)
+
+Taxable Estate = Gross estate - Deductions
+
+Estate Tax Computation
+Step 1: Compute the tentative tax on the taxable estate plus adjusted taxable gifts (gifts made after 1976 that exceeded the annual exclusion).
+Step 2: Subtract the tentative tax on adjusted taxable gifts alone.
+Step 3: Subtract the unified credit ($13.99 million equivalent for 2025, which eliminates tax on estates up to that amount).
+Step 4: Subtract any other credits (state death tax credit, etc.).
+
+The estate tax rate is a flat 40% on amounts exceeding the exemption.
+
+Portability of Unused Exclusion
+If the first spouse to die does not fully use their estate tax exemption, the unused portion (the "deceased spousal unused exclusion" or DSUE) can be transferred to the surviving spouse. The surviving spouse can then use both their own exemption and the DSUE. Portability must be elected by filing Form 706 (estate tax return) for the first spouse to die, even if no tax is owed.
+
+PART III: BASIS OF INHERITED PROPERTY
+
+Step-Up (or Step-Down) in Basis
+Property inherited from a decedent generally receives a new basis equal to the fair market value (FMV) at the date of the decedent's death. This is commonly called the "step-up in basis" (or step-down, if the FMV is less than the decedent's basis).
+
+Alternate Valuation Date: The executor can elect to use the FMV 6 months after the date of death instead of the date of death FMV, but only if this election reduces both the gross estate and the estate tax liability.
+
+Community Property: For community property states, when one spouse dies, BOTH halves of community property receive a step-up to FMV at the date of death (not just the decedent's half). This is a significant advantage of community property.
+
+Basis of Gifted Property (Compared to Inherited Property):
+Property received by GIFT: Carryover basis (donor's basis), subject to the dual basis rule for losses (use FMV at date of gift if less than donor's basis). NO step-up.
+Property received by INHERITANCE: Stepped-up (or stepped-down) basis to FMV at date of death.
+
+This distinction is critical for tax planning. Appreciated property is better transferred at death (step-up eliminates the gain) than by gift during life (carryover basis preserves the gain).
+
+Example: Elderly taxpayer owns an asset with basis of $50,000 and FMV of $300,000.
+If gifted: Donee's basis = $50,000 (carryover). If donee sells for $300,000, gain = $250,000.
+If inherited: Heir's basis = $300,000 (stepped up to FMV at death). If heir sells for $300,000, gain = $0.
+
+Example: RV Gift vs. Inheritance
+Lila purchased an RV for $75,000. At her death, the RV's FMV is $20,000. Her beneficiary inherits the RV.
+Beneficiary's basis = $20,000 (FMV at death — stepped DOWN from $75,000 to $20,000).
+If beneficiary sells for $15,000: Loss = $15,000 - $20,000 = ($5,000).
+If Lila had gifted the RV before death (when FMV was $20,000):
+For gain: Donee uses $75,000 basis (carryover). For loss: Donee uses $20,000 (FMV at gift date).
+
+PART IV: INCOME IN RESPECT OF A DECEDENT (IRD)
+
+Income in Respect of a Decedent (IRD) is income that the decedent had earned or was entitled to before death but had not yet received or reported. IRD does NOT receive a step-up in basis. Examples include: unpaid salary, accrued interest, IRA/retirement account distributions, installment sale payments.
+
+IRD is included in the decedent's gross estate for estate tax purposes AND is taxable as income to the recipient when received. To avoid double taxation, the recipient can claim an itemized deduction for the federal estate tax attributable to the IRD included in the estate.
+
+PART V: FILING REQUIREMENTS
+
+Final Individual Return (Form 1040): The personal representative must file the decedent's final income tax return covering the period from January 1 to the date of death.
+
+Estate Income Tax Return (Form 1041): Required if the estate has gross income of $600 or more during the tax year. The estate is a separate taxpayer.
+
+Estate Tax Return (Form 706): Required if the gross estate plus adjusted taxable gifts exceeds the filing threshold ($13.99 million for 2025 deaths). Also required to elect portability even if no tax is owed.
+
+Gift Tax Return (Form 709): Required if the donor made gifts exceeding the annual exclusion, elected gift splitting, or made gifts of future interests.

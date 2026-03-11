@@ -1,39 +1,124 @@
-Publication 537, Installment Sales.
+IRS Publication 537 – Installment Sales (Full Reference)
 
-This document summarizes IRS guidance on installment-sale reporting.
+OVERVIEW
+Publication 537 covers the installment method of reporting gain from the sale of property. An installment sale is a disposition of property where at least one payment is to be received after the close of the tax year in which the disposition occurs. Under the installment method, gain is reported proportionally as payments are received.
 
-Basic rule:
-An installment sale is a disposition of property where at least one payment is received after the tax year of the sale.
+WHAT IS AN INSTALLMENT SALE?
+An installment sale is a sale of property where you receive at least one payment after the tax year of the sale. The installment method allows you to defer the tax on the gain by reporting a proportionate share of the gain with each payment received. The installment method applies automatically to qualifying sales unless the taxpayer elects out.
 
-Installment method:
-Under the installment method, gain is generally reported proportionately as payments are received rather than entirely in the year of sale, unless an exception or election applies.
+The installment method CANNOT be used for:
+- Sales of inventory
+- Sales of dealer property (property held for sale to customers in the ordinary course of business)
+- Sales of stocks, securities, or other publicly traded property
+- Depreciation recapture income (which must be reported in full in the year of sale, regardless of payments received)
 
-Gross profit percentage:
-The fraction used to determine gain recognized on each principal payment is the gross profit percentage. Gross profit percentage generally equals gross profit divided by contract price.
+KEY TERMS AND FORMULAS
 
-Gross profit:
-Gross profit is generally selling price minus adjusted basis minus selling expenses, with adjustments as described in the publication.
+Selling Price
+The selling price is the total price for the property. It includes money, the FMV of any other property received, any existing mortgage or debt the buyer assumes, and any selling expenses paid by the buyer.
 
-Contract price:
-Contract price reflects the amount the seller is entitled to receive for the property under the installment-sale rules and is used in the denominator of the gross profit percentage.
+Adjusted Basis
+The adjusted basis is generally the original cost of the property, plus improvements, minus depreciation.
 
-Interest:
-Stated or imputed interest is not part of the gain percentage calculation. Interest is generally reported separately from gain.
+Gross Profit
+Gross profit = Selling price - Adjusted basis - Selling expenses
+This is the total gain to be recognized over the life of the installment agreement.
 
-Depreciation recapture and certain gain components:
-Recapture income and certain other amounts may have to be recognized in the year of sale rather than deferred under the installment method.
+Contract Price
+The contract price is the total of all payments to be received directly by the seller.
+Contract price = Selling price - Mortgages/liens assumed by buyer (but only to the extent they do NOT exceed the seller's adjusted basis)
 
-Related-party and special-property rules:
-The publication describes special rules for related-party sales and other special situations.
+CRITICAL RULE: If the mortgage assumed by the buyer EXCEEDS the seller's adjusted basis:
+Contract price = Selling price - Adjusted basis
+(The excess of mortgage over basis is treated as a deemed payment received in the year of sale)
 
-Cross-reference to asset-disposition rules:
-Publication 537 works together with Publication 544 and Publication 551 because installment-sale questions often still require determination of adjusted basis, realized gain, and asset character.
+Gross Profit Percentage (Gross Profit Ratio)
+Gross profit percentage = Gross profit / Contract price
 
-Useful decision sequence for installment-sale questions:
-1. Confirm that at least one payment is received after the year of sale.
-2. Compute selling price, adjusted basis, selling expenses, and gross profit.
-3. Compute contract price.
-4. Compute gross profit percentage.
-5. Apply that percentage to each principal payment received to determine recognized gain.
-6. Separate and report any interest component.
-7. Check for recapture or special rules that require immediate recognition.
+This percentage is applied to each payment received to determine the taxable gain portion of that payment.
+
+Payment in Year of Sale
+Payment in the year of sale includes:
+- Down payment (cash received at closing)
+- The excess of the mortgage assumed by buyer over the seller's adjusted basis (if applicable)
+- Any other property or payment received in the year of sale
+
+Installment Sale Income Formula
+For each year, the installment sale income (gain recognized) is:
+Installment sale income = Payments received x Gross profit percentage
+
+DETAILED WORKED EXAMPLES
+
+Example 1: Basic Installment Sale (No Mortgage)
+A taxpayer sells land with an adjusted basis of $60,000 for $100,000. The buyer pays $20,000 down and will pay $20,000 per year for 4 years, plus adequate interest.
+
+Selling price: $100,000
+Adjusted basis: $60,000
+Gross profit: $100,000 - $60,000 = $40,000
+Contract price: $100,000 (no mortgage assumed)
+Gross profit percentage: $40,000 / $100,000 = 40%
+
+Year of sale: $20,000 payment x 40% = $8,000 gain recognized
+Each subsequent year: $20,000 x 40% = $8,000 gain recognized
+
+Example 2: Installment Sale with Mortgage Assumed (Mortgage Does Not Exceed Basis)
+A taxpayer sells property (adjusted basis $120,000) for $200,000. The property is subject to a $75,000 mortgage that the buyer assumes. The buyer pays $25,000 down and gives a note for $100,000.
+
+Selling price: $200,000
+Adjusted basis: $120,000
+Gross profit: $200,000 - $120,000 = $80,000
+Mortgage assumed by buyer: $75,000 (does NOT exceed basis of $120,000)
+Contract price: $200,000 - $75,000 = $125,000
+Gross profit percentage: $80,000 / $125,000 = 64%
+
+Payment in year of sale: $25,000 (down payment only; mortgage does not count as payment since it does not exceed basis)
+Gain in year of sale: $25,000 x 64% = $16,000
+
+Example 3: Installment Sale with Mortgage EXCEEDING Basis
+A taxpayer sells land (adjusted basis $80,000) for $200,000. The land is subject to a $100,000 mortgage assumed by the buyer. The buyer pays $10,000 down and a note for $90,000.
+
+Selling price: $200,000
+Adjusted basis: $80,000
+Gross profit: $200,000 - $80,000 = $120,000
+
+Mortgage assumed: $100,000 EXCEEDS basis of $80,000
+Excess mortgage over basis: $100,000 - $80,000 = $20,000
+
+Contract price: $200,000 - $80,000 = $120,000
+(When mortgage exceeds basis, contract price = selling price - basis)
+
+Gross profit percentage: $120,000 / $120,000 = 100%
+
+Payment in year of sale: $10,000 (down payment) + $20,000 (excess mortgage over basis) = $30,000
+Gain in year of sale: $30,000 x 100% = $30,000
+
+Example 4: Benchmark-Style Problem — Installment Sale Contract Price
+An accrual-basis taxpayer sold land for $100,000 on July 1, Year 1, and received a $10,000 down payment. The buyer assumed the existing $30,000 mortgage. The remaining $60,000 balance was payable in equal annual installments beginning Year 2, plus interest at 10%.
+
+The land had an adjusted basis of $60,000.
+
+Selling price: $100,000
+Adjusted basis: $60,000
+Gross profit: $100,000 - $60,000 = $40,000
+
+Mortgage assumed: $30,000 (does NOT exceed $60,000 basis)
+Contract price: $100,000 - $30,000 = $70,000
+
+Gross profit percentage: $40,000 / $70,000 = 57.14%
+
+Payment in year of sale: $10,000 (down payment)
+Gain in year of sale: $10,000 x 57.14% = $5,714
+
+The $30,000 mortgage assumption is NOT a payment because it does not exceed the adjusted basis. The interest payments are reported separately as interest income.
+
+DEPRECIATION RECAPTURE
+Any depreciation recapture (Section 1245 or Section 1250) must be reported in the year of sale, regardless of when payments are received. It is not spread over the installment payments. The recapture income is added to the basis for purposes of computing the installment sale gain on the remaining payments.
+
+RELATED PARTY INSTALLMENT SALES
+If you sell property to a related party on the installment plan, and the related party resells the property within 2 years, all remaining installment payments are treated as received at the time of the resale (triggering gain recognition). This anti-abuse rule prevents the use of installment sales to related parties as a mechanism to defer gain when the property is quickly resold for cash.
+
+INTEREST ON DEFERRED TAX LIABILITY
+For installment sales with a selling price over $150,000 (excluding personal-use property and farm property), the taxpayer may be required to pay interest on the deferred tax liability if the face amount of all installment obligations exceeds $5 million at the end of the tax year.
+
+ELECTING OUT OF THE INSTALLMENT METHOD
+A taxpayer can elect out of the installment method by reporting the full gain in the year of sale. This election must be made on the return for the year of sale and is generally irrevocable without IRS consent.

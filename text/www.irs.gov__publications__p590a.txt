@@ -1,6 +1,81 @@
-Publication 590-A (2025), Contributions to Individual Retirement Arrangements (IRAs)
-Source: https://www.irs.gov/publications/p590a
+IRS Publication 590-A – Contributions to Individual Retirement Arrangements (IRAs) (Full Reference)
 
-- Publication 590-A is the IRS guide to contributions to individual retirement arrangements (IRAs).
-- Use it for questions about contribution eligibility, compensation requirements, deduction limits, Roth versus traditional IRA contribution rules, excess contributions, and rollovers into IRAs.
-- This publication is especially important for contribution-year planning and deduction analysis.
+OVERVIEW
+Publication 590-A covers the rules for contributing to traditional IRAs and Roth IRAs. It explains who can contribute, how much can be contributed, when contributions can be made, and the tax treatment of contributions.
+
+CHAPTER 1: TRADITIONAL IRA CONTRIBUTIONS
+
+Who Can Contribute
+You can contribute to a traditional IRA if you (or your spouse, if filing jointly) received taxable compensation during the year and you were not age 70-1/2 or older at the end of the tax year (this age limit was removed for tax years beginning after 2019 by the SECURE Act — for 2020 and later, there is no age limit for traditional IRA contributions).
+
+Compensation includes wages, salaries, tips, professional fees, bonuses, commissions, self-employment income, alimony (for divorces finalized before 2019), and nontaxable combat pay.
+
+Contribution Limits (2025):
+- Under age 50: $7,000
+- Age 50 or older: $8,000 (includes $1,000 catch-up contribution)
+- Total contributions to all traditional and Roth IRAs cannot exceed the annual limit or your taxable compensation, whichever is less.
+
+Spousal IRA: If you file a joint return and your spouse has little or no compensation, you can contribute to your spouse's IRA. The combined contribution to both your IRA and your spouse's IRA cannot exceed your combined taxable compensation or double the annual limit (whichever is less).
+
+Tax Deduction for Traditional IRA Contributions
+Whether your traditional IRA contributions are deductible depends on whether you (or your spouse) are covered by an employer-sponsored retirement plan and your income level.
+
+If NEITHER you NOR your spouse is covered by an employer plan: Your full contribution is deductible regardless of income.
+
+If YOU are covered by an employer plan:
+- Single/HOH: Fully deductible if MAGI <= $79,000 (2025); partially deductible if $79,000-$89,000; not deductible if > $89,000
+- MFJ: Fully deductible if MAGI <= $126,000 (2025); partially deductible if $126,000-$136,000; not deductible if > $136,000
+
+If you are NOT covered but your SPOUSE IS covered by an employer plan:
+- MFJ: Fully deductible if MAGI <= $236,000 (2025); partially deductible if $236,000-$246,000; not deductible if > $246,000
+
+Nondeductible Contributions: If you cannot deduct your traditional IRA contribution (because you exceed the income limits and are covered by an employer plan), you can still make a nondeductible contribution. You must report nondeductible contributions on Form 8606.
+
+Excess Contributions
+If you contribute more than the allowed amount, the excess is subject to a 6% excise tax for each year it remains in the IRA. You can avoid the penalty by withdrawing the excess contribution (and any earnings on it) before the due date (including extensions) of your tax return.
+
+CHAPTER 2: ROTH IRA CONTRIBUTIONS
+
+Who Can Contribute
+You can contribute to a Roth IRA if you have taxable compensation and your MAGI is below certain limits. There is no age limit for Roth IRA contributions.
+
+Income Limits (2025):
+- Single/HOH: Full contribution if MAGI < $150,000; reduced if $150,000-$165,000; no contribution if >= $165,000
+- MFJ: Full contribution if MAGI < $236,000; reduced if $236,000-$246,000; no contribution if >= $246,000
+
+Contribution Limits: Same as traditional IRA ($7,000 under 50, $8,000 age 50+). The limit applies to the total of all traditional and Roth IRA contributions combined.
+
+Tax Treatment of Contributions: Roth IRA contributions are NOT tax-deductible. They are made with after-tax dollars. The benefit comes at withdrawal — qualified distributions from a Roth IRA are completely tax-free.
+
+Backdoor Roth IRA: High-income taxpayers who exceed the Roth IRA income limits can make nondeductible contributions to a traditional IRA and then convert them to a Roth IRA. This is known as a "backdoor" Roth conversion. Note: The pro rata rule applies — if you have both deductible and nondeductible amounts in traditional IRAs, the conversion is partially taxable.
+
+CHAPTER 3: ROLLOVERS
+
+IRA-to-IRA Rollover: You can roll over a distribution from one IRA to another IRA within 60 days. Only one rollover per 12-month period is allowed (per taxpayer, not per account).
+
+Employer Plan to IRA: You can roll over distributions from employer-sponsored plans (401(k), 403(b), 457(b), etc.) to a traditional IRA or, if it is a Roth source, to a Roth IRA.
+
+Roth Conversion: You can convert all or part of a traditional IRA to a Roth IRA. The converted amount is included in income (to the extent it represents deductible contributions and earnings) but is not subject to the 10% early distribution penalty.
+
+CHAPTER 4: EMPLOYER-SPONSORED RETIREMENT PLANS
+
+401(k) Plans
+- Employee elective deferrals for 2025: $23,500
+- Catch-up contribution (age 50+): $7,500 additional
+- Special catch-up for ages 60-63 (starting 2025): $11,250 additional
+- Employer matching contributions: vary by plan
+- Total annual addition limit (employee + employer): $70,000 for 2025
+
+403(b) Plans: Similar to 401(k) but for employees of tax-exempt organizations and public schools. Same deferral and catch-up limits.
+
+SEP-IRA: Simplified Employee Pension. Employer contributes up to 25% of the employee's compensation, limited to $70,000 for 2025. Only the employer contributes — no employee deferrals.
+
+SIMPLE IRA: Savings Incentive Match Plan for Employees. Employee deferrals up to $16,500 for 2025. Catch-up (age 50+): $3,500 additional. Employer must either match up to 3% of compensation or make a 2% nonelective contribution.
+
+CHAPTER 5: SAVER'S CREDIT
+
+The Retirement Savings Contributions Credit (Saver's Credit) is a nonrefundable credit for eligible contributions to an IRA or employer-sponsored retirement plan. The credit rate is 50%, 20%, or 10% of contributions up to $2,000 ($4,000 MFJ), depending on filing status and AGI.
+
+Income Limits (2025):
+- MFJ: 50% credit if AGI <= $47,500; 20% if $47,501-$51,000; 10% if $51,001-$78,750
+- Single: 50% credit if AGI <= $23,750; 20% if $23,751-$25,500; 10% if $25,501-$39,375

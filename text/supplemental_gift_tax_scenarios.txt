@@ -1,0 +1,100 @@
+Supplemental Reference: Gift Tax Scenarios and Computations
+
+GIFT TAX COMPUTATION SCENARIOS
+
+Scenario 1: Cash Gifts to Multiple Recipients
+During the current year, Mann, an unmarried U.S. citizen, made the following gifts:
+- $5,000 cash to his church
+- $14,000 cash to a friend
+
+Analysis:
+Gift to church ($5,000): This is a charitable gift and is NOT subject to gift tax. Charitable gifts are fully excluded.
+Gift to friend ($14,000): Compare to the annual exclusion. If the annual exclusion is $18,000 (2024) or $19,000 (2025), the $14,000 gift is ENTIRELY within the exclusion. No taxable gift.
+Total taxable gifts: $0
+
+Scenario 2: Identifying Taxable Gifts
+Which of the following payments includes a taxable gift? (Assume $18,000 annual exclusion)
+
+(a) A father pays $20,000 for his son's surgery directly to the hospital.
+ANSWER: NOT a taxable gift. This is a qualified medical transfer paid directly to the provider, excluded regardless of amount under IRC Section 2503(e).
+
+(b) A grandmother pays $25,000 tuition for her grandchild directly to the university.
+ANSWER: NOT a taxable gift. This is a qualified educational transfer paid directly to the institution, excluded regardless of amount under IRC Section 2503(e).
+
+(c) A man pays $25,000 to settle his friend's credit card debt.
+ANSWER: This IS a taxable gift. Paying someone else's debt (other than qualified medical or educational expenses) is a gift. The taxable portion = $25,000 - $18,000 (annual exclusion) = $7,000 taxable gift.
+
+(d) A woman gives $15,000 cash to her adult child.
+ANSWER: NOT a taxable gift. $15,000 is within the $18,000 annual exclusion.
+
+KEY RULE: Qualified transfers for medical or educational expenses must be paid DIRECTLY to the provider/institution to be excluded. If the money is given to the person to pay their own bills, it is a regular gift subject to the annual exclusion.
+
+Scenario 3: Estate Planning with Gifts and Trusts
+Jimmy Johnson is working with his tax advisor on estate planning. He wants to minimize estate and gift taxes.
+
+Key strategies:
+1. Annual exclusion gifts: Give up to $19,000 (2025) per recipient per year to reduce the taxable estate. If married, gift-splitting doubles this to $38,000.
+2. Qualified transfers: Pay medical bills or tuition directly to providers/institutions — unlimited and exempt from gift tax.
+3. Charitable giving: Gifts to qualified charities are fully excluded from gift tax and can also reduce income tax through deductions.
+4. Irrevocable life insurance trust (ILIT): Removes life insurance proceeds from the taxable estate.
+5. Use of the lifetime exemption: The current exemption ($13.99M for 2025) is historically high and may decrease after 2025.
+
+Scenario 4: Below-Market Sale to Family Member
+John sells his house to his adult child:
+- FMV of house: $500,000
+- Sale price: $375,000
+- John's adjusted basis: $200,000
+
+John's recognized gain: $375,000 - $200,000 = $175,000 (this is taxable gain on the sale portion)
+Gift amount: $500,000 - $375,000 = $125,000
+Less annual exclusion (2025): $19,000
+Taxable gift: $106,000 (reduces John's lifetime exemption by $106,000)
+
+The child's basis in the house:
+For the purchased portion: The child's basis is the purchase price ($375,000).
+The gift portion basis follows gift basis rules.
+In practice, the child's total basis is $375,000 (the amount paid) plus an allocable share of the gift basis.
+
+Simplified: The child's basis is generally $375,000 (the amount paid), and the gift element does not increase the basis beyond the purchase price from the child's perspective.
+
+Scenario 5: Gifts of Appreciated vs. Depreciated Property
+Appreciated property (FMV > basis):
+- If gifted: Donee gets carryover basis (donor's basis). All appreciation remains taxable to the donee when sold.
+- If inherited: Heir gets stepped-up basis (FMV at death). All appreciation vanishes for tax purposes.
+- Tax planning: Better to hold appreciated property until death for the step-up.
+
+Depreciated property (FMV < basis):
+- If gifted: Dual basis rule. For computing gain: use donor's basis. For computing loss: use FMV at date of gift.
+- If inherited: Stepped-down basis to FMV at death. The built-in loss disappears.
+- Tax planning: Better to sell depreciated property before death to recognize the loss. Do NOT gift depreciated property (the loss is wasted due to dual basis rule). Do NOT hold until death (step-down eliminates the loss).
+
+Scenario 6: RV Gift/Inheritance Basis
+Lila purchased an RV for $75,000 several years ago. The RV has declined in value.
+
+If Lila gifts the RV when FMV = $20,000:
+- Donee's basis for gain: $75,000 (carryover)
+- Donee's basis for loss: $20,000 (FMV at gift)
+- If donee sells for $25,000: No gain (selling price $25,000 < $75,000 gain basis) and no loss (selling price $25,000 > $20,000 loss basis). Result: $0 gain or loss.
+- If donee sells for $15,000: Loss = $15,000 - $20,000 = ($5,000)
+
+If Lila holds the RV until death when FMV = $20,000:
+- Heir's basis: $20,000 (stepped down to FMV at death)
+- The $55,000 built-in loss ($75,000 - $20,000) is permanently lost.
+
+If Lila sells the RV before death for $20,000:
+- Lila recognizes loss: $20,000 - $75,000 = ($55,000) loss
+- This loss can offset other gains or up to $3,000 of ordinary income per year.
+
+GIFT TAX RETURN FILING REQUIREMENTS
+
+Form 709 must be filed if:
+- You gave gifts to any one person exceeding the annual exclusion
+- You and your spouse elect gift-splitting
+- You gave a gift of a future interest (regardless of amount)
+- You gave a gift to a non-citizen spouse exceeding the special annual exclusion ($185,000 for 2024)
+
+Form 709 is NOT required for:
+- Gifts to a U.S. citizen spouse (unlimited marital deduction)
+- Gifts to qualified charities
+- Qualified medical or educational transfers paid directly to providers/institutions
+- Gifts within the annual exclusion (unless gift-splitting is elected)

@@ -1,6 +1,135 @@
-Instructions for Form 8824 (2025)
-Source: https://www.irs.gov/instructions/i8824
+Instructions for Form 8824 – Like-Kind Exchanges (Full Reference)
 
-- These are the IRS instructions for Form 8824, Like-Kind Exchanges.
-- Use them for reporting exchanges of business or investment real property, determining realized and recognized gain, tracking boot and liabilities, and computing basis in replacement property.
-- This instruction set is directly relevant to property-transaction benchmark questions involving section 1031 exchanges.
+OVERVIEW
+Form 8824 is used to report like-kind exchanges under Section 1031 of the Internal Revenue Code. After the Tax Cuts and Jobs Act of 2017, like-kind exchange treatment applies ONLY to exchanges of real property. Personal property exchanges no longer qualify.
+
+PURPOSE OF FORM 8824
+Use Form 8824 to report:
+- Each exchange of business or investment real property for real property of a like kind.
+- The computation of realized gain, recognized gain, and basis of the replacement property.
+- Deferred exchanges completed during the tax year.
+- Related party exchanges.
+
+LIKE-KIND EXCHANGE REQUIREMENTS
+
+To qualify for nonrecognition under Section 1031, an exchange must meet these requirements:
+1. Both the property given up and the property received must be real property.
+2. Both properties must be held for productive use in a trade or business or for investment.
+3. The properties must be of like kind (any real property held for business/investment is like kind to any other real property held for business/investment).
+4. Property held primarily for sale (dealer property / inventory) does NOT qualify.
+5. Your principal residence does NOT qualify (it is personal-use property, not investment or business property).
+
+COMPUTING REALIZED AND RECOGNIZED GAIN
+
+Line-by-Line Computation:
+
+Line 15: FMV of like-kind property received
+Line 16: Adjusted basis of like-kind property given up
+Line 17: Realized gain = Line 15 minus Line 16 (if FMV > basis)
+
+Boot Received (Lines 12-14):
+Line 12: Cash and non-like-kind property received
+Line 13: Net liabilities assumed by other party (liabilities you transferred minus liabilities you assumed)
+Line 14: Total boot received = Line 12 + Line 13
+
+Recognized Gain (Line 19):
+Line 19: Recognized gain = LESSER of realized gain (Line 17) or boot received (Line 14)
+
+If no boot is received, recognized gain is $0 (full deferral).
+
+BOOT IN LIKE-KIND EXCHANGES — DETAILED RULES
+
+What Counts as Boot:
+- Cash received
+- FMV of non-like-kind property received (personal property, stocks, etc.)
+- Net liability relief (if liabilities given up exceed liabilities assumed)
+
+What Does NOT Count as Boot:
+- Like-kind real property received
+- Liabilities assumed by the taxpayer (these REDUCE boot, not increase it)
+
+Liability Netting Rules:
+If both parties have liabilities:
+Net boot from liabilities = Liabilities relieved (given up) - Liabilities assumed
+- If positive: this amount is boot received by the taxpayer
+- If negative: no boot from liabilities (you cannot have negative boot from liabilities; the excess offsets other boot or is simply treated as additional basis)
+
+Cash and liability boot are netted separately. Some authorities allow full netting across cash and liabilities; the IRS form instructions generally net liabilities first, then add any cash received.
+
+BASIS OF REPLACEMENT PROPERTY (Line 25)
+
+The basis of the like-kind property received is computed as:
+Basis = Adjusted basis of old property + Boot paid - Boot received + Recognized gain - Recognized loss
+
+Equivalently:
+Basis = FMV of new property - Deferred gain + Deferred loss
+
+WORKED EXAMPLES
+
+Example 1: Simple Exchange with No Boot
+Taxpayer exchanges farmland (basis $100,000, FMV $200,000) for commercial lot (FMV $200,000).
+Boot received: $0
+Realized gain: $200,000 - $100,000 = $100,000
+Recognized gain: lesser of $100,000 or $0 = $0
+Deferred gain: $100,000
+Basis of new property: $200,000 - $100,000 = $100,000
+
+Example 2: Exchange with Cash Boot
+Taxpayer exchanges office building (basis $150,000, FMV $400,000) for warehouse (FMV $350,000) plus $50,000 cash.
+Boot received: $50,000 (cash)
+Realized gain: $400,000 - $150,000 = $250,000
+Recognized gain: lesser of $250,000 or $50,000 = $50,000
+Deferred gain: $200,000
+Basis of warehouse: $350,000 - $200,000 = $150,000
+(Or: $150,000 - $50,000 + $50,000 = $150,000)
+
+Example 3: Exchange with Liabilities on Both Sides
+Taxpayer A exchanges Property X (FMV $500,000, basis $300,000, mortgage $100,000) for Property Y (FMV $450,000, mortgage $50,000).
+
+Liabilities relieved: $100,000
+Liabilities assumed: $50,000
+Net liability boot received by A: $100,000 - $50,000 = $50,000
+
+Realized gain: ($450,000 + $50,000) - $300,000 = $200,000
+OR: $500,000 FMV given - $300,000 basis = $200,000
+Recognized gain: lesser of $200,000 or $50,000 = $50,000
+Deferred gain: $150,000
+
+Basis of Property Y: $300,000 + $50,000 (liabilities assumed) - $100,000 (liabilities relieved) + $50,000 (gain recognized) = $300,000
+Check: $450,000 - $150,000 = $300,000. Correct.
+
+Example 4: Exchange with Cash Paid AND Liability Relief
+Taxpayer exchanges Building A (FMV $800,000, basis $500,000, mortgage $200,000) plus $100,000 cash for Building B (FMV $700,000, no mortgage).
+
+Given up: Building A (FMV $800,000, mortgage $200,000) + $100,000 cash
+Received: Building B (FMV $700,000)
+
+Boot analysis:
+Liabilities relieved: $200,000 (boot received)
+Cash paid: $100,000 (boot given)
+Net boot: $200,000 - $100,000 = $100,000 boot received
+
+Realized gain: $800,000 - $500,000 = $300,000
+Recognized gain: lesser of $300,000 or $100,000 = $100,000
+Deferred gain: $200,000
+
+Basis of Building B: $500,000 + $100,000 (cash paid) - $200,000 (liabilities relieved) + $100,000 (recognized gain) = $500,000
+Check: $700,000 - $200,000 deferred = $500,000. Correct.
+
+DEFERRED (STARKER) EXCHANGES
+
+A deferred exchange allows the taxpayer to dispose of the relinquished property first and acquire the replacement property later. Requirements:
+1. The replacement property must be identified within 45 days of transferring the relinquished property.
+2. The replacement property must be received within 180 days or by the due date of the tax return for the year of the transfer (whichever is earlier).
+3. A qualified intermediary must hold the proceeds; the taxpayer cannot have actual or constructive receipt of the funds.
+
+Identification Rules:
+- 3-Property Rule: Identify up to 3 properties regardless of value.
+- 200% Rule: Identify any number of properties whose total FMV does not exceed 200% of the FMV of the relinquished property.
+- 95% Rule: If neither the 3-property nor 200% rule is met, at least 95% of the FMV of identified properties must be acquired.
+
+RELATED PARTY EXCHANGES (SECTION 1031(f))
+
+If a like-kind exchange is between related parties, and either party disposes of the property within 2 years, the exchange is disallowed and any deferred gain is recognized. Related parties include family members (siblings, spouses, ancestors, descendants) and entities with more than 50% ownership.
+
+Exceptions: The 2-year disposition rule does not apply if the subsequent disposition was due to the death of either party, an involuntary conversion, or if the IRS is satisfied that neither the exchange nor the disposition had tax avoidance as a principal purpose.

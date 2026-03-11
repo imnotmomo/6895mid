@@ -1,6 +1,145 @@
-Publication 970 (2025), Tax Benefits for Education
-Source: https://www.irs.gov/publications/p970
+IRS Publication 970 – Tax Benefits for Education (Full Reference)
 
-- Publication 970 is the IRS guide to education tax benefits.
-- Use it for questions about the American opportunity credit, lifetime learning credit, qualified tuition programs such as 529 plans, Coverdell ESAs, student loan interest, and education-related exclusions.
-- This publication is useful for comparing education benefits and coordinating benefits so the same expense is not used twice.
+OVERVIEW
+Publication 970 explains tax benefits available to help pay for education. This includes credits, deductions, savings plans, and other tax-favored ways to save for or pay education costs.
+
+CHAPTER 1: AMERICAN OPPORTUNITY CREDIT (AOC)
+
+The American Opportunity Credit is worth up to $2,500 per eligible student per year for the first four years of postsecondary education. It equals 100% of the first $2,000 of qualified education expenses plus 25% of the next $2,000.
+
+Eligibility Requirements:
+- The student must be pursuing a degree or recognized education credential.
+- The student must be enrolled at least half-time for at least one academic period during the tax year.
+- The student must not have completed the first four years of postsecondary education.
+- The student must not have claimed the AOC for more than four tax years.
+- The student must not have a felony drug conviction.
+
+Income Phase-Out (2025):
+- Single: MAGI $80,000-$90,000
+- MFJ: MAGI $160,000-$180,000
+
+Refundable Portion: 40% of the AOC (up to $1,000) is refundable.
+
+Qualified Expenses: Tuition, required enrollment fees, and course materials (books, supplies, equipment needed for courses).
+
+CHAPTER 2: LIFETIME LEARNING CREDIT
+
+The Lifetime Learning Credit is worth up to $2,000 per tax return (not per student). It equals 20% of up to $10,000 of qualified education expenses.
+
+Key Differences from AOC:
+- No limit on number of years it can be claimed.
+- Student does not need to be pursuing a degree.
+- Available for one or more courses.
+- Not available if AOC is claimed for the same student.
+- Not refundable.
+
+Income Phase-Out (2025):
+- Single: MAGI $80,000-$90,000
+- MFJ: MAGI $160,000-$180,000
+
+CHAPTER 3: QUALIFIED TUITION PROGRAMS (SECTION 529 PLANS)
+
+Overview
+A qualified tuition program (QTP), commonly known as a 529 plan, is a plan established and maintained by a state (or agency or instrumentality thereof) or by an eligible educational institution that allows you to either prepay or contribute to an account for paying a student's qualified education expenses.
+
+Types of 529 Plans:
+1. Prepaid tuition plans: Allow you to lock in future tuition at today's rates at participating colleges.
+2. Education savings plans: Allow you to invest contributions that grow tax-free and can be withdrawn tax-free for qualified expenses.
+
+Tax Advantages of 529 Plans:
+- Contributions grow tax-deferred (no federal tax on earnings while in the account).
+- Distributions are TAX-FREE if used for qualified education expenses.
+- This is the primary tax advantage: tax-free growth and tax-free withdrawals for qualified expenses.
+- Many states also offer state income tax deductions or credits for contributions.
+- No income limits on contributors (anyone can contribute regardless of income).
+- No age limits on beneficiaries.
+
+Contributions:
+- Contributions are NOT deductible for federal income tax purposes.
+- Contributions are treated as gifts to the beneficiary for gift tax purposes.
+- Annual contributions up to the gift tax annual exclusion ($18,000 for 2024, $19,000 for 2025) per beneficiary can be made without gift tax consequences.
+- Special 5-year election: A contributor can elect to treat a lump-sum contribution of up to 5 times the annual gift tax exclusion ($95,000 for 2025) as made over a 5-year period for gift tax purposes. This allows front-loading without exceeding the annual exclusion.
+- There is no specific federal limit on total account balances, but states set limits (typically $300,000-$500,000+).
+
+Qualified Education Expenses (for tax-free withdrawals):
+- Tuition and fees at eligible educational institutions (colleges, universities, vocational schools, and K-12 schools up to $10,000 per year per beneficiary for K-12 tuition).
+- Books, supplies, and equipment required for enrollment or attendance.
+- Room and board (if the student is enrolled at least half-time). The amount for room and board cannot exceed the allowance for room and board included in the cost of attendance as determined by the institution.
+- Expenses for special needs services.
+- Computer technology, equipment, or internet access and related services used by the beneficiary during years the beneficiary is enrolled.
+- Up to $10,000 in student loan repayments (lifetime limit per beneficiary).
+- Expenses for registered apprenticeship programs.
+
+Non-Qualified Distributions:
+If distributions exceed qualified education expenses, the earnings portion of the excess is subject to income tax PLUS a 10% additional tax (penalty). The earnings portion is calculated pro rata based on the ratio of earnings to total account value.
+
+Changing Beneficiaries:
+You can change the beneficiary of a 529 plan to another member of the beneficiary's family without tax consequences. Family members include: spouse, child, sibling, parent, niece, nephew, aunt, uncle, in-law, first cousin, and their spouses.
+
+529 Plan Rollovers to Roth IRA (Starting 2024):
+Beginning in 2024, beneficiaries can roll over unused 529 funds to a Roth IRA, subject to:
+- The 529 account must have been maintained for at least 15 years.
+- Annual rollovers are limited to the Roth IRA annual contribution limit.
+- Lifetime rollover limit of $35,000 per beneficiary.
+- Contributions made within the last 5 years (and earnings on them) are not eligible.
+
+Coordination with Other Education Benefits:
+Expenses used for 529 tax-free distributions cannot also be used to claim the AOC or Lifetime Learning Credit. However, the student can use some expenses for the credit and different expenses for the 529 distribution.
+
+CHAPTER 4: COVERDELL EDUCATION SAVINGS ACCOUNTS (ESAs)
+
+A Coverdell ESA is a trust or custodial account for paying qualified education expenses of a designated beneficiary. Contributions are not deductible, but earnings grow tax-free and withdrawals are tax-free if used for qualified education expenses.
+
+Contribution Limits: $2,000 per beneficiary per year.
+Income Phase-Out: Single MAGI $95,000-$110,000; MFJ MAGI $190,000-$220,000.
+Qualified Expenses: Tuition, fees, books, supplies, room and board, tutoring, computer equipment, and K-12 expenses.
+
+CHAPTER 5: STUDENT LOAN INTEREST DEDUCTION
+
+You can deduct up to $2,500 of interest paid on qualified student loans. This is an above-the-line deduction (reduces AGI).
+
+Income Phase-Out (2025):
+- Single: MAGI $75,000-$90,000
+- MFJ: MAGI $155,000-$185,000
+
+The loan must have been taken out solely to pay qualified education expenses, and the student must have been enrolled at least half-time.
+
+CHAPTER 6: TUITION AND FEES
+
+Note: The tuition and fees deduction expired after 2020 and has not been renewed. It is no longer available.
+
+CHAPTER 7: EDUCATION SAVINGS BONDS
+
+Interest on Series EE and I bonds issued after 1989 may be excludable from income if used to pay qualified higher education expenses. The bondholder must be at least 24 years old when the bonds are issued.
+
+Income Phase-Out (2025):
+- Single: MAGI $100,350-$115,350
+- MFJ: MAGI $150,500-$180,500
+
+CHAPTER 8: EMPLOYER-PROVIDED EDUCATION ASSISTANCE
+
+Under Section 127, up to $5,250 per year of employer-provided educational assistance can be excluded from the employee's income. This applies to both undergraduate and graduate education.
+
+CHAPTER 9: SCHOLARSHIPS AND FELLOWSHIPS
+
+Scholarships and fellowships are generally tax-free if the recipient is a degree candidate and uses the funds for tuition, fees, books, supplies, and equipment required for courses. Amounts used for room, board, travel, or incidental expenses are taxable.
+
+FINANCIAL AID AND TAX CONSIDERATIONS
+
+Student Assets and Financial Aid Eligibility:
+When determining a student's eligibility for need-based financial aid (such as Federal Pell Grants and subsidized loans), the FAFSA considers assets. Different types of assets are weighted differently:
+
+- Student assets (assets owned by the student) are assessed at a HIGHER rate than parent assets. Student assets are typically assessed at up to 20% of their value, meaning 20% is considered available for education costs.
+- Parent assets (assets owned by the parent) are assessed at a lower rate, typically up to 5.64% of their value.
+- 529 plans owned by the parent are treated as PARENT assets for FAFSA purposes (assessed at the lower parent rate of up to 5.64%), making them more favorable for financial aid eligibility than money in the student's name.
+- Student-owned 529 plans are treated as student assets (assessed at 20%).
+- Retirement accounts (401(k), IRA) are generally NOT reported as assets on the FAFSA.
+- The family home (primary residence) is NOT reported as an asset on the FAFSA.
+
+Higher Education Loan Types:
+- Federal Direct Subsidized Loans: Based on financial need. The government pays the interest while the student is enrolled at least half-time, during the grace period, and during deferment.
+- Federal Direct Unsubsidized Loans: Not based on financial need. Interest accrues from disbursement.
+- Federal Direct PLUS Loans: For parents of dependent students or for graduate students. Credit check required.
+- Private loans: From banks or other lenders. Not based on FAFSA. Terms vary by lender.
+
+Subsidized loans are the type based on student financial need as determined by the FAFSA.

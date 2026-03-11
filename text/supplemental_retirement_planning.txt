@@ -1,0 +1,115 @@
+Supplemental Reference: Retirement and Financial Planning Tax Rules
+
+RETIREMENT PLAN CONTRIBUTION STRATEGIES
+
+Key Decision Factors for Retirement Contributions
+When a taxpayer is deciding between retirement savings options, the key considerations are:
+
+1. Tax-deductible contributions reduce current taxable income (traditional 401(k), deductible traditional IRA).
+2. Roth contributions provide no current deduction but offer tax-free withdrawals in retirement.
+3. Employer matching is essentially free money and should generally be maximized first.
+4. The tax bracket in retirement vs. the current tax bracket drives the traditional vs. Roth decision.
+
+Optimal Strategy for Maximizing Tax Benefits
+For a taxpayer with access to an employer plan with matching:
+Step 1: Contribute enough to the employer plan to get the full employer match.
+Step 2: If eligible and in a high tax bracket, maximize tax-deductible contributions (traditional 401(k)/403(b) up to the limit).
+Step 3: Consider additional IRA contributions (traditional if deductible, Roth if income allows).
+Step 4: If all tax-advantaged space is used, consider taxable investment accounts.
+
+For a 58-year-old client planning to retire in 5 years:
+- Maximize catch-up contributions (age 50+ allows additional $7,500 for 401(k) in 2025).
+- Deductible IRA contributions if applicable (reduces AGI, which may also reduce taxation of Social Security benefits, Medicare premiums, etc.).
+- Consider the tax-deferred growth period: even 5 years of tax-deferred growth is beneficial.
+- The deduction from retirement contributions is an above-the-line deduction, directly reducing AGI.
+
+FINANCIAL AID CONSIDERATIONS FOR EDUCATION PLANNING
+
+FAFSA and Asset Assessment
+The Free Application for Federal Student Aid (FAFSA) uses a formula called the Expected Family Contribution (EFC) — now called the Student Aid Index (SAI) — to determine eligibility for need-based financial aid.
+
+Asset Weighting on FAFSA:
+- Student assets are assessed at UP TO 20% of their value.
+- Parent assets are assessed at UP TO 5.64% of their value.
+- The asset that is weighted MOST HEAVILY in determining a student's eligibility for financial aid is the student's OWN assets (savings accounts, investments in the student's name), because they are assessed at the highest rate (20%).
+- Parent-owned 529 plans are treated as parent assets (5.64% rate).
+- Retirement accounts (401(k), IRA) are NOT reported on FAFSA.
+- The family's primary residence is NOT reported on FAFSA.
+- Student-owned 529 plans are assessed at the student rate (20%).
+
+Therefore, the asset type most heavily weighted (most detrimental to financial aid eligibility) is assets owned by the student.
+
+Types of Higher Education Loans
+- Federal Direct Subsidized Loans: Based on financial NEED. The government pays interest while the student is enrolled at least half-time.
+- Federal Direct Unsubsidized Loans: NOT based on financial need. Available regardless of need.
+- Federal Direct PLUS Loans: For parents or graduate students. Credit check required.
+- Private student loans: From banks/lenders, NOT based on FAFSA.
+
+The type of loan based on student financial need is the Federal Direct Subsidized Loan.
+
+INVESTMENT ANALYSIS AND NET PRESENT VALUE (NPV)
+
+Net Present Value (NPV) Computation
+NPV is used to evaluate whether an investment is worthwhile. It compares the present value of future cash inflows to the initial investment cost.
+
+NPV = Sum of [Cash flow in year t / (1 + discount rate)^t] - Initial investment
+
+Decision rule:
+- If NPV > 0: The investment earns more than the required rate of return; it is a good investment.
+- If NPV = 0: The investment exactly earns the required rate of return.
+- If NPV < 0: The investment earns less than the required rate of return; reject it.
+
+Present Value Factor
+The present value of $1 received in year t at discount rate r is: 1 / (1 + r)^t
+
+Present Value of an Annuity
+If the investment provides equal annual cash flows for n years:
+PV of annuity = Annual cash flow x [(1 - (1 + r)^(-n)) / r]
+
+Example NPV Computation:
+Felicia is considering a project that requires a $120,000 initial investment and will generate $30,000 per year for 6 years. Her required rate of return is 10%.
+
+PV of annuity factor for 6 years at 10% = [1 - (1.10)^(-6)] / 0.10 = [1 - 0.5645] / 0.10 = 4.3553
+
+PV of cash inflows = $30,000 x 4.3553 = $130,659
+NPV = $130,659 - $120,000 = $10,659
+
+Since NPV > 0, the investment earns more than the 10% required rate of return and should be accepted.
+
+Internal Rate of Return (IRR)
+The IRR is the discount rate that makes NPV equal to zero. If IRR > required rate of return, the investment should be accepted.
+
+After-Tax Cash Flows
+When computing NPV for tax purposes, use after-tax cash flows:
+After-tax cash flow = Pre-tax cash flow x (1 - tax rate) + (Depreciation x tax rate)
+
+The depreciation tax shield (Depreciation x tax rate) is added back because depreciation is a non-cash expense that reduces taxes.
+
+SOCIAL SECURITY BENEFITS TAXATION
+
+Provisional Income Computation
+Provisional income = AGI + Tax-exempt interest + 50% of Social Security benefits
+
+Taxation thresholds (single filers):
+- If provisional income < $25,000: Benefits are not taxable.
+- If $25,000 <= provisional income <= $34,000: Up to 50% of benefits are taxable.
+- If provisional income > $34,000: Up to 85% of benefits are taxable.
+
+Taxation thresholds (MFJ):
+- If provisional income < $32,000: Benefits are not taxable.
+- If $32,000 <= provisional income <= $44,000: Up to 50% of benefits are taxable.
+- If provisional income > $44,000: Up to 85% of benefits are taxable.
+
+The maximum amount of Social Security benefits subject to income tax is 85%.
+
+SECTION 529 TO ROTH IRA ROLLOVER (SECURE 2.0)
+
+Starting in 2024, unused 529 plan funds can be rolled into a Roth IRA for the beneficiary, subject to:
+- 529 account must have been open for 15+ years.
+- Annual rollover limited to Roth IRA contribution limit ($7,000 in 2025).
+- Lifetime rollover limit: $35,000 per beneficiary.
+- Contributions (and earnings on them) made within last 5 years are ineligible.
+- Beneficiary must have earned income.
+- Income limits for Roth IRA do NOT apply to this rollover.
+
+This is considered an ADVANTAGE of 529 plans because it provides a safety valve for unused funds.

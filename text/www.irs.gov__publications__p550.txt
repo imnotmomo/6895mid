@@ -1,6 +1,100 @@
-Publication 550 (2025), Investment Income and Expenses
-Source: https://www.irs.gov/publications/p550
+IRS Publication 550 – Investment Income and Expenses (Full Reference)
 
-- Publication 550 is the IRS guide to investment income and expenses.
-- Use it for questions about interest, dividends, capital gains and losses, basis reporting, mutual funds, wash sales, short sales, and investment expense treatment.
-- This publication is especially useful for taxable brokerage activity and securities transactions.
+OVERVIEW
+Publication 550 covers the tax treatment of investment income and investment expenses. It discusses when and how to report various types of investment income, how to determine your basis in investment property, and how to figure your gain or loss when you sell or otherwise dispose of investment property.
+
+CHAPTER 1: INVESTMENT INCOME
+
+Interest Income
+Most interest income is taxable and must be reported. This includes interest from bank accounts, CDs, bonds, notes, and other obligations.
+
+Tax-Exempt Interest: Interest on state and local government bonds (municipal bonds) is generally exempt from federal income tax. However, tax-exempt interest must still be reported on the tax return.
+
+Original Issue Discount (OID): If a bond is issued at a discount (below face value), the discount is treated as interest income accrued over the life of the bond, even if not received until maturity.
+
+Treasury Inflation-Protected Securities (TIPS): The inflation adjustment to the principal of TIPS is taxable as interest income in the year of the adjustment, even though you do not receive it until the bond matures or you sell it.
+
+Dividend Income
+Qualified Dividends: Dividends from domestic corporations and certain qualified foreign corporations are taxed at the preferential long-term capital gains rates (0%, 15%, or 20%) rather than ordinary income rates. To qualify, the stock must be held for more than 60 days during the 121-day period beginning 60 days before the ex-dividend date.
+
+Ordinary Dividends: Dividends that do not meet the qualified dividend requirements are taxed as ordinary income.
+
+Return of Capital Distributions: Distributions that exceed the corporation's earnings and profits are not dividends. They are a return of capital that reduces your basis in the stock. If they exceed your basis, the excess is treated as capital gain.
+
+CHAPTER 2: CAPITAL GAINS AND LOSSES
+
+Holding Period
+- Short-term: Property held for one year or less. Short-term capital gains are taxed at ordinary income rates.
+- Long-term: Property held for more than one year. Long-term capital gains are taxed at preferential rates (0%, 15%, or 20%, depending on taxable income).
+
+Netting Capital Gains and Losses
+Step 1: Net short-term gains and losses together.
+Step 2: Net long-term gains and losses together.
+Step 3: If one category has a net gain and the other has a net loss, combine them.
+
+Capital Loss Limitation: If net capital losses exceed net capital gains, you can deduct up to $3,000 of the net capital loss against ordinary income ($1,500 if married filing separately). Excess capital losses are carried forward to future years indefinitely.
+
+CHAPTER 3: BASIS OF INVESTMENT PROPERTY
+
+Cost Basis: The basis of property is generally its cost, including any amounts paid for the property, commissions, and other acquisition costs.
+
+Basis of Inherited Property: The basis of property inherited from a decedent is generally the fair market value (FMV) at the date of the decedent's death (stepped-up basis). If the alternate valuation date is elected (6 months after death), the basis is the FMV at that date.
+
+Basis of Property Received as a Gift:
+For determining GAIN: The basis is the donor's adjusted basis (carryover basis). If the donor paid gift tax, the donee's basis may be increased by a portion of the gift tax paid attributable to the net unrealized appreciation.
+
+For determining LOSS: If the FMV at the time of the gift was LESS than the donor's basis, a DUAL BASIS rule applies:
+- Use the donor's basis for computing gain.
+- Use the FMV at the date of the gift for computing loss.
+- If the selling price is between the donor's basis and the gift-date FMV, there is NO gain or loss.
+
+This dual basis rule is critical and frequently tested.
+
+Example: Donor's basis is $10,000. FMV at date of gift is $8,000.
+- If donee sells for $12,000: Gain = $12,000 - $10,000 = $2,000 (use donor's basis)
+- If donee sells for $7,000: Loss = $7,000 - $8,000 = ($1,000) (use FMV at gift date)
+- If donee sells for $9,000: No gain or loss (selling price is between $8,000 FMV and $10,000 basis)
+
+Wash Sale Rule
+If you sell stock or securities at a loss and, within 30 days before or after the sale, you buy substantially identical stock or securities (or acquire them in certain other ways), you cannot deduct the loss. The disallowed loss is added to the basis of the replacement stock or securities.
+
+CHAPTER 4: INVESTMENT EXPENSES
+
+Investment Interest Expense
+Investment interest expense is interest paid or accrued on indebtedness properly allocable to property held for investment. The deduction for investment interest expense is limited to net investment income.
+
+Net investment income includes gross income from property held for investment (interest, dividends, annuities, royalties) minus investment expenses other than interest. Net capital gain from investment property can be included in net investment income only if the taxpayer elects to give up the preferential capital gains rate on that income.
+
+Investment Expenses (Miscellaneous)
+Under current law (TCJA through 2025), miscellaneous itemized deductions subject to the 2% AGI floor are NOT deductible. This includes investment advisory fees, safe deposit box rental, and subscriptions to investment publications.
+
+CHAPTER 5: MUTUAL FUNDS AND REGULATED INVESTMENT COMPANIES
+
+Mutual fund distributions include ordinary dividends, capital gain distributions, and nontaxable return of capital distributions.
+
+Capital Gain Distributions: These are always treated as long-term capital gains, regardless of how long you held the mutual fund shares.
+
+Basis Methods for Mutual Fund Shares: You can use specific identification, FIFO (first-in, first-out), or average cost method to determine the basis of mutual fund shares sold.
+
+CHAPTER 6: NET INVESTMENT INCOME TAX (NIIT)
+
+The Net Investment Income Tax is an additional 3.8% tax on the lesser of:
+(a) Net investment income, OR
+(b) The excess of MAGI over the threshold amount.
+
+Threshold amounts:
+- MFJ: $250,000
+- Single: $200,000
+- MFS: $125,000
+
+Net investment income includes: interest, dividends, capital gains, rental and royalty income, nonqualified annuities, and income from passive activities.
+
+CHAPTER 7: SPECIAL TOPICS
+
+Short Sales: A short sale is the sale of borrowed property (typically stock). If the short sale is closed within a certain period, special holding period rules apply that can convert what would otherwise be long-term gain into short-term gain.
+
+Straddles: Special rules apply to offsetting positions in actively traded personal property (straddles). Losses on one position may be deferred to the extent of unrealized gain in the offsetting position.
+
+Section 1256 Contracts: Regulated futures contracts and certain other contracts are marked to market at year-end. Gain or loss is treated as 60% long-term and 40% short-term regardless of actual holding period.
+
+Worthless Securities: If securities become completely worthless during the tax year, they are treated as sold on the last day of the tax year for zero. The loss is a capital loss (long-term if held more than one year).

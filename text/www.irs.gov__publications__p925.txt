@@ -1,49 +1,176 @@
-Publication 925, Passive Activity and At-Risk Rules.
+IRS Publication 925 – Passive Activity and At-Risk Rules (Full Reference)
 
-This document summarizes IRS guidance on passive activity limits and at-risk rules for individuals and certain other taxpayers.
+OVERVIEW
+Publication 925 covers the passive activity loss rules under IRC Section 469 and the at-risk rules under IRC Section 465. These rules limit the amount of losses and credits a taxpayer can claim from passive activities and activities in which the taxpayer is not at risk.
 
-Core ordering rule:
-Before applying passive activity limits, first determine the amount of deductions disallowed under basis rules or at-risk rules. Passive activity limits are applied after those limits.
+PART I: PASSIVE ACTIVITY RULES
 
-Who must use the passive activity rules:
-The passive activity rules generally apply to individuals, estates, trusts other than grantor trusts, personal service corporations, and closely held corporations. Partnerships and S corporations do not apply the passive loss limits at the entity level; the rules generally apply at the owner level.
+Definition of Passive Activity
+A passive activity is any trade or business activity in which the taxpayer does not materially participate during the tax year, or any rental activity (with certain exceptions). Material participation means involvement in the operations of an activity on a regular, continuous, and substantial basis.
 
-Passive activity loss:
-A passive activity loss is generally not allowed for the year except to the extent of passive activity income, subject to special rules and allowances.
+Material Participation Tests
+A taxpayer materially participates in an activity if any ONE of the following seven tests is met:
+1. The taxpayer participates in the activity for more than 500 hours during the tax year.
+2. The taxpayer's participation in the activity constitutes substantially all of the participation in such activity of all individuals (including non-owners) for the tax year.
+3. The taxpayer participates in the activity for more than 100 hours during the tax year, and no other individual participates more than the taxpayer.
+4. The activity is a significant participation activity (more than 100 hours), and the taxpayer's total participation in all significant participation activities exceeds 500 hours.
+5. The taxpayer materially participated in the activity for any 5 of the prior 10 tax years.
+6. The activity is a personal service activity, and the taxpayer materially participated for any 3 prior tax years.
+7. Based on all facts and circumstances, the taxpayer participates on a regular, continuous, and substantial basis.
 
-Rental activity rule:
-A rental activity is generally passive even if the taxpayer materially participates, unless an exception applies such as real estate professional treatment or another specific exception.
+Passive Activity Loss (PAL) Rules
+Losses from passive activities can generally only be deducted against income from passive activities. Passive activity losses cannot offset active income (such as wages, salaries, and business income from activities in which the taxpayer materially participates) or portfolio income (such as interest, dividends, and capital gains from investments). Disallowed passive losses are suspended and carried forward to future years. When the taxpayer disposes of the entire interest in the passive activity in a fully taxable transaction to an unrelated party, all suspended passive losses from that activity are fully deductible.
 
-Special allowance for rental real estate with active participation:
-Some or all losses may be allowed under the special $25,000 allowance for certain rental real estate activities when the taxpayer actively participates, subject to phaseout based on income.
+Passive Activity Income
+Passive activity income includes income from passive activities such as rental income, income from a trade or business in which the taxpayer does not materially participate, and gain from the disposition of an interest in a passive activity.
 
-Material participation:
-Trade or business activities are not passive if the taxpayer materially participates. Material participation is determined under the tests in the publication, including hour-based tests and other factual tests.
+Portfolio Income Is Not Passive
+Portfolio income is not treated as passive activity income. Portfolio income includes interest, dividends, royalties (not derived in the ordinary course of a trade or business), annuities, and gain or loss from the disposition of property held for investment.
 
-Real estate professional:
-Rental real estate activities may avoid passive treatment if the taxpayer qualifies as a real estate professional and materially participates.
+Rental Activities
+Rental activities are generally considered passive activities regardless of whether the taxpayer materially participates. However, there are exceptions:
+- The average rental period is 7 days or less.
+- The average rental period is 30 days or less and significant personal services are provided.
+- Extraordinary personal services are provided.
+- The rental is incidental to a nonrental activity.
+- The taxpayer customarily makes the rental property available during business hours for nonexclusive use by customers.
+- The property is provided for use in a nonrental activity of a partnership, S corporation, or joint venture in which the taxpayer owns an interest.
 
-At-risk amounts:
-A taxpayer is at risk in an activity for money contributed, the adjusted basis of property contributed, and certain borrowed amounts used in the activity.
+Special $25,000 Allowance for Rental Real Estate
+An individual who actively participates in a rental real estate activity may deduct up to $25,000 of losses from such activity against nonpassive income. This allowance is reduced by 50% of the amount by which the taxpayer's modified adjusted gross income (MAGI) exceeds $100,000, and is completely phased out when MAGI reaches $150,000.
 
-Borrowed amounts included in amount at risk:
-A taxpayer is at risk for borrowed amounts if the taxpayer is personally liable for repayment. A taxpayer may also be at risk for certain borrowing secured by property other than property used in the activity, limited by the net fair market value of the pledged property.
+Active participation is a less stringent standard than material participation. It requires the taxpayer to make management decisions in a significant and bona fide sense (such as approving tenants, deciding on rental terms, approving expenditures). A taxpayer must own at least 10% of the value of the activity to actively participate.
 
-Amounts not at risk:
-Nonrecourse financing and arrangements that protect against loss may reduce or eliminate the amount at risk, unless a special rule applies.
+Real Estate Professionals Exception
+A taxpayer who qualifies as a real estate professional is not subject to the passive activity rules for rental real estate activities in which the taxpayer materially participates. To qualify as a real estate professional:
+1. More than half of the personal services the taxpayer performs in all trades or businesses during the tax year are performed in real property trades or businesses in which the taxpayer materially participates, AND
+2. The taxpayer performs more than 750 hours of services during the tax year in real property trades or businesses in which the taxpayer materially participates.
 
-Loss disallowance under at-risk rules:
-A loss from an activity is allowed only to the extent the taxpayer is at risk in the activity. Losses exceeding the amount at risk are suspended.
+Grouping Activities
+Taxpayers may group one or more trade or business activities or rental activities as a single activity if they form an appropriate economic unit. Factors considered include similarities and differences in types of trades or businesses, common control, common ownership, geographic location, and interdependencies.
 
-Later-year effect:
-If the taxpayer increases the amount at risk in a later year, previously suspended at-risk losses may become deductible, but they can still be limited by the passive activity rules.
+Passive Activity Loss Allocation Among Activities
+When a taxpayer has losses from multiple passive activities, and total passive losses exceed total passive income, the net passive loss that is disallowed must be allocated among the activities with net losses. The allocation formula is:
 
-Disposition rule:
-When there is a fully taxable disposition of the entire interest in a passive activity to an unrelated party, suspended passive losses are generally freed up under the rules described in the publication.
+Disallowed loss allocated to Activity X = (Net loss from Activity X / Total net losses from all passive activities with losses) x Total disallowed passive loss
 
-Useful decision sequence for individual-tax questions:
-1. Determine adjusted basis and any basis limitation.
-2. Determine the taxpayer's amount at risk.
-3. Disallow any loss above the amount at risk.
-4. Apply passive activity rules to the remaining deductible amount.
-5. Apply any special rental real estate allowance, phaseout, or full-disposition rule.
+For example, if a taxpayer has:
+- Activity A net loss: $6,000
+- Activity B net loss: $4,000
+- Activity C net income: $3,000
+Total passive losses = $10,000; Total passive income = $3,000; Net disallowed = $7,000
+Activity A suspended = ($6,000 / $10,000) x $7,000 = $4,200
+Activity B suspended = ($4,000 / $10,000) x $7,000 = $2,800
+
+Example: Three Passive Activities with Mixed Results
+Taxpayer has three passive activities:
+Activity I: net loss of $5,000
+Activity II: net loss of $3,000
+Activity III: net loss of $2,000
+Total passive losses: $10,000
+Total passive income: $0
+Net passive loss (disallowed): $10,000
+
+Activity I suspended = ($5,000 / $10,000) x $10,000 = $5,000
+Activity II suspended = ($3,000 / $10,000) x $10,000 = $3,000
+Activity III suspended = ($2,000 / $10,000) x $10,000 = $2,000
+
+If the taxpayer also had a passive activity with $4,000 of income:
+Total passive losses: $10,000; Total passive income: $4,000; Net disallowed: $6,000
+Activity I suspended = ($5,000 / $10,000) x $6,000 = $3,000; Allowed from I = $2,000
+Activity II suspended = ($3,000 / $10,000) x $6,000 = $1,800; Allowed from II = $1,200
+Activity III suspended = ($2,000 / $10,000) x $6,000 = $1,200; Allowed from III = $800
+
+Net Passive Activity Income and Loss Computation for Tax Return
+Step 1: Combine income and losses from all passive activities.
+Step 2: If total passive income exceeds total passive losses, the net income is reported normally. The passive activity rules do not limit passive income.
+Step 3: If total passive losses exceed total passive income, the excess loss is suspended (subject to the $25,000 rental allowance exception).
+
+Treatment of Passive Income and Loss Categories on the Return
+When reporting on the tax return:
+- Passive income from partnerships and S corporations is reported on Schedule E.
+- Passive income includes net rental income and income from passive trade or business activities.
+- Taxable interest and dividends are PORTFOLIO income, NOT passive income. They are reported on Schedule B.
+- Wages and salaries are ACTIVE income, NOT passive income.
+
+Disposition of Passive Activity
+When a taxpayer disposes of an entire interest in a passive activity in a fully taxable transaction to an unrelated party, all accumulated suspended passive losses from that activity become fully deductible (not just against passive income but against any income). This is the primary mechanism for unlocking suspended passive losses.
+
+If the disposition is by gift, the suspended losses are added to the basis of the gifted interest. If by death, suspended losses up to the amount of the step-up in basis are permanently lost; any excess is deductible on the decedent's final return.
+
+PART II: AT-RISK RULES (IRC Section 465)
+
+Overview
+The at-risk rules limit the deductible loss from an activity to the amount the taxpayer has at risk in that activity. The at-risk rules apply to individuals and to certain closely held C corporations.
+
+Amount At Risk
+A taxpayer's amount at risk in an activity includes:
+1. The amount of money contributed to the activity.
+2. The adjusted basis of property contributed to the activity.
+3. Amounts borrowed for use in the activity if the taxpayer is personally liable for repayment (recourse debt), or if the taxpayer pledges property (other than property used in the activity) as security for the borrowed amount.
+4. The taxpayer's share of qualified nonrecourse financing secured by real property used in the activity (special rule for real estate).
+
+The amount at risk is increased by income and gains from the activity and decreased by losses allowed and by distributions or withdrawals from the activity.
+
+Amounts NOT At Risk
+A taxpayer is not at risk for:
+- Nonrecourse loans used in the activity (except qualified nonrecourse financing for real estate).
+- Cash, property, or borrowed amounts protected against loss by a guarantee, stop-loss agreement, or other similar arrangement.
+- Amounts borrowed from a person who has an interest in the activity other than as a creditor, or from a related person who has an interest in the activity.
+
+Qualified Nonrecourse Financing (QNF)
+For activities of holding real property, a special rule allows qualified nonrecourse financing to be included in the amount at risk. Qualified nonrecourse financing is financing that meets ALL of the following requirements:
+1. It is borrowed by the taxpayer in connection with the activity of holding real property.
+2. It is secured by real property used in the activity.
+3. No person is personally liable for repayment (it is nonrecourse).
+4. It is not convertible debt.
+5. It is loaned or guaranteed by a federal, state, or local government, or borrowed from a qualified person.
+
+A "qualified person" is a person who is in the business of lending money, such as a bank, savings and loan, or insurance company. A qualified person does NOT include:
+- A related person (as defined under IRC Section 465(b)(3)(C)).
+- A person from whom the taxpayer acquired the property (the seller).
+- A person who receives a fee from the taxpayer for the taxpayer's investment in the real property.
+
+At-Risk Basis Computation Example
+If a partner contributes $30,000 cash, the partnership borrows $100,000 on a recourse note (partner is personally liable for their share), and the partner's share of the recourse debt is $50,000, then the partner's at-risk amount is $80,000 ($30,000 cash + $50,000 share of recourse debt).
+
+If instead the $100,000 loan is nonrecourse but is qualified nonrecourse financing secured by the real property, the partner's at-risk amount would still include their share of the QNF.
+
+If the loan is nonrecourse and does NOT qualify as QNF (for example, it is from a related party or the seller), then the partner's at-risk amount does NOT include the partner's share of that loan.
+
+At-Risk Basis with Multiple Debt Types Example
+Suzie, a single taxpayer, is a partner in LOL partnership. She contributed $20,000 in cash. The partnership has the following liabilities:
+- $60,000 recourse note from a bank (Suzie's share = $30,000)
+- $40,000 nonrecourse note from the seller of the property
+
+Suzie's at-risk amount = $20,000 (cash) + $30,000 (recourse) = $50,000
+The $40,000 seller-financed nonrecourse note is NOT qualified nonrecourse financing because it is from the seller, not a qualified lender. Therefore Suzie's share of this note is NOT included in her at-risk amount.
+
+Recapture of Previously Allowed Losses
+If a taxpayer's amount at risk in an activity is reduced below zero at the end of a tax year (due to distributions, debt changes, etc.), the taxpayer must recapture (include in income) previously allowed losses to the extent the at-risk amount goes below zero.
+
+Order of Application
+The at-risk rules apply BEFORE the passive activity rules. A loss must first pass the at-risk limitation, and then it is subject to the passive activity rules.
+
+INTERACTION BETWEEN AT-RISK AND PASSIVE ACTIVITY RULES
+
+Step 1: Compute the loss from the activity.
+Step 2: Apply the at-risk limitation (Section 465). Losses in excess of the at-risk amount are suspended under the at-risk rules.
+Step 3: Apply the passive activity loss rules (Section 469) to the remaining allowable loss. If the activity is passive and there is not sufficient passive income, the loss is further suspended under the PAL rules.
+
+COMMON EXAM COMPUTATION SCENARIOS
+
+Scenario: Net Passive Activity Income
+Charlie reports: Wages $50,000, Taxable interest $10,000, Partnership A passive income $8,000, Partnership B passive loss ($5,000), Rental real estate loss ($15,000).
+
+Step 1: Passive income = $8,000 (Partnership A). Passive losses = $5,000 (B) + $15,000 (rental) = $20,000.
+Step 2: Net passive loss = $20,000 - $8,000 = $12,000 disallowed (before $25,000 allowance).
+Step 3: $25,000 rental allowance may apply if Charlie actively participates and MAGI < $150,000.
+Step 4: Wages ($50,000) and taxable interest ($10,000) are NOT passive income; they do not offset passive losses.
+
+Net passive income = $0 (there is a net passive LOSS). Passive income reported on the return = $8,000 gross passive income from Partnership A (offset by passive losses).
+
+FORM REFERENCES
+- Form 6198: At-Risk Limitations
+- Form 8582: Passive Activity Loss Limitations
+- Form 8582-CR: Passive Activity Credit Limitations

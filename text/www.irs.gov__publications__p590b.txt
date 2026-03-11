@@ -1,6 +1,92 @@
-Publication 590-B (2025), Distributions from Individual Retirement Arrangements (IRAs)
-Source: https://www.irs.gov/publications/p590b
+IRS Publication 590-B – Distributions from Individual Retirement Arrangements (IRAs) (Full Reference)
 
-- Publication 590-B is the IRS guide to distributions from individual retirement arrangements (IRAs).
-- Use it for questions about taxable and nontaxable IRA distributions, early distribution rules, rollovers, conversions, basis recovery, and beneficiary/distribution issues.
-- This publication is most useful when the question is about taking money out of an IRA rather than contributing to one.
+OVERVIEW
+Publication 590-B covers the rules for distributions from traditional and Roth IRAs. It explains when distributions are taxable, when the 10% early distribution penalty applies, required minimum distributions, and special rules for inherited IRAs.
+
+CHAPTER 1: TRADITIONAL IRA DISTRIBUTIONS
+
+Taxability
+Distributions from a traditional IRA are generally fully taxable as ordinary income if all contributions were deductible. If you made nondeductible contributions, a portion of each distribution is nontaxable (return of your nondeductible contributions). The nontaxable portion is determined using the ratio of nondeductible contributions (basis) to the total value of all traditional IRAs.
+
+Formula (Form 8606):
+Nontaxable portion = (Total nondeductible contributions / Total value of all traditional IRAs) x Distribution amount
+
+Early Distribution Penalty (10% Additional Tax)
+Distributions before age 59-1/2 are generally subject to a 10% additional tax unless an exception applies.
+
+Exceptions to the 10% penalty include:
+- Death or disability
+- Substantially equal periodic payments (SEPP / 72(t) distributions)
+- Unreimbursed medical expenses exceeding 7.5% of AGI
+- Health insurance premiums while unemployed
+- Qualified higher education expenses
+- First-time homebuyer expenses (up to $10,000 lifetime)
+- IRS levy
+- Qualified reservist distribution
+- Birth or adoption expenses (up to $5,000)
+- Terminal illness
+- Domestic abuse victims (up to $10,000, starting 2024)
+- Emergency personal expense distributions (starting 2024)
+
+CHAPTER 2: REQUIRED MINIMUM DISTRIBUTIONS (RMDs)
+
+Traditional IRA
+Under the SECURE 2.0 Act, the RMD beginning age is:
+- Born 1951-1959: Age 73
+- Born 1960 or later: Age 75
+
+You must take your first RMD by April 1 of the year following the year you reach the applicable age. Subsequent RMDs must be taken by December 31 of each year. If you delay your first RMD to April 1, you must also take the second RMD by December 31 of the same year (double RMD year).
+
+RMD Calculation:
+RMD = Account balance (as of December 31 of the prior year) / Distribution period (from the Uniform Lifetime Table)
+
+The Uniform Lifetime Table provides distribution periods based on age. For example:
+- Age 73: distribution period = 26.5
+- Age 75: distribution period = 24.6
+- Age 80: distribution period = 20.2
+
+If your sole beneficiary is your spouse who is more than 10 years younger, you use the Joint Life and Last Survivor Table, which provides longer distribution periods (smaller RMDs).
+
+Failure to take required RMDs results in a 25% excise tax on the shortfall (reduced from 50% by SECURE 2.0). If corrected within the correction window (generally 2 years), the penalty is reduced to 10%.
+
+Roth IRA
+The original Roth IRA owner is NOT subject to RMDs during their lifetime. This is a key advantage of Roth IRAs over traditional IRAs.
+
+Inherited Roth IRA beneficiaries ARE subject to distribution requirements.
+
+CHAPTER 3: ROTH IRA DISTRIBUTIONS
+
+Ordering Rules for Roth IRA Distributions:
+Roth IRA distributions are treated as coming out in the following order:
+1. Regular contributions (always tax-free and penalty-free)
+2. Conversion contributions (FIFO — first converted, first out; tax-free but subject to 5-year rule for penalty-free treatment if under 59-1/2)
+3. Earnings (taxable and potentially subject to penalty unless the distribution is qualified)
+
+Qualified Distributions (completely tax-free):
+A Roth IRA distribution is qualified if:
+(a) It is made after the 5-year period beginning with the first tax year for which a Roth IRA contribution was made, AND
+(b) It meets one of these conditions: the owner is age 59-1/2 or older, it is made on account of death, it is made on account of disability, or it is for first-time homebuyer expenses (up to $10,000)
+
+Non-qualified distributions of earnings are included in income and may be subject to the 10% early distribution penalty.
+
+CHAPTER 4: INHERITED IRAs
+
+Spouse Beneficiary Options:
+- Treat as own IRA (roll over to own IRA)
+- Remain as beneficiary
+- Take a lump-sum distribution
+- 10-year rule (if applicable)
+
+Non-Spouse Beneficiary (after SECURE Act):
+- Eligible designated beneficiaries (EDBs): minor children of the decedent, disabled or chronically ill individuals, individuals not more than 10 years younger than the decedent, and certain trusts. EDBs can use the stretch (life expectancy) method.
+- Non-eligible designated beneficiaries (most other individuals): Must withdraw the entire balance within 10 years of the owner's death (the 10-year rule). Under the SECURE 2.0 Act final regulations, if the owner had already begun RMDs, annual distributions may also be required within the 10-year period.
+
+CHAPTER 5: ROTH CONVERSIONS AND RECHARACTERIZATIONS
+
+Roth Conversion: Converting a traditional IRA to a Roth IRA triggers income recognition on the pre-tax portion of the converted amount. However, the 10% early distribution penalty does NOT apply to conversions.
+
+Recharacterization: The ability to recharacterize (undo) Roth conversions was eliminated by the Tax Cuts and Jobs Act starting in 2018. You can still recharacterize regular IRA contributions (e.g., recharacterize a traditional IRA contribution as a Roth IRA contribution, or vice versa) before the due date of the return.
+
+CHAPTER 6: NET UNREALIZED APPRECIATION (NUA)
+
+If you receive employer securities in a lump-sum distribution from a qualified retirement plan, you can elect to defer tax on the net unrealized appreciation (NUA) until you sell the securities. The NUA is the difference between the employer's cost basis and the FMV at the time of distribution. When you sell, the NUA portion is taxed as long-term capital gain regardless of how long you held the securities after distribution.

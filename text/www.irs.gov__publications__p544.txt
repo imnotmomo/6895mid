@@ -1,51 +1,204 @@
-Publication 544, Sales and Other Dispositions of Assets.
+IRS Publication 544 – Sales and Other Dispositions of Assets (Full Reference)
 
-This document summarizes IRS guidance on sales, exchanges, involuntary conversions, and other dispositions of assets.
+OVERVIEW
+Publication 544 explains the tax rules that apply when you dispose of property. It covers sales, exchanges, involuntary conversions, and other dispositions. It explains how to figure gain or loss, whether it is ordinary or capital, and special rules that apply to certain types of transactions.
 
-General gain or loss rule:
-Gain or loss from a sale or exchange is generally figured by comparing the amount realized with the adjusted basis of the property disposed of.
+CHAPTER 1: GAIN OR LOSS
 
-Amount realized:
-The amount realized generally includes money received plus the fair market value of other property received, reduced by selling expenses when appropriate.
+Computing Gain or Loss
+Gain or loss is computed as:
+Amount Realized - Adjusted Basis = Gain (or Loss)
 
-Adjusted basis:
-Adjusted basis starts from basis and is then increased or decreased by adjustments required under the tax rules, including improvements and depreciation.
+Amount Realized includes money received, the fair market value (FMV) of property or services received, and any liabilities assumed by the buyer or liabilities to which the transferred property is subject.
 
-Section 1231 and business property:
-Business-use real and depreciable property may be subject to section 1231 rules. Net section 1231 gain may receive capital-gain treatment and net section 1231 loss may receive ordinary-loss treatment, subject to recapture rules.
+Adjusted Basis is generally the cost of the property, adjusted for improvements, depreciation, and other items.
 
-Depreciation recapture:
-Depreciation or additional depreciation may cause ordinary income recapture under section 1245 or section 1250 rules when qualifying property is disposed of.
+Recognition of Gain or Loss
+Generally, gain or loss must be recognized (reported) in the year of the sale or exchange. However, several nonrecognition rules allow gain to be deferred, including like-kind exchanges (Section 1031) and involuntary conversions (Section 1033).
 
-Like-kind exchanges of real property:
-Real property held for productive use in a trade or business or for investment may qualify for nonrecognition treatment if exchanged solely for like-kind real property held for productive use in a trade or business or for investment, subject to the rules described in the publication.
+CHAPTER 2: ORDINARY OR CAPITAL GAIN OR LOSS
 
-Recognized gain in like-kind exchange:
-Even in a qualifying like-kind exchange, gain may be recognized to the extent of money or other non-like-kind property received. Loss is generally not recognized in a like-kind exchange.
+Capital Assets
+Capital assets include most property you own for personal use or investment. Property that is NOT a capital asset includes: inventory, accounts receivable, depreciable property used in a trade or business, real property used in a trade or business, certain copyrights and creative works, and U.S. government publications.
 
-Liabilities in like-kind exchanges:
-Relief from liabilities is treated similarly to money received. Liabilities assumed by the taxpayer can offset liabilities assumed by the other party. Net liability relief can increase the amount of boot and affect recognized gain calculations.
+Section 1231 Property
+Section 1231 property includes depreciable property and real property used in a trade or business and held for more than one year. Net Section 1231 gains are treated as long-term capital gains. Net Section 1231 losses are treated as ordinary losses. However, the Section 1231 lookback rule requires net gain to be treated as ordinary income to the extent of unrecaptured net Section 1231 losses from the prior 5 years.
 
-Basis of replacement property in like-kind exchange:
-The basis of replacement property generally begins with the adjusted basis of property given up, adjusted for money received, money paid, gain recognized, loss recognized where applicable, and non-like-kind property involved in the exchange.
+Depreciation Recapture
+Section 1245 recapture: Gain on the sale of Section 1245 property (depreciable personal property) is treated as ordinary income to the extent of depreciation allowed or allowable.
 
-Involuntary conversions:
-Property converted because of destruction, theft, seizure, requisition, condemnation, or threat of condemnation can trigger gain or loss. Gain can be deferred if replacement-property requirements are met under the rules summarized in the publication.
+Section 1250 recapture: Gain on the sale of Section 1250 property (depreciable real property) is treated as ordinary income to the extent of excess depreciation (depreciation in excess of straight-line). Under current law with MACRS using straight-line for real property, Section 1250 recapture is generally zero. However, unrecaptured Section 1250 gain is taxed at a maximum rate of 25%.
 
-Sale of business assets:
-The publication explains allocation issues, reporting of business-asset sales, and treatment of classes of assets and intangible assets.
+CHAPTER 3: LIKE-KIND EXCHANGES (SECTION 1031)
 
-Main-home cross-reference:
-Sale of a main home is generally covered by Publication 523 rather than Publication 544.
+Overview
+Under Section 1031, no gain or loss is recognized on the exchange of real property held for productive use in a trade or business or for investment, if the property is exchanged solely for property of a like kind that will also be held for productive use in a trade or business or for investment.
 
-Installment-sale cross-reference:
-Installment-sale rules are generally covered in Publication 537.
+After the Tax Cuts and Jobs Act of 2017, like-kind exchange treatment is limited to real property only. Personal property exchanges no longer qualify for Section 1031 nonrecognition.
 
-Useful decision sequence for property-transaction questions:
-1. Identify the type of asset and whether it is personal, investment, or business property.
-2. Compute adjusted basis.
-3. Compute amount realized.
-4. Determine realized gain or loss.
-5. Check whether nonrecognition rules apply, including like-kind exchange or involuntary conversion rules.
-6. Apply any boot, liability, recapture, or character rules.
-7. Determine the basis of replacement property if relevant.
+Like-Kind Requirement
+Like kind refers to the nature or character of the property, not its grade or quality. Any real property held for business use or investment is generally like kind to any other real property held for business use or investment. Examples: raw land exchanged for an apartment building; a commercial building exchanged for a rental house.
+
+Boot
+If, in addition to like-kind property, the taxpayer receives other property or money (called "boot"), gain is recognized to the extent of the boot received. The recognized gain is the LESSER of:
+(a) The realized gain, OR
+(b) The boot received (fair market value of non-like-kind property + money received + net liability relief)
+
+Boot includes: cash received, FMV of non-like-kind property received, and net liability relief (liabilities assumed by the other party minus liabilities assumed by the taxpayer, if net is positive, it is boot to the taxpayer).
+
+Liability Relief as Boot
+When liabilities are involved in a like-kind exchange:
+- Liabilities assumed by the other party (relieved from the taxpayer) are treated as boot RECEIVED by the taxpayer.
+- Liabilities assumed by the taxpayer are treated as boot GIVEN by the taxpayer.
+- The net liability relief is computed as: liabilities given up minus liabilities assumed. If positive, the net amount is boot received.
+
+Recognized Gain Computation
+Step 1: Compute realized gain = (FMV of property received + boot received + liabilities relieved) - (adjusted basis of property given up + boot paid + liabilities assumed)
+Step 2: Compute boot received = money received + FMV of non-like-kind property + net liability relief (if positive)
+Step 3: Recognized gain = lesser of realized gain or boot received
+Step 4: Deferred gain = realized gain - recognized gain
+
+Basis of Property Received in Like-Kind Exchange
+The basis of like-kind property received is:
+Adjusted basis of property given up
++ Boot paid (cash + FMV of other property given + liabilities assumed)
+- Boot received (cash + FMV of other property received + liabilities relieved)
++ Recognized gain
+- Recognized loss
+
+Alternatively: Basis of new property = FMV of new property - Deferred gain (or + Deferred loss)
+
+Detailed Example: Like-Kind Exchange with Boot and Liabilities
+Taxpayer exchanges a building in Florida (FMV $800,000, adjusted basis $500,000, subject to mortgage $100,000) plus $50,000 cash for a building in Texas (FMV $750,000, subject to mortgage $0).
+
+Given up: Building (basis $500,000, FMV $800,000, mortgage $100,000) + $50,000 cash
+Received: Building (FMV $750,000)
+
+Liabilities relieved: $100,000 (Florida mortgage assumed by other party)
+Liabilities assumed: $0
+Net liability relief: $100,000 (boot received)
+Cash paid: $50,000 (boot given, offsets boot received)
+Net boot received: $100,000 - $50,000 = $50,000
+
+Realized gain = $800,000 - $500,000 = $300,000
+Recognized gain = lesser of $300,000 or $50,000 = $50,000
+Deferred gain = $300,000 - $50,000 = $250,000
+
+Basis of Texas building = $500,000 + $50,000 (cash paid) - $100,000 (liability relief) + $50,000 (gain recognized) = $500,000
+Check: $750,000 FMV - $250,000 deferred = $500,000. Correct.
+
+Another Example: Like-Kind Exchange with Mortgage on Both Sides
+Taxpayer A exchanges Building X (FMV $500,000, basis $300,000, mortgage $100,000) for Building Y (FMV $450,000, mortgage $50,000).
+
+A gives up mortgage: $100,000 (relieved)
+A assumes mortgage: $50,000
+Net liability relief to A: $100,000 - $50,000 = $50,000 (this is boot received by A)
+
+Realized gain = ($450,000 + $50,000 net boot) - $300,000 = $200,000
+Recognized gain = lesser of $200,000 or $50,000 = $50,000
+Deferred gain = $150,000
+
+Basis of Building Y = $300,000 - $50,000 (net boot received) + $50,000 (recognized gain) = $300,000
+Check: $450,000 - $150,000 = $300,000. Correct.
+
+CHAPTER 4: INVOLUNTARY CONVERSIONS (SECTION 1033)
+
+Overview
+An involuntary conversion occurs when your property is destroyed, stolen, condemned, or disposed of under threat of condemnation, and you receive insurance proceeds or other compensation. Under Section 1033, you can elect to defer gain if you replace the converted property with property that is similar or related in service or use within the replacement period.
+
+Gain Deferral Rules
+If the amount realized (insurance proceeds or condemnation award) exceeds the adjusted basis of the converted property, gain is realized. However, the taxpayer may elect to defer the gain if they reinvest in qualified replacement property.
+
+The gain deferred depends on the cost of the replacement property:
+- If cost of replacement >= amount realized, ALL gain is deferred
+- If cost of replacement < amount realized, Gain recognized = Amount realized - Cost of replacement (but not more than the realized gain)
+
+Formula:
+Gain recognized = Amount realized - Cost of replacement property (if replacement costs less than amount realized)
+If replacement property costs more than or equal to amount realized, gain recognized = $0.
+
+Basis of Replacement Property
+Basis of replacement property = Cost of replacement - Deferred gain
+
+The effect is that the deferred gain reduces the basis of the replacement property, so the gain is preserved for future recognition when the replacement property is eventually sold.
+
+Replacement Period
+The replacement period begins on the date of the involuntary conversion and ends:
+- 2 years after the close of the first tax year in which any gain is realized (general rule)
+- 3 years for condemned real property held for business or investment
+- 4 years for federally declared disasters for business or investment property
+
+Detailed Example: Involuntary Conversion
+Chad's office building (adjusted basis $200,000) is destroyed by a tornado. He receives $350,000 in insurance proceeds. He purchases a new office building for $300,000.
+
+Amount realized: $350,000
+Adjusted basis: $200,000
+Realized gain: $350,000 - $200,000 = $150,000
+
+Cost of replacement: $300,000
+Since $300,000 < $350,000, some gain must be recognized.
+Gain recognized = $350,000 - $300,000 = $50,000
+Gain deferred = $150,000 - $50,000 = $100,000
+
+Basis of new building = $300,000 - $100,000 = $200,000
+
+If Chad had purchased a replacement for $350,000 or more, all $150,000 gain would be deferred, and the basis of the new building would be $350,000 - $150,000 = $200,000.
+
+CHAPTER 5: SALE OF PERSONAL RESIDENCE (SECTION 121)
+
+Exclusion of Gain
+Under Section 121, a taxpayer may exclude up to $250,000 of gain ($500,000 for married filing jointly) from the sale of a principal residence if the ownership and use tests are met.
+
+Ownership and Use Tests
+The taxpayer must have owned and used the property as a principal residence for at least 2 of the 5 years preceding the sale. The 2 years do not need to be consecutive.
+
+For married filing jointly, the $500,000 exclusion applies if:
+- Either spouse meets the ownership test, AND
+- Both spouses meet the use test, AND
+- Neither spouse excluded gain from the sale of another home within the last 2 years.
+
+Reduced Exclusion
+If the ownership and use tests are not fully met, a reduced exclusion may be available if the sale was due to a change in employment, health, or unforeseen circumstances. The reduced exclusion is:
+(Number of qualifying months / 24) x $250,000 (or $500,000 if MFJ)
+
+Computation Example
+A married couple purchased their home for $300,000, spent $40,000 on improvements, and sold it for $800,000.
+Adjusted basis: $300,000 + $40,000 = $340,000
+Gain: $800,000 - $340,000 = $460,000
+Exclusion: $500,000 (MFJ)
+Taxable gain: $0 (gain of $460,000 < $500,000 exclusion)
+
+Single Taxpayer Residence Sale Example
+Susie purchased her primary residence on March 15, Year 4, for $240,000. She sold it on September 2, Year 8, for $500,000. She lived in it the entire time.
+Adjusted basis: $240,000
+Gain: $500,000 - $240,000 = $260,000
+Exclusion (single): $250,000
+Taxable gain: $260,000 - $250,000 = $10,000
+
+The $10,000 gain in excess of the $250,000 exclusion is taxable as capital gain (long-term, since held more than 1 year).
+
+CHAPTER 6: RELATED PARTY TRANSACTIONS
+
+Sales Between Related Parties
+Losses on sales between related parties are disallowed under Section 267. Related parties include family members (siblings, spouse, ancestors, lineal descendants), a taxpayer and a corporation in which the taxpayer owns more than 50%, and various other relationships.
+
+However, if the related buyer later sells the property at a gain to an unrelated party, the previously disallowed loss can offset the gain (but cannot create or increase a loss).
+
+Gift Element in Below-Market Sales
+When property is sold to a family member for less than FMV, the difference between FMV and the sale price may be treated as a gift. The seller must recognize gain to the extent the selling price exceeds the adjusted basis. The gift portion (FMV minus selling price) is subject to gift tax rules.
+
+Example: John sells his house (FMV $500,000, adjusted basis $200,000) to his child for $375,000.
+John's gain = $375,000 - $200,000 = $175,000 (recognized gain)
+Gift amount = $500,000 - $375,000 = $125,000 (subject to gift tax annual exclusion and lifetime exemption)
+
+CHAPTER 7: PROPERTY TRANSACTIONS IN DIVORCE
+
+Transfers Between Spouses or Incident to Divorce
+Under Section 1041, no gain or loss is recognized on transfers of property between spouses or between former spouses if the transfer is incident to divorce. The transfer is treated as a gift, and the transferee takes the transferor's adjusted basis (carryover basis).
+
+A transfer is incident to divorce if it occurs within 1 year after the date the marriage ceases, or is related to the cessation of the marriage (generally within 6 years of divorce under a divorce or separation instrument).
+
+Example: Divorce Property Transfer
+A husband and wife filed for divorce and entered into a written agreement as part of the property settlement. Under the agreement, the wife transferred her ownership in their vacation home to her husband. The home was purchased for $150,000 and had a FMV of $200,000 at the time of transfer.
+
+The wife recognizes no gain or loss on the transfer (Section 1041). The husband's basis in the vacation home is $150,000 (the wife's carryover basis), regardless of the $200,000 FMV. If the husband later sells for $200,000, he recognizes a $50,000 gain.
