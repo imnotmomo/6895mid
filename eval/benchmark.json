@@ -1,361 +1,16 @@
 [
   {
-    "question_number": 1,
-    "mcq_id": "MCQ-23846",
-    "cognitive_level": "Application",
-    "aicpa_authored": false,
-    "question": "Tate is a limited partner in three partnerships. He does not materially participate in any of the activities. For the current year, Tate's share of the profit and losses from each partnership are: Partnership A ($20,000) Partnership B 60,000 Partnership C (140,000) Total (100,000) What amount of suspended passive activity loss is allocated to partnership C?",
-    "options": {
-      "A": "$87,500",
-      "B": "$0",
-      "C": "$140,000",
-      "D": "$12,500"
-    },
-    "module": "T1-M2",
-    "source_question_pdf": "T1-M2题目，MCQ28道全.pdf",
-    "source_answer_pdf": "T1-M2答案，MCQ28道全.pdf",
-    "correct_answer": "A",
-    "explanations": {
-      "A": {
-        "status": "correct",
-        "explanation": "For thecurrentyear,thesuspended netpassive activity loss is $100,000. The amount of the loss allocated to partnership C is $87,500: Partnership A loss $ 20,000 Partnership C loss 140,000 Total losses 160,000 Partnership A $20,000 / 160,000 × 100,000 = $12,500 Partnership C $140,000 / 160,000 × 100,000 = $87,500"
-      },
-      "B": {
-        "status": "incorrect",
-        "explanation": "The suspended activity losses are allocated between the passive activities based on the ratio of each activity's loss to the total losses."
-      },
-      "C": {
-        "status": "incorrect",
-        "explanation": "The total loss for partnership C is$140,000. The passive activity losses are netted, and any suspendedpassive loss is allocated between the partnerships based on the ratio of each activity's loss to the total loss."
-      },
-      "D": {
-        "status": "incorrect",
-        "explanation": "This isthe amountallocated to partnership A."
-      }
-    },
-    "correct_explanation": "For thecurrentyear,thesuspended netpassive activity loss is $100,000. The amount of the loss allocated to partnership C is $87,500: Partnership A loss $ 20,000 Partnership C loss 140,000 Total losses 160,000 Partnership A $20,000 / 160,000 × 100,000 = $12,500 Partnership C $140,000 / 160,000 × 100,000 = $87,500",
-    "topic": "passive_activity_and_at_risk",
-    "topic_guess": "passive_activity_and_at_risk"
-  },
-  {
-    "question_number": 2,
-    "mcq_id": "MCQ-23842",
-    "cognitive_level": "Application",
-    "aicpa_authored": false,
-    "question": "Suzie, a single taxpayer, is a partner in LOL partnership. She contributed an initial cash amount of $50,000 to the partnership. In addition, Suzie was allocated $40,000 of recourse debt that she personally guaranteed and $25,000 of nonrecourse debt (which is not qualified nonrecourse financing). What is Suzie's tax basis and at-risk basis in LOL partnership?",
-    "options": {
-      "A": "Tax basis $90,000; at-risk basis $90,000",
-      "B": "Tax basis $115,000; at-risk basis $115,000",
-      "C": "Tax basis $115,000; at-risk basis $90,000",
-      "D": "Tax basis $90,000; at-risk basis $115,000"
-    },
-    "module": "T1-M2",
-    "source_question_pdf": "T1-M2题目，MCQ28道全.pdf",
-    "source_answer_pdf": "T1-M2答案，MCQ28道全.pdf",
-    "correct_answer": "C",
-    "explanations": {
-      "C": {
-        "status": "correct",
-        "explanation": "The tax basis in the partnership is $115,000 ($50,000 cash contribution + $40,000 recourse debt + $25,000 nonrecourse debt). At-risk basis in the partnership equals $90,000 ($50,000 cash contribution + $40,000 recourse debt). The additional $25,000of nonrecourse debt (which is not qualified nonrecourse financing) does not increase Suzie's basisbecause she is not personally liable for it."
-      },
-      "A": {
-        "status": "incorrect",
-        "explanation": "The tax basis must also be increased by nonrecourse debt of $25,000. The at-risk basis correctly excludes the nonrecourse debt."
-      },
-      "B": {
-        "status": "incorrect",
-        "explanation": "The tax basis is correct, butthe at-risk basis should not include nonrecourse debt."
-      },
-      "D": {
-        "status": "incorrect",
-        "explanation": "The tax basis must also be increased by nonrecourse debt of $25,000. At-risk basis should not include nonrecourse debt."
-      }
-    },
-    "correct_explanation": "The tax basis in the partnership is $115,000 ($50,000 cash contribution + $40,000 recourse debt + $25,000 nonrecourse debt). At-risk basis in the partnership equals $90,000 ($50,000 cash contribution + $40,000 recourse debt). The additional $25,000of nonrecourse debt (which is not qualified nonrecourse financing) does not increase Suzie's basisbecause she is not personally liable for it.",
-    "topic": "passive_activity_and_at_risk",
-    "topic_guess": "passive_activity_and_at_risk"
-  },
-  {
-    "question_number": 3,
-    "mcq_id": "MCQ-23855",
-    "cognitive_level": "Application",
-    "aicpa_authored": false,
-    "question": "In Year 1, Miles reports the following: Wages $ 50,000 Partnership Blue income (loss) 5,000 Partnership Red income (loss) (2,000) Suspended passive activity losses from partnership Red (10,000) Gain from sale of partnership Red interest 500 Miles does not materially participate in either partnership Blue or Red. Miles disposed of his interest in partnership Red in the current year. How much of the losses from partnership Red are deductible in the current year?",
-    "options": {
-      "A": "$2,000",
-      "B": "$12,000",
-      "C": "$500",
-      "D": "$0"
-    },
-    "module": "T1-M2",
-    "source_question_pdf": "T1-M2题目，MCQ28道全.pdf",
-    "source_answer_pdf": "T1-M2答案，MCQ28道全.pdf",
-    "correct_answer": "B",
-    "explanations": {
-      "B": {
-        "status": "correct",
-        "explanation": "Passive activity losses may only offset passive income.However, in the year thetaxpayer disposes of apassive activity, any current or suspended passive activity losses may offset all sources of income (active, passive,or portfolio). Because Miles disposed of the interest inpartnershipRed in the current year, the passive activity loss of $2,000 inthe current year and the suspended passive activity losses of $10,000 from prior years can offset all current year income.$12,000 of the losses from partnership Red are deductiblein thecurrent year."
-      },
-      "A": {
-        "status": "incorrect",
-        "explanation": "The current year loss and suspended passive activity losses from partnership Red are fully deductible in the current year because the taxpayer disposed of the passive activity."
-      },
-      "C": {
-        "status": "incorrect",
-        "explanation": "The losses from partnership Red are fully deductiblebecause the taxpayer disposed of the passive activity in the current year."
-      },
-      "D": {
-        "status": "incorrect",
-        "explanation": "Passive activity losses are deductible against passive income. Furthermore, inthe year the taxpayer disposes of a passiveactivity, anycurrentorsuspendedpassiveactivitylossesmay offset all sources of income(active, passive, or portfolio)."
-      }
-    },
-    "correct_explanation": "Passive activity losses may only offset passive income.However, in the year thetaxpayer disposes of apassive activity, any current or suspended passive activity losses may offset all sources of income (active, passive,or portfolio). Because Miles disposed of the interest inpartnershipRed in the current year, the passive activity loss of $2,000 inthe current year and the suspended passive activity losses of $10,000 from prior years can offset all current year income.$12,000 of the losses from partnership Red are deductiblein thecurrent year.",
-    "topic": "passive_activity_and_at_risk",
-    "topic_guess": "passive_activity_and_at_risk"
-  },
-  {
-    "question_number": 4,
-    "mcq_id": "MCQ-23844",
-    "cognitive_level": "Application",
-    "aicpa_authored": false,
-    "question": "In the current tax year, Reese reported the following: Salary $70,000 Taxable interest 2,500 Dividends 5,000 Partnership ABC loss (45,000) Partnership XYZ income 10,000 Reese does not materially participate in either ABC or XYZ partnerships. Her tax basis is $13,000, and her at-risk basis is $12,000 in the ABC partnership. Her tax basis is $15,000, and her at-risk basis is $14,000 in the XYZ partnership. What is Reese's current year AGI?",
-    "options": {
-      "A": "$77,500",
-      "B": "$75,500",
-      "C": "$87,500",
-      "D": "$42,500"
-    },
-    "module": "T1-M2",
-    "source_question_pdf": "T1-M2题目，MCQ28道全.pdf",
-    "source_answer_pdf": "T1-M2答案，MCQ28道全.pdf",
-    "correct_answer": "A",
-    "explanations": {
-      "A": {
-        "status": "correct",
-        "explanation": "Reese's current year AGI is calculated as follows: Salary $70,000 Interest 2,500 Dividends 5,000 Net passive income 0 AGI $77,500 The ABC partnership loss isfirst limited by the tax basis of $13,000 andthenthe at-risk basis of $12,000. The loss is a passive loss because Reese does not materially participate inthe partnership, so the loss is only deductibleagainst passive income. Reese's passive incomeequals the $10,000 incomefrom XYZ partnership. Reese's netpassive incomeis zero ($10,000 XYZ income– $10,000 deductibleABCloss)andshehasa$2,000passivelosscarryforward."
-      },
-      "B": {
-        "status": "incorrect",
-        "explanation": "The loss inABC partnership is a passive loss andisonly deductible to the extent of passive income."
-      },
-      "C": {
-        "status": "incorrect",
-        "explanation": "The ABC partnership loss isdeductible to the extent of passive income."
-      },
-      "D": {
-        "status": "incorrect",
-        "explanation": "TheABClossisnotfullydeductiblebecauseit is limited by tax basis, at-risk basis, and passive loss limitations."
-      }
-    },
-    "correct_explanation": "Reese's current year AGI is calculated as follows: Salary $70,000 Interest 2,500 Dividends 5,000 Net passive income 0 AGI $77,500 The ABC partnership loss isfirst limited by the tax basis of $13,000 andthenthe at-risk basis of $12,000. The loss is a passive loss because Reese does not materially participate inthe partnership, so the loss is only deductibleagainst passive income. Reese's passive incomeequals the $10,000 incomefrom XYZ partnership. Reese's netpassive incomeis zero ($10,000 XYZ income– $10,000 deductibleABCloss)andshehasa$2,000passivelosscarryforward.",
-    "topic": "passive_activity_and_at_risk",
-    "topic_guess": "passive_activity_and_at_risk"
-  },
-  {
-    "question_number": 5,
-    "mcq_id": "MCQ-23854",
-    "cognitive_level": "Application",
-    "aicpa_authored": false,
-    "question": "A taxpayer reports the following information in Year 1: Salary $80,000 Taxable interest 5,000 Partnership A income (loss) 10,000 Partnership B income (loss) (8,000) The taxpayer does not materially participate in either partnership A or B. The taxpayer disposed of partnership B in the current year with no gain or loss. Suspended loss carryovers from prior years for partnership B amount to $50,000. What is the taxpayer's adjusted gross income for the current year?",
-    "options": {
-      "A": "$85,000",
-      "B": "$87,000",
-      "C": "$95,000",
-      "D": "$37,000"
-    },
-    "module": "T1-M2",
-    "source_question_pdf": "T1-M2题目，MCQ28道全.pdf",
-    "source_answer_pdf": "T1-M2答案，MCQ28道全.pdf",
-    "correct_answer": "D",
-    "explanations": {
-      "D": {
-        "status": "correct",
-        "explanation": "The $80,000 salary, $5,000 taxable interest, and$10,000 incomefrom partnership A are fully taxableincome. Passive activity losses can onlyoffset passive income. However, in the year the taxpayer disposes of a passive activity, any current or suspended passive activity losses mayoffset all sources of income (active, passive, or portfolio). Because the taxpayer disposed of the interestinpartnershipBinthecurrentyear,thepassiveactivitylossof $8,000 in the current year and the suspended passive activity losses of $50,000 from prior years can offset all current year income. Salary $ 80,000 Taxable interest 5,000 Partnership A income 10,000 Partnership B (loss) (8,000) Partnership B suspended PALs (50,000) Adjusted gross income $ 37,000"
-      },
-      "A": {
-        "status": "incorrect",
-        "explanation": "Adjusted gross incomeincludes the income from partnership A. The current and suspended losses from partnership B are deductible against all sources of incomein the current year because the taxpayer disposed of the activity."
-      },
-      "B": {
-        "status": "incorrect",
-        "explanation": "The current year loss and suspended passive activity losses from partnership B are deductible inthe current year against all types of incomebecause the taxpayer disposedof the passive activity."
-      },
-      "C": {
-        "status": "incorrect",
-        "explanation": "The current year loss and suspended passive activity losses from partnership B are deductible inthe current year against all types of incomebecause the taxpayer disposedof the passive activity."
-      }
-    },
-    "correct_explanation": "The $80,000 salary, $5,000 taxable interest, and$10,000 incomefrom partnership A are fully taxableincome. Passive activity losses can onlyoffset passive income. However, in the year the taxpayer disposes of a passive activity, any current or suspended passive activity losses mayoffset all sources of income (active, passive, or portfolio). Because the taxpayer disposed of the interestinpartnershipBinthecurrentyear,thepassiveactivitylossof $8,000 in the current year and the suspended passive activity losses of $50,000 from prior years can offset all current year income. Salary $ 80,000 Taxable interest 5,000 Partnership A income 10,000 Partnership B (loss) (8,000) Partnership B suspended PALs (50,000) Adjusted gross income $ 37,000",
-    "topic": "passive_activity_and_at_risk",
-    "topic_guess": "passive_activity_and_at_risk"
-  },
-  {
-    "question_number": 6,
-    "mcq_id": "MCQ-23840",
-    "cognitive_level": "Application",
-    "aicpa_authored": false,
-    "question": "William, a single taxpayer, is a partner in partnership A and partnership B. William materially participates in partnership A, but does not materially participate in partnership B. This year, William's share of the partnership loss in partnership A is $22,000 and his share of the partnership income in partnership B is $5,500. Other important information: Tax basis in partnership A $9,000 At-risk basis in partnership A 7,000 Tax basis in partnership B 18,000 At-risk basis in partnership B 16,000 What is William's deductible loss from partnership A?",
-    "options": {
-      "A": "$0",
-      "B": "$5,500",
-      "C": "$7,000",
-      "D": "$9,000"
-    },
-    "module": "T1-M2",
-    "source_question_pdf": "T1-M2题目，MCQ28道全.pdf",
-    "source_answer_pdf": "T1-M2答案，MCQ28道全.pdf",
-    "correct_answer": "C",
-    "explanations": {
-      "C": {
-        "status": "correct",
-        "explanation": "William must consider tax basis, at-risk basis, andpassive activity loss limitations (inthat order) for partnership A. William has $9,000 of tax basis inpartnership A,so he will have a $13,000tax basis carryforward and zero tax basis after considering the loss. William must next consider the at-risk basis in partnership A. $9,000 of the $22,000 loss cleared tax basis. William has $7,000 of at-risk basis, sohe will have a$2,000 at-risk basis carryforward and zeroat-riskbasisafterconsideringthelossinpartnershipA.$7,000of thelossisdeductibleafterconsideringtaxbasisandat-riskbasis.The loss from partnershipA is not apassive loss because William materially participates in thepartnership, so there is no passive loss limitation and $7,000 of the loss is deductible."
-      },
-      "A": {
-        "status": "incorrect",
-        "explanation": "William has sufficient tax basis and at-risk basis to deduct a portionof the loss from partnership A."
-      },
-      "B": {
-        "status": "incorrect",
-        "explanation": "IfWilliam didnot materially participate in partnership A,then the $7,000 deductible loss would be apassive loss and wouldbe limited to William's $5,500passive income from partnership B.$5,500 would be the amount of the deductible loss if the passive loss limitations applied to the loss from partnership A."
-      },
-      "D": {
-        "status": "incorrect",
-        "explanation": "$9,000of the loss is deductible after only considering tax basis limitations. William must also consider at-risk basis limitations."
-      }
-    },
-    "correct_explanation": "William must consider tax basis, at-risk basis, andpassive activity loss limitations (inthat order) for partnership A. William has $9,000 of tax basis inpartnership A,so he will have a $13,000tax basis carryforward and zero tax basis after considering the loss. William must next consider the at-risk basis in partnership A. $9,000 of the $22,000 loss cleared tax basis. William has $7,000 of at-risk basis, sohe will have a$2,000 at-risk basis carryforward and zeroat-riskbasisafterconsideringthelossinpartnershipA.$7,000of thelossisdeductibleafterconsideringtaxbasisandat-riskbasis.The loss from partnershipA is not apassive loss because William materially participates in thepartnership, so there is no passive loss limitation and $7,000 of the loss is deductible.",
-    "topic": "passive_activity_and_at_risk",
-    "topic_guess": "passive_activity_and_at_risk"
-  },
-  {
-    "question_number": 7,
-    "mcq_id": "MCQ-23853",
-    "cognitive_level": "Application",
-    "aicpa_authored": false,
-    "question": "Banks is a limited partner in WOW partnership. In Year 1, Banks sells his interest in the WOW partnership. He has a suspended loss due to passive activity loss limitations amounting to $5,200. Other information for Year 1: Salary $30,000 Gain on sale of WOW partnership interest 3,000 Other passive income 500 How much of the $5,200 suspended loss due to passive activity loss limitations is Banks allowed to deduct in Year 1?",
-    "options": {
-      "A": "$3,000",
-      "B": "$500",
-      "C": "$0",
-      "D": "$5,200"
-    },
-    "module": "T1-M2",
-    "source_question_pdf": "T1-M2题目，MCQ28道全.pdf",
-    "source_answer_pdf": "T1-M2答案，MCQ28道全.pdf",
-    "correct_answer": "D",
-    "explanations": {
-      "D": {
-        "status": "correct",
-        "explanation": "A net passive activity loss is carried forward indefinitely. Any suspended passive activity losses remaining when the owner disposes of the passive activity can be offset against all types of income(active, passive, or portfolio income). Therefore, in Year 1Banks can fully deduct the $5,200 suspended passive activity loss."
-      },
-      "A": {
-        "status": "incorrect",
-        "explanation": "Suspended passive activity losses are fully deductiblein theyear the owner disposes of the passive activity againstalltypesofincome,notjustthegainonthesaleofthepassive activity."
-      },
-      "B": {
-        "status": "incorrect",
-        "explanation": "Suspended passive activity losses are fully deductiblein theyear the owner disposes of the passive activity against all types of income,not just passive income."
-      },
-      "C": {
-        "status": "incorrect",
-        "explanation": "Suspended passive activity losses are fully deductiblein theyear the owner disposes of the passive activity."
-      }
-    },
-    "correct_explanation": "A net passive activity loss is carried forward indefinitely. Any suspended passive activity losses remaining when the owner disposes of the passive activity can be offset against all types of income(active, passive, or portfolio income). Therefore, in Year 1Banks can fully deduct the $5,200 suspended passive activity loss.",
-    "topic": "passive_activity_and_at_risk",
-    "topic_guess": "passive_activity_and_at_risk"
-  },
-  {
-    "question_number": 1,
-    "mcq_id": "MCQ-23816",
-    "cognitive_level": "Remembering & Understanding",
-    "aicpa_authored": false,
-    "question": "Assuming an annual gift tax exclusion of $19,000, which of the following payments would require the filing of a gift tax return?",
-    "options": {
-      "A": "$50,000 payment directly to your best friend",
-      "B": "$50,000 payment directly to a political group",
-      "C": "$50,000 payment of your best friend's medical bills directly to a hospital",
-      "D": "$50,000 payment of your best friend's college tuition directly to a university"
-    },
-    "module": "T1-M3",
-    "source_question_pdf": "T1-M3题目，MCQ22道全.pdf",
-    "source_answer_pdf": "T1-M3答案，MCQ22道全.pdf",
-    "correct_answer": "A",
-    "explanations": {
-      "A": {
-        "status": "correct",
-        "explanation": "The donor may exclude the first $19,000(2025) ofgiftsmadetoeachdonee.Becausethisgiftisinexcessof$19,000, a gift tax return will need to be filed."
-      },
-      "B": {
-        "status": "incorrect",
-        "explanation": "Political contributions are not subject to gift tax."
-      },
-      "C": {
-        "status": "incorrect",
-        "explanation": "Payments made directly toa health care provider for medical care are allowed an unlimited exclusion from gift tax."
-      },
-      "D": {
-        "status": "incorrect",
-        "explanation": "Payments made directly toan educational institutionfor tuition are allowed an unlimited exclusion from gift tax."
-      }
-    },
-    "correct_explanation": "The donor may exclude the first $19,000(2025) ofgiftsmadetoeachdonee.Becausethisgiftisinexcessof$19,000, a gift tax return will need to be filed.",
-    "topic": "gift_estate_and_charitable",
-    "topic_guess": "gift_estate_and_charitable"
-  },
-  {
-    "question_number": 2,
-    "mcq_id": "MCQ-23810",
-    "cognitive_level": "Application",
-    "aicpa_authored": true,
-    "question": "A client wants to know how best to avoid gift taxes when contributing to an adult daughter's support. The daughter cannot be claimed as a dependent on the client's return. The client intends to provide the following items of support. Item of support Amount Cash $10,000 Tuition 25,000 Medical bills 3,000 Apartment rent at college 9,000 Assuming that the gift tax annual exclusion is $19,000, the client can avoid gift tax by paying which of the following items directly?",
-    "options": {
-      "A": "Tuition to the college and rent to the landlord",
-      "B": "Medical expenses to the hospital and rent to the landlord",
-      "C": "Tuition to the college",
-      "D": "Tuition to the college and medical expenses to the hospital"
-    },
-    "module": "T1-M3",
-    "source_question_pdf": "T1-M3题目，MCQ22道全.pdf",
-    "source_answer_pdf": "T1-M3答案，MCQ22道全.pdf",
-    "correct_answer": "D",
-    "explanations": {
-      "D": {
-        "status": "correct",
-        "explanation": "Theclientcanavoidgifttaxbypayingthetuition directlyto the college and the medical expenses directly to the hospital. Payments madedirectly to aneducational institution for a donee's tuition and directly to ahealth care provider for adonee's medical care have anunlimited exclusion from gift tax. The remaining giftstotheclient'sdaughter,$10,000cashand$9,000forrent,canbe offset by the $19,000 (2025) annual per donee gift tax exclusion."
-      },
-      "A": {
-        "status": "incorrect",
-        "explanation": "The client will have $3,000 in taxable gifts after the annual per donee gift tax exclusion. All of the payments are subjectto gift tax except thecollege tuition: $10,000 cash + $3,000 medicalbills + $9,000 rent =$22,000 –$19,000 annual per donee gift tax exclusion = $3,000 taxable gifts. The payment of the donee's tuition directly to the college has an unlimited exclusionfrom gift tax, butthe payment of the donee's rent made directly to the landlord is noteligible for an unlimitedexclusion."
-      },
-      "B": {
-        "status": "incorrect",
-        "explanation": "The client will have $25,000in taxable gifts aftertheannualperdoneegifttaxexclusion.($10,000cash+$25,000 college tuition + $9,000 rent = $44,000 – $19,000 annual per donee gifttaxexclusion=$25,000taxablegifts.)Thepaymentofthedonee's medical expenses directly to the hospital has an unlimited exclusion from gift tax, but the payment of the donee'srent made directly to the landlord is not eligible for an unlimited exclusion."
-      },
-      "C": {
-        "status": "incorrect",
-        "explanation": "The client will have $3,000in taxable gifts after the annual per donee gift tax exclusion. All of the payments are subjectto gift tax except thecollege tuition: $10,000 cash + $3,000 medicalbills + $9,000 rent =$22,000 –$19,000 annual per donee gift tax exclusion = $3,000 taxable gifts. The payment of the donee's tuition directly to the college has an unlimited exclusionfrom gift tax. The paymentof the donee's medical bills would also have an unlimited exclusion if paiddirectly to the hospital, rather than to the donee."
-      }
-    },
-    "correct_explanation": "Theclientcanavoidgifttaxbypayingthetuition directlyto the college and the medical expenses directly to the hospital. Payments madedirectly to aneducational institution for a donee's tuition and directly to ahealth care provider for adonee's medical care have anunlimited exclusion from gift tax. The remaining giftstotheclient'sdaughter,$10,000cashand$9,000forrent,canbe offset by the $19,000 (2025) annual per donee gift tax exclusion.",
-    "topic": "gift_estate_and_charitable",
-    "topic_guess": "gift_estate_and_charitable"
-  },
-  {
     "question_number": 3,
     "mcq_id": "MCQ-23807",
     "cognitive_level": "Application",
     "aicpa_authored": true,
-    "question": "During the current year, Mann, an unmarried U.S. citizen, made a $5,000 cash gift to an only child and also paid $25,000 in tuition expenses directly to a grandchild's university on the grandchild's behalf. Mann made no other lifetime transfers. Assume that the gift tax annual exclusion is $19,000. For gift tax purposes, what was Mann's taxable gift?",
+    "question": "During the current year, Mann, an unmarried U.S. citizen, made a $5,000 cash gift to an only child and also paid $25,000 in tuition expenses directly to agrandchild's university on the grandchild's behalf. Mann made no other lifetime transfers. Assume that the gift tax annual exclusion is $19,000. For gift tax purposes, what was Mann's taxablegift?",
     "options": {
       "A": "$0",
       "B": "$11,000",
       "C": "$25,000",
       "D": "$30,000"
     },
-    "module": "T1-M3",
-    "source_question_pdf": "T1-M3题目，MCQ22道全.pdf",
-    "source_answer_pdf": "T1-M3答案，MCQ22道全.pdf",
     "correct_answer": "A",
     "explanations": {
       "A": {
@@ -376,24 +31,24 @@
       }
     },
     "correct_explanation": "Mann's $5,000 gift tothe child is less than the $19,000(2025) per-year/per-donee exclusion amount, so the entire gift is exempt from gift tax. Mann also paid $25,000 intuition expenses directly to agrandchild's university on the grandchild's behalf. Payments made directlyto an educational institution for a donee's tuition are excluded from gift tax. Therefore, zero gift tax appliesto the transfers made by Mann.",
+    "module": "T1-M3",
     "topic": "gift_estate_and_charitable",
-    "topic_guess": "gift_estate_and_charitable"
+    "topic_guess": "gift_estate_and_charitable",
+    "source_question_pdf": "T1-M3题目，MCQ22道全.pdf",
+    "source_answer_pdf": "T1-M3答案，MCQ22道全.pdf"
   },
   {
     "question_number": 4,
     "mcq_id": "MCQ-23808",
     "cognitive_level": "Remembering & Understanding",
     "aicpa_authored": true,
-    "question": "Which of the following payments includes a taxable gift? Assume an $18,000 annual gift tax exclusion for the current year.",
+    "question": "Which of the following payments includes a taxable gift? Assume an $18,000annual gift tax exclusion for the current year.",
     "options": {
       "A": "$20,000 cash to a friend.",
       "B": "$20,000 tuition payment to XYZ College for a friend.",
       "C": "$20,000 medical payment to a doctor for a friend.",
       "D": "$20,000 to a political organization."
     },
-    "module": "T1-M3",
-    "source_question_pdf": "T1-M3题目，MCQ22道全.pdf",
-    "source_answer_pdf": "T1-M3答案，MCQ22道全.pdf",
     "correct_answer": "A",
     "explanations": {
       "A": {
@@ -414,100 +69,24 @@
       }
     },
     "correct_explanation": "Ifataxpayer givesataxablegift inexcess ofthe $19,000(2025) per doneeannual exclusion amount, the amount in excess of $19,000 is ataxable gift and subject to the gift tax.",
-    "topic": "gift_estate_and_charitable",
-    "topic_guess": "gift_estate_and_charitable"
-  },
-  {
-    "question_number": 5,
-    "mcq_id": "MCQ-23809",
-    "cognitive_level": "Application",
-    "aicpa_authored": true,
-    "question": "AICPA authored A $50,000 cash gift will reduce an individual's lifetime credit against the gift tax if the gift is made to a:",
-    "options": {
-      "A": "Church located in the U.S.",
-      "B": "University located in the U.S.",
-      "C": "Spouse who is a U.S. citizen.",
-      "D": "14-year-old child living in the U.S."
-    },
     "module": "T1-M3",
-    "source_question_pdf": "T1-M3题目，MCQ22道全.pdf",
-    "source_answer_pdf": "T1-M3答案，MCQ22道全.pdf",
-    "correct_answer": "D",
-    "explanations": {
-      "D": {
-        "status": "correct",
-        "explanation": "A cash gift to a childis a taxable gift. Thedonor may exclude $19,000(2025) per year/per donee. Theremaining $31,000($50,000 –$19,000 gift tax exclusion) will reduce the donor's lifetimecredit against gift taxes."
-      },
-      "A": {
-        "status": "incorrect",
-        "explanation": "A church located in the U.S. is a qualified charity. Gifts to qualified charities are allowed an unlimited exclusion from the gift tax and do not reduce the donor's lifetime credit against gift taxes."
-      },
-      "B": {
-        "status": "incorrect",
-        "explanation": "A university located in the U.S. is aqualified charity. Gifts to qualified charities are allowed an unlimited exclusion from the gift tax and do not reduce the donor's lifetime credit against gift taxes."
-      },
-      "C": {
-        "status": "incorrect",
-        "explanation": "Gifts to a spouseare eligible for an unlimited marital exclusion and do not reduce the donor's lifetimecredit against gift taxes."
-      }
-    },
-    "correct_explanation": "A cash gift to a childis a taxable gift. Thedonor may exclude $19,000(2025) per year/per donee. Theremaining $31,000($50,000 –$19,000 gift tax exclusion) will reduce the donor's lifetimecredit against gift taxes.",
     "topic": "gift_estate_and_charitable",
-    "topic_guess": "gift_estate_and_charitable"
-  },
-  {
-    "question_number": 6,
-    "mcq_id": "MCQ-23818",
-    "cognitive_level": "Application",
-    "aicpa_authored": true,
-    "question": "George and Suzanne have been married for 40 years. Suzanne inherited $1,000,000 from her mother. Assume that the annual gift tax exclusion is $19,000. What amount of the $1,000,000 can Suzanne give to George without incurring a gift tax liability?",
-    "options": {
-      "A": "$19,000",
-      "B": "$1,000,000",
-      "C": "$500,000",
-      "D": "$38,000"
-    },
-    "module": "T1-M3",
+    "topic_guess": "gift_estate_and_charitable",
     "source_question_pdf": "T1-M3题目，MCQ22道全.pdf",
-    "source_answer_pdf": "T1-M3答案，MCQ22道全.pdf",
-    "correct_answer": "B",
-    "explanations": {
-      "B": {
-        "status": "correct",
-        "explanation": "Marital transfers are excluded from gift tax. In this case, Suzanne inherited $1,000,000. Suzannecan givethe entire $1,000,000 to George without incurring a gift tax liability."
-      },
-      "A": {
-        "status": "incorrect",
-        "explanation": "The answer optionis the annual exclusion amountof$19,000(2025).Maritaltransfersareexcludedfromgifttax."
-      },
-      "C": {
-        "status": "incorrect",
-        "explanation": "This answer option incorrectly assumes that 50 percent of the $1,000,000 isthe maximum amountthat can be transferred to George without Suzanne incurring gift tax liability. Marital transfers are excluded from gift tax."
-      },
-      "D": {
-        "status": "incorrect",
-        "explanation": "This answer option incorrectly assumes a gift-split of the two spouses using the annual exclusion amount ($19,000 × 2 = $38,000 in 2025). Marital transfers are excluded from gift tax."
-      }
-    },
-    "correct_explanation": "Marital transfers are excluded from gift tax. In this case, Suzanne inherited $1,000,000. Suzannecan givethe entire $1,000,000 to George without incurring a gift tax liability.",
-    "topic": "gift_estate_and_charitable",
-    "topic_guess": "gift_estate_and_charitable"
+    "source_answer_pdf": "T1-M3答案，MCQ22道全.pdf"
   },
   {
     "question_number": 7,
     "mcq_id": "MCQ-23817",
     "cognitive_level": "Application",
     "aicpa_authored": false,
-    "question": "Jimmy Johnson is working with you, his tax advisor, on some estate planning. He wants to have his entire estate transfer to his heirs with no tax liability by utilizing the unified credit. Using the amounts from the tax law in effect in 2025, what is the maximum amount that Jimmy's taxable estate could be in order to have no tax liability?",
+    "question": "Jimmy Johnsonis working with you, his tax advisor, on someestate planning. He wants to have his entire estate transfer tohis heirs with no tax liability by utilizing the unified credit. Using the amounts from the tax law ineffect in 2025, what isthe maximum amount that Jimmy's taxable estate could be in order to have no tax liability?",
     "options": {
       "A": "$13,990,000",
       "B": "$5,541,800",
       "C": "$0",
       "D": "$19,000"
     },
-    "module": "T1-M3",
-    "source_question_pdf": "T1-M3题目，MCQ22道全.pdf",
-    "source_answer_pdf": "T1-M3答案，MCQ22道全.pdf",
     "correct_answer": "A",
     "explanations": {
       "A": {
@@ -520,7 +99,7 @@
       },
       "C": {
         "status": "incorrect",
-        "explanation": "An estate can have ataxable estate of up to $13,990,000 and have no tax liability."
+        "explanation": "An estate can have ataxable estate of up to $13,990,000 and have no tax liability. 第 8 页 共 25 页"
       },
       "D": {
         "status": "incorrect",
@@ -528,30 +107,690 @@
       }
     },
     "correct_explanation": "In2025,thetaxableestate ofupto$13,990,000 will yield no tax liability.",
+    "module": "T1-M3",
     "topic": "gift_estate_and_charitable",
-    "topic_guess": "gift_estate_and_charitable"
+    "topic_guess": "gift_estate_and_charitable",
+    "source_question_pdf": "T1-M3题目，MCQ22道全.pdf",
+    "source_answer_pdf": "T1-M3答案，MCQ22道全.pdf"
+  },
+  {
+    "question_number": 8,
+    "mcq_id": "MCQ-23827",
+    "cognitive_level": "Application",
+    "aicpa_authored": false,
+    "question": "Lila Leon, an elderly taxpayer, purchased arecreational vehicle (RV) several years ago for $375,000. The RV is currently worth $250,000 andisexpected to beworth only about $200,000 when she dies. Lila intends to leave the RVto her grandson Luis when she dies and is considering gifting the RV to him now because she rarely uses it anymore.Assumethatthecurrentannual gifttaxexclusionis$19,000, the current gift and estate transfer tax rate is 40 percent, and Lila's cumulative taxable gifts have already exceeded her lifetimegift and estate transfer exclusion amount. By how much will thegift/estatetransfer tax on theRV increase or decrease ifLila gifts the RV to her grandson now rather than leaving the RV to him when she dies?",
+    "options": {
+      "A": "$27,600 increase",
+      "B": "$20,000 increase",
+      "C": "$12,400 increase",
+      "D": "$7,600 decrease"
+    },
+    "correct_answer": "C",
+    "explanations": {
+      "A": {
+        "status": "incorrect",
+        "explanation": "Thisoption uses the FMV at the date of gift andthedateofdeathas thetaxableamounts butreducesthetransfer at death amount, rather than thegift amount, by the $19,000 exclusion. $250,000 FMV at date of gift – ($200,000 FMV at date of death – $19,000 exclusion) = $69,000. $69,000 × 40% =$27,600 increase if the RV is gifted rather than transferred at death."
+      },
+      "B": {
+        "status": "incorrect",
+        "explanation": "Thisoptiondoesnotreducethegiftamount by the $19,000 gift tax exclusion. $250,000 FMV at date of gift – $200,000 FMV at date of death = $50,000. $50,000 × 40% = $20,000 increase if the RV is gifted rather than transferred at death."
+      },
+      "C": {
+        "status": "correct",
+        "explanation": "The gift/estate transfer tax on the RV will increase by $12,400if Lila gifts the RV to her grandsonnow rather than leaving the RV to him when she dies. The taxableamount for gift/estate transfer tax purposes is the fair market value (FMV) at the date of gift or date of death. The gift is entitled toa $19,000 annual per donee exclusion (2025), but there is no such exclusion for transfers from the estate at death. RV gifted to grandson now: $250,000 FMV at date of gift – $19,000 exclusion $231,000 第 9 页 共 25 页 RV left to grandson at death: $200,000 FMV at date of death (200,000) Difference in taxable amount of transfers for gift/estate tax purposes $32,000 $31,000 × 40% = $12,400"
+      },
+      "D": {
+        "status": "incorrect",
+        "explanation": "This option usesthe $375,000 cost of the RV as the taxable amount for both the lifetime gift and transfer at death butreduces the gift option by the $19,000 gift tax exclusion.This results in a $7,600 decrease ingift/estate transfer taxes ifthe RV is gifted rather than transferred at death. $19,000 exclusion × 40% = $7,600 decrease if the RV is gifted rather than transferred at death."
+      }
+    },
+    "correct_explanation": "The gift/estate transfer tax on the RV will increase by $12,400if Lila gifts the RV to her grandsonnow rather than leaving the RV to him when she dies. The taxableamount for gift/estate transfer tax purposes is the fair market value (FMV) at the date of gift or date of death. The gift is entitled toa $19,000 annual per donee exclusion (2025), but there is no such exclusion for transfers from the estate at death. RV gifted to grandson now: $250,000 FMV at date of gift – $19,000 exclusion $231,000 第 9 页 共 25 页 RV left to grandson at death: $200,000 FMV at date of death (200,000) Difference in taxable amount of transfers for gift/estate tax purposes $32,000 $31,000 × 40% = $12,400",
+    "module": "T1-M3",
+    "topic": "gift_estate_and_charitable",
+    "topic_guess": "gift_estate_and_charitable",
+    "source_question_pdf": "T1-M3题目，MCQ22道全.pdf",
+    "source_answer_pdf": "T1-M3答案，MCQ22道全.pdf"
+  },
+  {
+    "question_number": 9,
+    "mcq_id": "MCQ-25072",
+    "cognitive_level": "Application",
+    "aicpa_authored": true,
+    "question": "John sells his house to his adult child for $375,000 cash. At the time of the sale, the house has afair market value of $450,000, a mortgageof $200,000, and an adjusted basis of $250,000. John pays off the mortgage. Before the gift tax annual exclusion is taken into account,what amount is deemed to bea gift by John?",
+    "options": {
+      "A": "$75,000",
+      "B": "$175,000",
+      "C": "$125,000",
+      "D": "$50,000"
+    },
+    "correct_answer": "A",
+    "explanations": {
+      "A": {
+        "status": "correct",
+        "explanation": "The gift amount is $75,000, which is the differencebetweenthefairmarketvalue(FMV)atthedateofsaleand the actual sales price ($450,000 FMV –$375,000 Sales price = $75,000).The mortgage isnot relevant incalculating the gift amount since itwas not transferred to John's adult child along with the house."
+      },
+      "B": {
+        "status": "incorrect",
+        "explanation": "Thisamount is the difference between the sales price and the mortgage onthe house ($375,000 Sales price – $200,000 Mortgage = $175,000). Themortgage is not relevant in calculatingthe gift amount since it was not transferred to John's adult child along with the house. Thecorrect gift amount is $75,000, which is the difference between the $450,000 FMV of the house and the $375,000 sales price."
+      },
+      "C": {
+        "status": "incorrect",
+        "explanation": "This amount is thedifference between the sales price and John's adjusted basis in the house ($375,000 Sales price–$250,000Adjustedbasis=$125,000).John'sadjustedbasisin the house is notrelevant in calculating the amount of the gift. The correct gift amount is $75,000, which is the difference between the $450,000 FMV of the house andthe $375,000 sales price."
+      },
+      "D": {
+        "status": "incorrect",
+        "explanation": "This amount is thedifference between John's adjusted basis in the house and the mortgage on the house ($250,000 Adjustedbasis – $200,000 Mortgage = $50,000). Neither of these amounts are relevant incalculating the amount of the gift. The correct gift amount is $75,000, which is the difference between the $450,000 FMV of the house and the $375,000 sales price."
+      }
+    },
+    "correct_explanation": "The gift amount is $75,000, which is the differencebetweenthefairmarketvalue(FMV)atthedateofsaleand the actual sales price ($450,000 FMV –$375,000 Sales price = $75,000).The mortgage isnot relevant incalculating the gift amount since itwas not transferred to John's adult child along with the house.",
+    "module": "T1-M3",
+    "topic": "gift_estate_and_charitable",
+    "topic_guess": "gift_estate_and_charitable",
+    "source_question_pdf": "T1-M3题目，MCQ22道全.pdf",
+    "source_answer_pdf": "T1-M3答案，MCQ22道全.pdf"
+  },
+  {
+    "question_number": 12,
+    "mcq_id": "MCQ-23815",
+    "cognitive_level": "Application",
+    "aicpa_authored": false,
+    "question": "Jennifer and Steve, a married couple, have cometo you, their tax advisor, to seek your adviceon the gifts they are intending to give to their family members. Jennifer hasheard of gift tax and wants to limit gift tax exposure. Assuming an annual gift tax exclusion of $19,000, which gift should be restructured to help Jennifer achieve her tax planning goal?",
+    "options": {
+      "A": "$15,000 gift to their son for his first car",
+      "B": "$30,000 gift to their daughter for college tuition",
+      "C": "$20,000 gift to Jennifer's sister to replace furniture destroyed in a flood",
+      "D": "$40,000 gift to Steve's mother for hospital bills"
+    },
+    "correct_answer": "D",
+    "explanations": {
+      "A": {
+        "status": "incorrect",
+        "explanation": "Thegifttotheirsonisbelowtheannualgifttax exclusionof$19,000(2025),soitisnotsubjecttogifttaxevenwithout gift-splitting."
+      },
+      "B": {
+        "status": "incorrect",
+        "explanation": "A gift by either spouse may be treated as made one-half by each. This gift splitting creates a $38,000 ($19,000 × 2) exclusion per donee in 2025. The gift to their daughter isbelow the annual gift tax exclusion, soitis not subject togift tax. 第 15 页 共 25 页"
+      },
+      "C": {
+        "status": "incorrect",
+        "explanation": "Agift by either spouse maybe treated as made one-half by each. This gift splitting creates a $38,000 ($19,000 × 2) exclusion per donee in 2025. The gift to Jennifer's sister isbelow the annual gift tax exclusion, soitis not subject togift tax."
+      },
+      "D": {
+        "status": "correct",
+        "explanation": "A gift by either spouse may be treated as made one-halfby each. This gift splitting creates a $38,000 ($19,000 × 2) exclusion per donee in 2025. However, this gift is above that amount andwill need tobe restructured. The $40,000 gift should be made directlyto the hospital because payments made directly to a health care provider have anunlimited gift tax exclusion."
+      }
+    },
+    "correct_explanation": "A gift by either spouse may be treated as made one-halfby each. This gift splitting creates a $38,000 ($19,000 × 2) exclusion per donee in 2025. However, this gift is above that amount andwill need tobe restructured. The $40,000 gift should be made directlyto the hospital because payments made directly to a health care provider have anunlimited gift tax exclusion.",
+    "module": "T1-M3",
+    "topic": "gift_estate_and_charitable",
+    "topic_guess": "gift_estate_and_charitable",
+    "source_question_pdf": "T1-M3题目，MCQ22道全.pdf",
+    "source_answer_pdf": "T1-M3答案，MCQ22道全.pdf"
+  },
+  {
+    "question_number": 18,
+    "mcq_id": "MCQ-08966",
+    "cognitive_level": "Remembering & Understanding",
+    "aicpa_authored": true,
+    "question": "Which of the following transactions is subjectto the gift tax beforethe gift tax annual exclusion is taken into account?",
+    "options": {
+      "A": "Reimbursement to a grandchild for medical school tuition.",
+      "B": "Naming of a new beneficiary on an insured's life insurance policy.",
+      "C": "Transfer to a trust for the benefit of relatives where the donor determines the",
+      "D": "Contribution of cash to a candidate for the U.S. Senate."
+    },
+    "correct_answer": "A",
+    "explanations": {
+      "A": {
+        "status": "correct",
+        "explanation": "Amounts paidon behalf of adoneefor tuition are only excluded from the gift tax ifthe payment is made directly to the educational institution."
+      },
+      "B": {
+        "status": "incorrect",
+        "explanation": "Naminga beneficiary on an insured's life insurance policy is not a complete gift because it issubject to a conditional precedent (the deathof the insured), so it isnot subjectto the gift tax."
+      },
+      "C": {
+        "status": "incorrect",
+        "explanation": "Atransfer toa trust for the benefit of relatives is not a complete gift ifthe donor retains theright to determinethe amount of distributions to be made, so it is not subject to the gift tax."
+      },
+      "D": {
+        "status": "incorrect",
+        "explanation": "Apolitical contribution is not considereda gift for tax purposes, and is not subject to the gift tax. 第 22 页 共 25 页"
+      }
+    },
+    "correct_explanation": "Amounts paidon behalf of adoneefor tuition are only excluded from the gift tax ifthe payment is made directly to the educational institution.",
+    "module": "T1-M3",
+    "topic": "gift_estate_and_charitable",
+    "topic_guess": "gift_estate_and_charitable",
+    "source_question_pdf": "T1-M3题目，MCQ22道全.pdf",
+    "source_answer_pdf": "T1-M3答案，MCQ22道全.pdf"
+  },
+  {
+    "question_number": 2,
+    "mcq_id": "MCQ-23842",
+    "cognitive_level": "Application",
+    "aicpa_authored": false,
+    "question": "Suzie, asingle taxpayer, isa partner in LOLpartnership. She contributed an initial cash amount of $50,000 to the partnership. In addition,Suzie was allocated $40,000 of recourse debt that she personally guaranteed and $25,000 of nonrecourse debt (which is not qualified nonrecourse financing). What is Suzie's tax basis and at-risk basis inLOL partnership?",
+    "options": {
+      "A": "Tax basis $90,000; at-risk basis $90,000",
+      "B": "Tax basis $115,000; at-risk basis $115,000",
+      "C": "Tax basis $115,000; at-risk basis $90,000",
+      "D": "Tax basis $90,000; at-risk basis $115,000"
+    },
+    "correct_answer": "C",
+    "explanations": {
+      "A": {
+        "status": "incorrect",
+        "explanation": "The tax basis must also be increased by nonrecourse debt of $25,000. The at-risk basis correctly excludes the nonrecourse debt."
+      },
+      "B": {
+        "status": "incorrect",
+        "explanation": "The tax basis is correct, butthe at-risk basis should not include nonrecourse debt. 第 3 页 共 35 页"
+      },
+      "C": {
+        "status": "correct",
+        "explanation": "The tax basis in the partnership is $115,000 ($50,000 cash contribution + $40,000 recourse debt + $25,000 nonrecourse debt). At-risk basis in the partnership equals $90,000 ($50,000 cash contribution + $40,000 recourse debt). The additional $25,000of nonrecourse debt (which is not qualified nonrecourse financing) does not increase Suzie's basisbecause she is not personally liable for it."
+      },
+      "D": {
+        "status": "incorrect",
+        "explanation": "The tax basis must also be increased by nonrecourse debt of $25,000. At-risk basis should not include nonrecourse debt."
+      }
+    },
+    "correct_explanation": "The tax basis in the partnership is $115,000 ($50,000 cash contribution + $40,000 recourse debt + $25,000 nonrecourse debt). At-risk basis in the partnership equals $90,000 ($50,000 cash contribution + $40,000 recourse debt). The additional $25,000of nonrecourse debt (which is not qualified nonrecourse financing) does not increase Suzie's basisbecause she is not personally liable for it.",
+    "module": "T1-M2",
+    "topic": "passive_activity_and_at_risk",
+    "topic_guess": "passive_activity_and_at_risk",
+    "source_question_pdf": "T1-M2题目，MCQ28道全.pdf",
+    "source_answer_pdf": "T1-M2答案，MCQ28道全.pdf"
+  },
+  {
+    "question_number": 8,
+    "mcq_id": "MCQ-23847",
+    "cognitive_level": "Application",
+    "aicpa_authored": false,
+    "question": "In the current tax year, Charlie reported the following: Wages $ 50,000 Taxable interest 1,500 Dividends 3,000 Partnership X loss (15,000) Partnership Z income 3,000 Charlie does not materially participate in either partnership X or Z. In partnership X,he hasa tax basis of $10,000and an at-risk basis of $7,000.In partnership Z his tax basis is $15,000, and his at-risk basis is $14,000. What isCharlie's suspendedloss carryforward resultingfrom the tax basis, at-risk basis, and passiveloss limitations for partnership X?",
+    "options": {
+      "A": "$10,000 tax basis; $7,000 at-risk; $0 passive",
+      "B": "$5,000 tax basis; $3,000 at-risk; $4,000 passive",
+      "C": "$10,000 tax basis; $7,000 at-risk; $3,000 passive",
+      "D": "$5,000 tax basis; $3,000 at-risk; $0 passive"
+    },
+    "correct_answer": "B",
+    "explanations": {
+      "A": {
+        "status": "incorrect",
+        "explanation": "Charlie's tax basis is $10,000, at-risk basisis $7,000,and passive incomeis $3,000. Theloss from partnership Xis a passiveloss because Charlie does not materially participate in the activity. Passivelosses are deductible against passive income.The incomefrom partnership Z is passive.Therefore, Charlie can deduct $3,000 of the loss from partnership X against the incomefrom partnership Z, leaving a $4,000passive loss carryforward."
+      },
+      "B": {
+        "status": "correct",
+        "explanation": "Charlie must consider tax basis, at-risk basis, andpassive activity loss limitations (inthat order) for partnership X. Charlie has $10,000 of tax basis in partnership X, sohe will have a $5,000taxbasissuspendedlosscarryforwardandzerotaxbasisafter considering the $15,000 loss. Charlie must next consider the at-risk basis inpartnership X. $10,000of the $15,000 loss clearedtax basis. Charlie has $7,000 of at-risk basis inpartnership X, so he will have a $3,000 at-risk basis suspended loss carryforward and zeroat-risk basis after considering the loss in partnership X. $7,000 of the loss is deductibleafter considering tax basis and at-risk basis. The loss from partnership X isa passive loss because Charlie does notmaterially participate in the partnership. Passivelosses are deductible against passive income. The $3,000 incomefrom partnership Z is passive, therefore,Charlie can deduct $3,000 of the loss for partnership X which results in a $4,000 passive loss carryforward:"
+      },
+      "C": {
+        "status": "incorrect",
+        "explanation": "Charlie's tax basisis $10,000, at-risk basis is $7,000,and passive incomeis $3,000. These amounts do not representloss carryforwards."
+      },
+      "D": {
+        "status": "incorrect",
+        "explanation": "The loss from partnership Xisa passive loss becauseCharliedoes notmateriallyparticipateintheactivity. Passive losses aredeductible against passive income. The incomefrom partnership Z ispassive. Therefore,Charlie can deduct $3,000 of the 第 11 页 共 35 页 loss from partnershipX against the incomefrom partnership Z, leaving a $4,000 passive loss carryforward."
+      }
+    },
+    "correct_explanation": "Charlie must consider tax basis, at-risk basis, andpassive activity loss limitations (inthat order) for partnership X. Charlie has $10,000 of tax basis in partnership X, sohe will have a $5,000taxbasissuspendedlosscarryforwardandzerotaxbasisafter considering the $15,000 loss. Charlie must next consider the at-risk basis inpartnership X. $10,000of the $15,000 loss clearedtax basis. Charlie has $7,000 of at-risk basis inpartnership X, so he will have a $3,000 at-risk basis suspended loss carryforward and zeroat-risk basis after considering the loss in partnership X. $7,000 of the loss is deductibleafter considering tax basis and at-risk basis. The loss from partnership X isa passive loss because Charlie does notmaterially participate in the partnership. Passivelosses are deductible against passive income. The $3,000 incomefrom partnership Z is passive, therefore,Charlie can deduct $3,000 of the loss for partnership X which results in a $4,000 passive loss carryforward:",
+    "module": "T1-M2",
+    "topic": "passive_activity_and_at_risk",
+    "topic_guess": "passive_activity_and_at_risk",
+    "source_question_pdf": "T1-M2题目，MCQ28道全.pdf",
+    "source_answer_pdf": "T1-M2答案，MCQ28道全.pdf"
+  },
+  {
+    "question_number": 9,
+    "mcq_id": "MCQ-23813",
+    "cognitive_level": "Application",
+    "aicpa_authored": false,
+    "question": "Thomas, asingletaxpayer, is a partner in partnership A and partnership B.Thomas materially participates in partnershipA but does notmaterially participate in partnership B. This year, Thomas's shareofthepartnershiplossinpartnershipAis$12,000andhisshare of the partnership incomein partnership B is$4,000. Other important information: Tax basis in partnership A $10,000 At-risk basis in partnership A 9,000 Tax basis in partnership B 20,000 At-risk basis in partnership B 19,000 What isThomas's suspended loss carryforward for partnership A due to the at-risk basis?",
+    "options": {
+      "A": "$2,000",
+      "B": "$0",
+      "C": "$1,000",
+      "D": "$5,000"
+    },
+    "correct_answer": "C",
+    "explanations": {
+      "A": {
+        "status": "incorrect",
+        "explanation": "$2,000 is the tax basis suspended loss carryforward,not the at-risk basis suspended loss carryforward."
+      },
+      "B": {
+        "status": "incorrect",
+        "explanation": "Thomasdoes have a suspended loss carryforward due to at-risk basis because his loss inpartnership A exceeds his at-risk basis inpartnership A."
+      },
+      "C": {
+        "status": "correct",
+        "explanation": "Thomas must consider tax basis, at-risk basis, andpassive activity loss limitations (inthat order) for partnership A. Thomas has $10,000 of tax basis in partnership A, so he will have a $2,000taxbasissuspendedlosscarryforwardandzerotaxbasisafter considering the loss. Thomasmust next consider the at-risk basis in partnershipA. $10,000 of the$12,000 loss clearedtax basis. Thomas has$9,000 of at-risk basis, so he will have a$1,000 at-risk basis suspended loss carryforward and zero at-risk basis after considering 第 12 页 共 35 页 the loss inpartnership A.The loss from partnership A is not apassive loss because Thomas materially participates inthe partnership, so there is no passive loss limitation."
+      },
+      "D": {
+        "status": "incorrect",
+        "explanation": "If Thomasdid not materially participate in partnership A,then the loss would be a passive loss and limited to Thomas's $4,000 of passive incomefrom partnership B. Therefore, $5,000 would be thepassive suspended loss carryforward ifthe partnership A loss was passive."
+      }
+    },
+    "correct_explanation": "Thomas must consider tax basis, at-risk basis, andpassive activity loss limitations (inthat order) for partnership A. Thomas has $10,000 of tax basis in partnership A, so he will have a $2,000taxbasissuspendedlosscarryforwardandzerotaxbasisafter considering the loss. Thomasmust next consider the at-risk basis in partnershipA. $10,000 of the$12,000 loss clearedtax basis. Thomas has$9,000 of at-risk basis, so he will have a$1,000 at-risk basis suspended loss carryforward and zero at-risk basis after considering 第 12 页 共 35 页 the loss inpartnership A.The loss from partnership A is not apassive loss because Thomas materially participates inthe partnership, so there is no passive loss limitation.",
+    "module": "T1-M2",
+    "topic": "passive_activity_and_at_risk",
+    "topic_guess": "passive_activity_and_at_risk",
+    "source_question_pdf": "T1-M2题目，MCQ28道全.pdf",
+    "source_answer_pdf": "T1-M2答案，MCQ28道全.pdf"
+  },
+  {
+    "question_number": 12,
+    "mcq_id": "MCQ-23841",
+    "cognitive_level": "Application",
+    "aicpa_authored": false,
+    "question": "In the current tax year, Morris reported the following: Wages $50,000 Taxable interest 1,500 Schedule C net income 5,000 Rental (loss) from residential property (45,000) Limited partnership (loss) (2,000) Morrisactively participatedinthe rental propertyandowns50percent of the activity. He has atax basisof $13,000 and at-risk basis of $12,000in the rental property. Morris is a 5percent owner in the limited partnership and has a tax basis and at-risk basis of $5,000 in the partnership. Hedoes not materially participate inthe limited partnership. What is Morris's current year AGI?",
+    "options": {
+      "A": "$44,500",
+      "B": "$31,500",
+      "C": "$43,000",
+      "D": "$56,500"
+    },
+    "correct_answer": "A",
+    "explanations": {
+      "A": {
+        "status": "correct",
+        "explanation": "Morris's AGI is calculated as follows: Wages—ordinary $ 50,000 Interest—portfolio 1,500 Schedule C net income—ordinary 5,000 Rental loss—passive (12,000) AGI $ 44,500 Wages, interest, and ScheduleC net incomeare all taxable gross income.The rental loss of $45,000 must clear tax basis, at-risk basis, 第 16 页 共 35 页 andpassive loss limitations,in that order. Tax basis limits the deductibleloss to $13,000 and the at-risk basis further limits the deductibleloss to $12,000. The loss is a passive loss but Morris may deduct $12,000 of the $45,000 loss because of the rental real estate (Mom-and-Pop) exception, which allows a deduction of up to $25,000 of netpassive activity losses attributable to rental real estate if the taxpayer actively participates in making management decisions for the rental real estate activity and owns at least 10 percent of the activity. The allowance is further reduced by 50 percent of the excess of the taxpayer's AGI over $100,000, however,Morris's AGI is below these phase-out limitations for the rental real estate exception. The $2,000 loss from the limited partnership isa passive activity and is onlydeductible againstpassive income.BecauseMorris does not have any passive income,the loss is not deductible. Therefore,the total AGI equals $44,500."
+      },
+      "B": {
+        "status": "incorrect",
+        "explanation": "The rental real estate (Mom-and-Pop) exceptionapplies to the $45,000 loss from the rental property. Only $12,000of the loss is deductiblebecause of the tax basis and the at-risk basis limitations."
+      },
+      "C": {
+        "status": "incorrect",
+        "explanation": "This answer choice excludes $1,500 of taxable interest. The interest is considered portfolio income,not passive income, and must be included in Morris's AGI."
+      },
+      "D": {
+        "status": "incorrect",
+        "explanation": "The loss from rental real estate is apassive loss; however, the rental real estate (Mom-and-Pop) exception appliesbecause Morris actively participates and owns at least10 percent of the activity. Therefore,Morris can deduct the loss up to the amount of the at-risk basisin the rental property ($12,000)."
+      }
+    },
+    "correct_explanation": "Morris's AGI is calculated as follows: Wages—ordinary $ 50,000 Interest—portfolio 1,500 Schedule C net income—ordinary 5,000 Rental loss—passive (12,000) AGI $ 44,500 Wages, interest, and ScheduleC net incomeare all taxable gross income.The rental loss of $45,000 must clear tax basis, at-risk basis, 第 16 页 共 35 页 andpassive loss limitations,in that order. Tax basis limits the deductibleloss to $13,000 and the at-risk basis further limits the deductibleloss to $12,000. The loss is a passive loss but Morris may deduct $12,000 of the $45,000 loss because of the rental real estate (Mom-and-Pop) exception, which allows a deduction of up to $25,000 of netpassive activity losses attributable to rental real estate if the taxpayer actively participates in making management decisions for the rental real estate activity and owns at least 10 percent of the activity. The allowance is further reduced by 50 percent of the excess of the taxpayer's AGI over $100,000, however,Morris's AGI is below these phase-out limitations for the rental real estate exception. The $2,000 loss from the limited partnership isa passive activity and is onlydeductible againstpassive income.BecauseMorris does not have any passive income,the loss is not deductible. Therefore,the total AGI equals $44,500.",
+    "module": "T1-M2",
+    "topic": "passive_activity_and_at_risk",
+    "topic_guess": "passive_activity_and_at_risk",
+    "source_question_pdf": "T1-M2题目，MCQ28道全.pdf",
+    "source_answer_pdf": "T1-M2答案，MCQ28道全.pdf"
+  },
+  {
+    "question_number": 13,
+    "mcq_id": "MCQ-23843",
+    "cognitive_level": "Application",
+    "aicpa_authored": false,
+    "question": "Sydney, a single taxpayer,is a partner inpartnership A and partnership B.Sydney does not materially participate ineither partnership A or B. This year, Sydney's share of the partnership loss inpartnershipAis$12,000andhershareofthepartnershipincomein partnership B is$5,000. Other important information: Tax basis in partnership A $11,000 At-risk basis in partnership A 8,000 Tax basis in partnership B 20,000 At-risk basis in partnership B 19,000 How muchof the loss inpartnership Aisdeductible?",
+    "options": {
+      "A": "$5,000",
+      "B": "$8,000",
+      "C": "$12,000",
+      "D": "$11,000"
+    },
+    "correct_answer": "A",
+    "explanations": {
+      "A": {
+        "status": "correct",
+        "explanation": "$5,000ofthelossinpartnershipAisdeductible. The loss of ($12,000) must clear tax basis, at-risk basis, and passive loss limitations (in thatorder). Tax basis limits the deductible loss to $11,000and the at-risk basis further limits the deductible loss to $8,000.The loss in partnership A is apassive loss, soitmay onlybe deducted against passive income. Sydney's passive incomeis her $5,000 share of incomeinpartnership B.$5,000 of the loss from partnership A isdeductible against the passive incomeof partnership B."
+      },
+      "B": {
+        "status": "incorrect",
+        "explanation": "The loss inpartnershipA is limitedby the tax basis of $11,000 and the at-risk basis of $8,000 but isalso limitedby the passive loss limitation."
+      },
+      "C": {
+        "status": "incorrect",
+        "explanation": "The loss in partnership Ais not fully deductiblebecause of tax basis, at-risk basis, and passive loss limitations."
+      },
+      "D": {
+        "status": "incorrect",
+        "explanation": "The loss in partnership Ais limited by the tax basis of $11,000 but is also limited by the at-risk basis and the passive loss limitation. 第 18 页 共 35 页"
+      }
+    },
+    "correct_explanation": "$5,000ofthelossinpartnershipAisdeductible. The loss of ($12,000) must clear tax basis, at-risk basis, and passive loss limitations (in thatorder). Tax basis limits the deductible loss to $11,000and the at-risk basis further limits the deductible loss to $8,000.The loss in partnership A is apassive loss, soitmay onlybe deducted against passive income. Sydney's passive incomeis her $5,000 share of incomeinpartnership B.$5,000 of the loss from partnership A isdeductible against the passive incomeof partnership B.",
+    "module": "T1-M2",
+    "topic": "passive_activity_and_at_risk",
+    "topic_guess": "passive_activity_and_at_risk",
+    "source_question_pdf": "T1-M2题目，MCQ28道全.pdf",
+    "source_answer_pdf": "T1-M2答案，MCQ28道全.pdf"
+  },
+  {
+    "question_number": 14,
+    "mcq_id": "MCQ-16237",
+    "cognitive_level": "Application",
+    "aicpa_authored": true,
+    "question": "An individual taxpayer has ownershipinterests inthreeseparate passive activities. In Year 2, the passive activities generated the followingincome or losses: Activity 1 ($40,000) loss; Activity 2 $90,000income;Activity3($80,000) loss; net passive loss ($30,000). What amount of the net passive loss, ifany, is allocated to Activity 3 as a suspended passive activity loss?",
+    "options": {
+      "A": "$30,000",
+      "B": "$0",
+      "C": "$20,000",
+      "D": "$10,000"
+    },
+    "correct_answer": "C",
+    "explanations": {
+      "A": {
+        "status": "incorrect",
+        "explanation": "The total $30,000 net suspended PALis not allocated to Activity 3. The net suspended PALis allocated pro rata between Activity 1 (1/3) and Activity 3 (2/3)."
+      },
+      "B": {
+        "status": "incorrect",
+        "explanation": "The net suspended PAL is allocated pro rata betweenthetwopassiveactivitieswithlosses,sotwo-thirds ofthenet suspended PALis allocated toActivity 3, not zero."
+      },
+      "C": {
+        "status": "correct",
+        "explanation": "The amount of net passive activity loss (PAL) allocated to Activity 3 as asuspended PALcarryover is $20,000. Passive Activity 1 ($40,000) Passive Activity 2 90,000 Passive Activity 3 (80,000) Net suspended PAL carryover ($30,000) The net suspended PAL is offset against passive activity incomepro rata. Activity 1 PAL $40,000 (1/3) Activity 3 PAL 80,000 (2/3) Total PALs $120,000 Activity3 suspended PAL carryover = $30,000 × 2/3 = $20,000. 第 19 页 共 35 页"
+      },
+      "D": {
+        "status": "incorrect",
+        "explanation": "$10,000 is the amount of the net suspended PAL allocated toActivity 1($30,000 × 1/3 = $10,000), not the amount allocated to Activity 3."
+      }
+    },
+    "correct_explanation": "The amount of net passive activity loss (PAL) allocated to Activity 3 as asuspended PALcarryover is $20,000. Passive Activity 1 ($40,000) Passive Activity 2 90,000 Passive Activity 3 (80,000) Net suspended PAL carryover ($30,000) The net suspended PAL is offset against passive activity incomepro rata. Activity 1 PAL $40,000 (1/3) Activity 3 PAL 80,000 (2/3) Total PALs $120,000 Activity3 suspended PAL carryover = $30,000 × 2/3 = $20,000. 第 19 页 共 35 页",
+    "module": "T1-M2",
+    "topic": "passive_activity_and_at_risk",
+    "topic_guess": "passive_activity_and_at_risk",
+    "source_question_pdf": "T1-M2题目，MCQ28道全.pdf",
+    "source_answer_pdf": "T1-M2答案，MCQ28道全.pdf"
+  },
+  {
+    "question_number": 15,
+    "mcq_id": "MCQ-17543",
+    "cognitive_level": "Application",
+    "aicpa_authored": true,
+    "question": "An individual reportednet incomeof $110,000 from business activitiesand anet loss from a passive rental activity of $40,000 for the current year. What amountof passive loss, ifany, may be deducted for the current year?",
+    "options": {
+      "A": "$40,000",
+      "B": "$25,000",
+      "C": "$20,000",
+      "D": "$0"
+    },
+    "correct_answer": "D",
+    "explanations": {
+      "A": {
+        "status": "incorrect",
+        "explanation": "Thisamount is the total loss; however,a passiveactivityloss(PAL),suchaspassiverentalactivity,canonlybe offset against passive activity income. Therefore, this PAL cannotbe deducted. 第 20 页 共 35 页"
+      },
+      "B": {
+        "status": "incorrect",
+        "explanation": "Anindividual taxpayer may deductup to $25,000of netpassive activity losses attributable to rental real estate (Mom-and-Popexception) ifthe taxpayer actively participates in the rental real estate activity and owns at least 10 percent of the rental realestate activity. Thereisno indicationinthis question that either of these conditions weremet."
+      },
+      "C": {
+        "status": "incorrect",
+        "explanation": "An individual taxpayer may deduct up to $25,000of netpassive activity losses attributable to rental real estate ifthetaxpayeractivelyparticipatesintherentalrealestateactivityand owns at least10 percent of the rental real estate activity. This allowance is reduced by 50 percent of the excess of the taxpayer's AGI (excluding the rental activity) over $100,000. In this question, the AGI is $110,000. If the taxpayer had qualified for the exception, the deduction would havebeen calculated as follows: Maximum deduction $25,000 Excess AGI reduction [($110,000 – $100,000) × 50%] (5,000) Reduced deduction $20,000 However, there isno indication in this question that either of these conditionswere met."
+      },
+      "D": {
+        "status": "correct",
+        "explanation": "A passive activity loss (PAL), such as passive rental activity, can only be offset against passive activity income. A PAL cannot be offset against active or portfolio income."
+      }
+    },
+    "correct_explanation": "A passive activity loss (PAL), such as passive rental activity, can only be offset against passive activity income. A PAL cannot be offset against active or portfolio income.",
+    "module": "T1-M2",
+    "topic": "passive_activity_and_at_risk",
+    "topic_guess": "passive_activity_and_at_risk",
+    "source_question_pdf": "T1-M2题目，MCQ28道全.pdf",
+    "source_answer_pdf": "T1-M2答案，MCQ28道全.pdf"
+  },
+  {
+    "question_number": 3,
+    "mcq_id": "MCQ-02104",
+    "cognitive_level": "Application",
+    "aicpa_authored": false,
+    "question": "Susie purchased her primary residence on March 15, Year 4, for $240,000. She sold it on October 15, Year 7, for $550,000. What amount of gainfrom the sale is recognized on her Year 7 income tax return?",
+    "options": {
+      "A": "$0",
+      "B": "$60,000",
+      "C": "$250,000",
+      "D": "$310,000"
+    },
+    "correct_answer": "B",
+    "explanations": {
+      "A": {
+        "status": "incorrect",
+        "explanation": "Zero would be correct ifall of the gainwas excluded.But only $250,000 isexcluded."
+      },
+      "B": {
+        "status": "correct",
+        "explanation": "If the homeis owned and used as a principal residence for twoor more years during the five-year period ending on the date of the sale, up to $250,000 of any realized gain may be 第 4 页 共 73 页 excluded from gross income. The time requirements are methere. Therealizedgainis$310,000($550,000–$240,000).$250,000ofthe realized gain is excluded from gross income. The recognizedgain is $60,000($310,000 – $250,000)."
+      },
+      "C": {
+        "status": "incorrect",
+        "explanation": "$250,000is the excluded gain, not the recognizedgain."
+      },
+      "D": {
+        "status": "incorrect",
+        "explanation": "$310,000is the realized gain before application of any homeowner's exclusion."
+      }
+    },
+    "correct_explanation": "If the homeis owned and used as a principal residence for twoor more years during the five-year period ending on the date of the sale, up to $250,000 of any realized gain may be 第 4 页 共 73 页 excluded from gross income. The time requirements are methere. Therealizedgainis$310,000($550,000–$240,000).$250,000ofthe realized gain is excluded from gross income. The recognizedgain is $60,000($310,000 – $250,000).",
+    "module": "T4-M1",
+    "topic": "property_transactions",
+    "topic_guess": "property_transactions",
+    "source_question_pdf": "T4-M1-Questions，MCQ65Total.pdf",
+    "source_answer_pdf": "T4-M1-Answers，MCQ65Total.pdf"
+  },
+  {
+    "question_number": 4,
+    "mcq_id": "MCQ-02182",
+    "cognitive_level": "Application",
+    "aicpa_authored": false,
+    "question": "Marsha exchanged a building she had been using in her business in Florida (FMV of $52,700; adjusted basis of $60,000) for abuilding in Iowa (FMV of $57,700), which she plans to use in her business after the exchange. Marsha also paid $5,000 cash as part of the transaction.What is Marsha's recognized gain on the transaction?",
+    "options": {
+      "A": "$0",
+      "B": "$5,000",
+      "C": "$2,300",
+      "D": "$7,300"
+    },
+    "correct_answer": "A",
+    "explanations": {
+      "A": {
+        "status": "correct",
+        "explanation": "The realized loss is$7,300 ($57,700 FMV of newbuilding –$60,000 adjusted basis of old building – $5,000 cash boot paid).This is a qualifying like-kindexchangebecause both properties are real property used in her trade or business or held for investment andbothlocated in the United States. The realized loss is never recognized for a like-kindexchangeand is completelydeferred. Therefore, the recognized loss is zero."
+      },
+      "B": {
+        "status": "incorrect",
+        "explanation": "$5,000 is the boot paid. 第 5 页 共 73 页"
+      },
+      "C": {
+        "status": "incorrect",
+        "explanation": "$2,300 is the realized loss of $7,300 reduced by the $5,000 boot paid."
+      },
+      "D": {
+        "status": "incorrect",
+        "explanation": "$7,300 is the full realized loss. But it isall deferred."
+      }
+    },
+    "correct_explanation": "The realized loss is$7,300 ($57,700 FMV of newbuilding –$60,000 adjusted basis of old building – $5,000 cash boot paid).This is a qualifying like-kindexchangebecause both properties are real property used in her trade or business or held for investment andbothlocated in the United States. The realized loss is never recognized for a like-kindexchangeand is completelydeferred. Therefore, the recognized loss is zero.",
+    "module": "T4-M1",
+    "topic": "property_transactions",
+    "topic_guess": "property_transactions",
+    "source_question_pdf": "T4-M1-Questions，MCQ65Total.pdf",
+    "source_answer_pdf": "T4-M1-Answers，MCQ65Total.pdf"
+  },
+  {
+    "question_number": 6,
+    "mcq_id": "MCQ-06907",
+    "cognitive_level": "Application",
+    "aicpa_authored": true,
+    "question": "A married couple purchased their principal residence for $300,000. They spent $40,000 on improvements. After living in it for 10 years, thecouplesoldthehomefor$650,000andpaid$36,000inrealestate commissions.What gain should the couple recognize on their joint return?",
+    "options": {
+      "A": "$0",
+      "B": "$60,000",
+      "C": "$274,000",
+      "D": "$310,000"
+    },
+    "correct_answer": "A",
+    "explanations": {
+      "A": {
+        "status": "correct",
+        "explanation": "The sale of the taxpayer's personal (primary or principal) residence issubject to an exclusion from gross incomefor gainof $500,000marriedfilingjointor $250,000single. Toqualify, the taxpayer must have owned and used the property as a principal residence for twoyears or more during the five year period ending on the date of the sale or exchange. Taxpayer's Basis: 300,000 Purchase price 40,000 Improvements 36,000 Real estate commissions 376,000 Ending basis Sales Price: 650,000 Gain on sale: 274,000 Under allowed $500,000 exclusion for married couple Choice \"B\"is incorrectbased on theabove calculation. 第 7 页 共 73 页"
+      },
+      "C": {
+        "status": "incorrect",
+        "explanation": "$274,000 is the realized gain, yet it does not need to be recognized. Choice \"D\" is incorrect based on the above calculation."
+      }
+    },
+    "correct_explanation": "The sale of the taxpayer's personal (primary or principal) residence issubject to an exclusion from gross incomefor gainof $500,000marriedfilingjointor $250,000single. Toqualify, the taxpayer must have owned and used the property as a principal residence for twoyears or more during the five year period ending on the date of the sale or exchange. Taxpayer's Basis: 300,000 Purchase price 40,000 Improvements 36,000 Real estate commissions 376,000 Ending basis Sales Price: 650,000 Gain on sale: 274,000 Under allowed $500,000 exclusion for married couple Choice \"B\"is incorrectbased on theabove calculation. 第 7 页 共 73 页",
+    "module": "T4-M1",
+    "topic": "property_transactions",
+    "topic_guess": "property_transactions",
+    "source_question_pdf": "T4-M1-Questions，MCQ65Total.pdf",
+    "source_answer_pdf": "T4-M1-Answers，MCQ65Total.pdf"
+  },
+  {
+    "question_number": 9,
+    "mcq_id": "MCQ-16216",
+    "cognitive_level": "Application",
+    "aicpa_authored": true,
+    "question": "A husband and wife filed for divorce and entered into a written agreement as part of a pending divorce settlement that the husband would transfer to the wife the following property: ahouse valued at $500,000 and jewelry valued at $10,000. Eighteen months later, the couple obtained a final divorce decree. Which of the following statementsis correct concerning the transfer of the property?",
+    "options": {
+      "A": "Only real property transferred as part of a divorce settlement is subject to income",
+      "B": "Both real and personal property transferred as part of the divorce settlement are",
+      "C": "None of the transferred property is subject to income tax.",
+      "D": "Only personal property transferred as part of a divorce settlement is subject to"
+    },
+    "correct_answer": "C",
+    "explanations": {
+      "A": {
+        "status": "incorrect",
+        "explanation": "The transfer of real property to aspouse or former spouse under a divorce decree is not subject to incometax."
+      },
+      "B": {
+        "status": "incorrect",
+        "explanation": "The transfer of real or personal property to a spouse or former spouse under adivorce decree is not subject to incometax."
+      },
+      "C": {
+        "status": "correct",
+        "explanation": "None of the transferred property issubject to incometax. Atransferofpropertytoaspouseor formerspouseunder 第 10 页 共 73 页 a divorce decree is not subjectto income tax. This applies to a property settlement agreed on before the divorceifit was made part of or approved by the decree."
+      },
+      "D": {
+        "status": "incorrect",
+        "explanation": "The transfer of personal property to aspouse or former spouse under adivorce decree is not subject to incometax."
+      }
+    },
+    "correct_explanation": "None of the transferred property issubject to incometax. Atransferofpropertytoaspouseor formerspouseunder 第 10 页 共 73 页 a divorce decree is not subjectto income tax. This applies to a property settlement agreed on before the divorceifit was made part of or approved by the decree.",
+    "module": "T4-M1",
+    "topic": "property_transactions",
+    "topic_guess": "property_transactions",
+    "source_question_pdf": "T4-M1-Questions，MCQ65Total.pdf",
+    "source_answer_pdf": "T4-M1-Answers，MCQ65Total.pdf"
+  },
+  {
+    "question_number": 12,
+    "mcq_id": "MCQ-02172",
+    "cognitive_level": "Application",
+    "aicpa_authored": false,
+    "question": "Chad owned an officebuilding that was destroyed in a tornado.The adjusted basis of the building at the time was $890,000. After the deductible, Chad received an insurance check for $950,000. He used $900,000 of the insuranceproceeds to purchasea new building that sameyear. How much is Chad's recognized gain, and what is his basis inthe new building? Recognized Gain New Basis",
+    "options": {
+      "A": "$60,000 $900,000",
+      "B": "$0 $900,000",
+      "C": "$50,000 $890,000",
+      "D": "$0 $890,000"
+    },
+    "correct_answer": "C",
+    "explanations": {
+      "C": {
+        "status": "correct",
+        "explanation": "This isagainonaninvoluntary conversion. The realized gain is $60,000 ($950,000 insurance proceeds – $890,000 adjusted basis). This gain is deferred to the extent that the entire insurance proceeds are used for areplacement asset. Only $900,000 of the insurance proceedswas used. The remaining $50,000 of unreinvested insurance proceeds becomes taxable boot. So$50,000 of the realized gain is recognized, andthe remaining$10,000 is deferred.The basis of the new building is $890,000 ($900,000 purchase price – $10,000 deferred gain). Choices \"D\", \"B\",and \"A\" are incorrect per the above explanation."
+      }
+    },
+    "correct_explanation": "This isagainonaninvoluntary conversion. The realized gain is $60,000 ($950,000 insurance proceeds – $890,000 adjusted basis). This gain is deferred to the extent that the entire insurance proceeds are used for areplacement asset. Only $900,000 of the insurance proceedswas used. The remaining $50,000 of unreinvested insurance proceeds becomes taxable boot. So$50,000 of the realized gain is recognized, andthe remaining$10,000 is deferred.The basis of the new building is $890,000 ($900,000 purchase price – $10,000 deferred gain). Choices \"D\", \"B\",and \"A\" are incorrect per the above explanation.",
+    "module": "T4-M1",
+    "topic": "property_transactions",
+    "topic_guess": "property_transactions",
+    "source_question_pdf": "T4-M1-Questions，MCQ65Total.pdf",
+    "source_answer_pdf": "T4-M1-Answers，MCQ65Total.pdf"
+  },
+  {
+    "question_number": 13,
+    "mcq_id": "MCQ-15793",
+    "cognitive_level": "Application",
+    "aicpa_authored": true,
+    "question": "An accrual-basis taxpayer sold land for $100,000 on July 1, Year 1, andreceived $20,000 cash anda note for $80,000. The taxpayer's basis inthe asset is $60,000. What amount of gain, if any, should the taxpayer report for Year 1ifthe transaction qualified under the installment sale method?",
+    "options": {
+      "A": "$0",
+      "B": "$20,000",
+      "C": "$40,000",
+      "D": "$8,000"
+    },
+    "correct_answer": "D",
+    "explanations": {
+      "A": {
+        "status": "incorrect",
+        "explanation": "The gain recognized inYear 1 is$8,000, not $0 (see calculation above)."
+      },
+      "B": {
+        "status": "incorrect",
+        "explanation": "The gain recognized inYear 1 is$8,000, not the $20,000 cash received in Year 1 (see calculation above)."
+      },
+      "C": {
+        "status": "incorrect",
+        "explanation": "The gain recognized in Year 1 is $8,000, not the $40,000 total gain on the sale of the land (see calculation above)."
+      },
+      "D": {
+        "status": "correct",
+        "explanation": "Sales price $100,000 Basis (60,000) Total gain $ 40,000 Gross profit (GP) percentage = $40,000 gain / $100,000 sales price = 40% Year 1 cash collection $20,000 × GP percentage × 40% Year 1 gain recognized $ 8,000"
+      }
+    },
+    "correct_explanation": "Sales price $100,000 Basis (60,000) Total gain $ 40,000 Gross profit (GP) percentage = $40,000 gain / $100,000 sales price = 40% Year 1 cash collection $20,000 × GP percentage × 40% Year 1 gain recognized $ 8,000",
+    "module": "T4-M1",
+    "topic": "property_transactions",
+    "topic_guess": "property_transactions",
+    "source_question_pdf": "T4-M1-Questions，MCQ65Total.pdf",
+    "source_answer_pdf": "T4-M1-Answers，MCQ65Total.pdf"
+  },
+  {
+    "question_number": 20,
+    "mcq_id": "MCQ-12515",
+    "cognitive_level": "Application",
+    "aicpa_authored": true,
+    "question": "A taxpayer owned land with a basis of $120,000, subject toa mortgageof $75,000. The taxpayer exchanged the land held for another parcel of landwitha fair market value of $200,000 pluscash of $35,000, andthe taxpayer was relieved of the mortgage on the relinquished land. The transaction qualified for like-kind exchange treatment.What amount of taxable gain will be recognized on the taxpayer's tax return for this exchange?",
+    "options": {
+      "A": "$35,000",
+      "B": "$110,000",
+      "C": "$190,000",
+      "D": "$115,000"
+    },
+    "correct_answer": "B",
+    "explanations": {
+      "A": {
+        "status": "incorrect",
+        "explanation": "Thisamount is the cash boot received. Total boot received includes both the $35,000 cash and the $75,000 debt relief for the mortgage on the relinquished land assumed by the other party in the exchange."
+      },
+      "B": {
+        "status": "correct",
+        "explanation": "Ina qualified like-kind exchange, thegain recognizedis the lesser of the gain realized or boot received. Boot is non-like-kind property, which includes cash, relief from liabilities, and nonqualifying property. Fair market value (FMV) of new parcel of land $200,000 Plus: boot received ($35,000 cash + $75,000 debt relief) 110,000 Amount realized 310,000 Less: adjusted basis of parcel of relinquished land (120,000) Gain realized 190,000 Gain recognized= $110,000 (lesser of $190,000 gainrealized or $110,000 boot received)"
+      },
+      "C": {
+        "status": "incorrect",
+        "explanation": "This isthe amountof the total gain realized. The gainrealized is only recognized to the extent of the $110,000 of boot received."
+      },
+      "D": {
+        "status": "incorrect",
+        "explanation": "This wouldbe the amount of gain realized if onlythe $35,000 cash received is included in boot received. Total boot received includes both the $35,000 cash and the $75,000 debt relief for the mortgage on the relinquished land assumed by the other party in the exchange."
+      }
+    },
+    "correct_explanation": "Ina qualified like-kind exchange, thegain recognizedis the lesser of the gain realized or boot received. Boot is non-like-kind property, which includes cash, relief from liabilities, and nonqualifying property. Fair market value (FMV) of new parcel of land $200,000 Plus: boot received ($35,000 cash + $75,000 debt relief) 110,000 Amount realized 310,000 Less: adjusted basis of parcel of relinquished land (120,000) Gain realized 190,000 Gain recognized= $110,000 (lesser of $190,000 gainrealized or $110,000 boot received)",
+    "module": "T4-M1",
+    "topic": "property_transactions",
+    "topic_guess": "property_transactions",
+    "source_question_pdf": "T4-M1-Questions，MCQ65Total.pdf",
+    "source_answer_pdf": "T4-M1-Answers，MCQ65Total.pdf"
   },
   {
     "question_number": 1,
     "mcq_id": "MCQ-25075",
     "cognitive_level": "Remembering & Understanding",
     "aicpa_authored": true,
-    "question": "Which of the following is an advantage of a 529 savings plan?",
+    "question": "Which of the following is an advantage of a 529savings plan?",
     "options": {
-      "A": "Qualified education expenses include computer equipment, even if it was not specifically required by the educational institution.",
+      "A": "Qualified education expenses include computer equipment, even if it",
       "B": "An account owner may take a federal income tax deduction for contributions to it.",
-      "C": "Earnings on contributions to it grow tax-deferred until they are used to pay for qualified education expenses.",
-      "D": "Earnings on contributions to it may be withdrawn on a tax-free basis if they are used to pay for qualified education expenses."
+      "C": "Earnings on contributions to it grow tax-deferred until they are used to pay for",
+      "D": "Earnings on contributions to it may be withdrawn on a tax-free basis if they are"
     },
-    "module": "T1-M4",
-    "source_question_pdf": "T1-M4题目，MCQ20道全.pdf",
-    "source_answer_pdf": "T1-M4答案，MCQ20道全.pdf",
     "correct_answer": "D",
     "explanations": {
-      "D": {
-        "status": "correct",
-        "explanation": "A key advantage of Section 529 plans is that earningsgrow tax-free andwithdrawals of earnings aretax-free when used for qualified education expenses. This provides significant tax benefits for saving for education."
-      },
       "A": {
         "status": "incorrect",
         "explanation": "Computer equipmentmust be requiredby the educational institution to qualify as an eligible expense under the 529 plan rules."
@@ -562,33 +801,37 @@
       },
       "C": {
         "status": "incorrect",
-        "explanation": "The earnings don't just grow tax-deferred; they are completely tax-free when used for qualified education expenses. Earnings on contributions only grow tax-deferred until they are used, not tax-free, if they are used to pay non-qualifiededucation expenses."
+        "explanation": "The earnings don't just grow tax-deferred; they are completely tax-free when used for qualified education expenses. Earnings on contributions only grow tax-deferred until they are used, not tax-free, if they are used to pay non-qualifiededucation expenses. 第 2 页 共 21 页"
+      },
+      "D": {
+        "status": "correct",
+        "explanation": "A key advantage of Section 529 plans is that earningsgrow tax-free andwithdrawals of earnings aretax-free when used for qualified education expenses. This provides significant tax benefits for saving for education."
       }
     },
     "correct_explanation": "A key advantage of Section 529 plans is that earningsgrow tax-free andwithdrawals of earnings aretax-free when used for qualified education expenses. This provides significant tax benefits for saving for education.",
+    "module": "T1-M4",
     "topic": "retirement_and_financial_planning",
-    "topic_guess": "retirement_and_financial_planning"
+    "topic_guess": "retirement_and_financial_planning",
+    "source_question_pdf": "T1-M4题目，MCQ20道全.pdf",
+    "source_answer_pdf": "T1-M4答案，MCQ20道全.pdf"
   },
   {
     "question_number": 2,
     "mcq_id": "MCQ-23828",
     "cognitive_level": "Application",
     "aicpa_authored": true,
-    "question": "During a tax year, a 45-year-old taxpayer earned $50,000 at a pharmacy that provided access to a Roth 401(k) plan. The taxpayer elected to contribute the maximum annual amount allowed into the Roth 401(k) plan. The taxpayer also earned $60,000 during the year at a hospital pharmacy. The taxpayer has worked for ten years at the hospital pharmacy, which gives employees access to a 403(b) plan. Which of the following statements is correct regarding the limitations on employee contributions to the taxpayer's 403(b) account for this tax year?",
+    "question": "During a tax year, a 45-year-old taxpayer earned $50,000 at a pharmacy that provided access to a Roth 401(k) plan. The taxpayer elected to contributethe maximum annual amount allowed into the Roth 401(k) plan. Thetaxpayer also earned $60,000duringthe year at ahospital pharmacy. The taxpayer has worked for ten years at the hospital pharmacy, whichgives employees access to a 403(b) plan. Which of the following statements is correct regarding the limitations on employee contributions to the taxpayer's 403(b) account for this tax year?",
     "options": {
       "A": "No additional employee contributions are permitted to the 403(b) plan.",
-      "B": "Additional employee contributions may be made to the 403(b) plan because the taxpayer is a long-term employee at a hospital and has access to a different type of qualified plan.",
-      "C": "The taxpayer may contribute the full catch-up amount set by the IRS for the tax year.",
+      "B": "Additional employee contributions may be made to the 403(b) plan because the",
+      "C": "The taxpayer may contribute the full catch-up amount set by the IRS for the tax",
       "D": "The taxpayer may contribute additional amounts to the 403(b) plan."
     },
-    "module": "T1-M4",
-    "source_question_pdf": "T1-M4题目，MCQ20道全.pdf",
-    "source_answer_pdf": "T1-M4答案，MCQ20道全.pdf",
     "correct_answer": "A",
     "explanations": {
       "A": {
         "status": "correct",
-        "explanation": "The maximum allowable employee contribution to an employer-sponsored 401(k) plan for an employee who is less than age50 is $23,500 (2025).Although ataxpayer can contribute to both a 401(k) plan with a for-profit employer anda 403(b) plan with a not-for-profit employer in the sameyear, the annual limitis aggregated for 401(k) plans and 403(b) plans. Since the taxpayer has already contributed the maximum allowable annual amount to the 401(k) account, the taxpayer is not allowed to make any additional contributions tothe 403(b) account. Note that contributions to a457(b) plan with a government employer have a separate $23,500(2025) limitation on employee contributions, so a taxpayer can contribute upto $23,500 each to a457(b) plan and either a 401(k) or a 403(b) plan."
+        "explanation": "The maximum allowable employee contribution to an employer-sponsored 401(k) plan for an employee who is less than age50 is $23,500 (2025).Although ataxpayer can contribute to both a 401(k) plan with a for-profit employer anda 403(b) plan with a not-for-profit employer in the sameyear, the annual limitis aggregated for 401(k) plans and 403(b) plans. Since the taxpayer has already contributed the maximum allowable annual amount to the 401(k) account, the taxpayer is not allowed to make any additional contributions tothe 403(b) account. Note that contributions to a457(b) plan with a government employer have a separate $23,500(2025) limitation on employee contributions, 第 3 页 共 21 页 so a taxpayer can contribute upto $23,500 each to a457(b) plan and either a 401(k) or a 403(b) plan."
       },
       "B": {
         "status": "incorrect",
@@ -603,69 +846,27 @@
         "explanation": "The employee-taxpayer may not contribute anyadditional amounts tothe 403(b) plan for the current year because he or she has already contributedthe maximum allowable annual amountto the 401(k) account."
       }
     },
-    "correct_explanation": "The maximum allowable employee contribution to an employer-sponsored 401(k) plan for an employee who is less than age50 is $23,500 (2025).Although ataxpayer can contribute to both a 401(k) plan with a for-profit employer anda 403(b) plan with a not-for-profit employer in the sameyear, the annual limitis aggregated for 401(k) plans and 403(b) plans. Since the taxpayer has already contributed the maximum allowable annual amount to the 401(k) account, the taxpayer is not allowed to make any additional contributions tothe 403(b) account. Note that contributions to a457(b) plan with a government employer have a separate $23,500(2025) limitation on employee contributions, so a taxpayer can contribute upto $23,500 each to a457(b) plan and either a 401(k) or a 403(b) plan.",
-    "topic": "retirement_and_financial_planning",
-    "topic_guess": "retirement_and_financial_planning"
-  },
-  {
-    "question_number": 3,
-    "mcq_id": "MCQ-23829",
-    "cognitive_level": "Application",
-    "aicpa_authored": false,
-    "question": "Steve, age 45, and Tara, age 55, are married filing jointly taxpayers. In the current year, Steve had $20,000 of taxable earned income and Tara had $4,000 of taxable earned income. What is the maximum amount that Tara can contribute to an individual retirement account (IRA) for the current year?",
-    "options": {
-      "A": "$8,000",
-      "B": "$5,000",
-      "C": "$4,000",
-      "D": "$7,000"
-    },
+    "correct_explanation": "The maximum allowable employee contribution to an employer-sponsored 401(k) plan for an employee who is less than age50 is $23,500 (2025).Although ataxpayer can contribute to both a 401(k) plan with a for-profit employer anda 403(b) plan with a not-for-profit employer in the sameyear, the annual limitis aggregated for 401(k) plans and 403(b) plans. Since the taxpayer has already contributed the maximum allowable annual amount to the 401(k) account, the taxpayer is not allowed to make any additional contributions tothe 403(b) account. Note that contributions to a457(b) plan with a government employer have a separate $23,500(2025) limitation on employee contributions, 第 3 页 共 21 页 so a taxpayer can contribute upto $23,500 each to a457(b) plan and either a 401(k) or a 403(b) plan.",
     "module": "T1-M4",
-    "source_question_pdf": "T1-M4题目，MCQ20道全.pdf",
-    "source_answer_pdf": "T1-M4答案，MCQ20道全.pdf",
-    "correct_answer": "A",
-    "explanations": {
-      "A": {
-        "status": "correct",
-        "explanation": "The maximum amount thata taxpayer can contribute to an IRA is the lesser of earned incomeor $7,000 (2025). Taxpayers age50 or older can contribute an additional $1,000. A married taxpayer can use a spouse's earned incometo make an IRA contribution. Tara is 55 years old, so she can contribute up to $8,000 to an IRA ($7,000 + additional $1,000). Although her earned incomeis only $4,000,shecanuse$4,000ofherspouse'searnedincometomakea contribution. Tara's earned income of $4,000+ $4,000 of Steve's earned income= $8,000 Tara's maximum IRAcontribution."
-      },
-      "B": {
-        "status": "incorrect",
-        "explanation": "The$5,000isTara'searned incomeof $4,000 plusthe additional $1,000contribution for being age 50or older. Tara's maximum allowable contributionis $8,000 ($7,000 + additional $1,000 for being age50 or older). She can use her spouse's earned incometo meet her maximum allowable contribution for the year."
-      },
-      "C": {
-        "status": "incorrect",
-        "explanation": "Although Tara's earned incomeis only $4,000, she can use her spouse's earned incometomeether $4,000 maximum allowable contribution for the year ($7,000 + additional $1,000 for being age50 or older)."
-      },
-      "D": {
-        "status": "incorrect",
-        "explanation": "Although the maximum IRA contribution amount for 2025is $7,000, Tara can contribute an additional $1,000 because she is age 50 or older. She can use her spouse's earned incometo meet her maximum allowable contribution for the year."
-      }
-    },
-    "correct_explanation": "The maximum amount thata taxpayer can contribute to an IRA is the lesser of earned incomeor $7,000 (2025). Taxpayers age50 or older can contribute an additional $1,000. A married taxpayer can use a spouse's earned incometo make an IRA contribution. Tara is 55 years old, so she can contribute up to $8,000 to an IRA ($7,000 + additional $1,000). Although her earned incomeis only $4,000,shecanuse$4,000ofherspouse'searnedincometomakea contribution. Tara's earned income of $4,000+ $4,000 of Steve's earned income= $8,000 Tara's maximum IRAcontribution.",
     "topic": "retirement_and_financial_planning",
-    "topic_guess": "retirement_and_financial_planning"
+    "topic_guess": "retirement_and_financial_planning",
+    "source_question_pdf": "T1-M4题目，MCQ20道全.pdf",
+    "source_answer_pdf": "T1-M4答案，MCQ20道全.pdf"
   },
   {
     "question_number": 4,
     "mcq_id": "MCQ-17035",
     "cognitive_level": "Application",
     "aicpa_authored": false,
-    "question": "Felicia Jackson is considering investing in a project that requires a $120,000 initial investment and has an expected return of $150,000. Felicia's marginal federal income tax rate is 32 percent, and she is not subject to any state or local income taxes. What is the after-tax rate of return (ATRR) on Felicia's potential investment?",
+    "question": "Felicia Jackson is considering investing ina project that requires a $120,000 initial investment andhas an expected return of $150,000. Felicia'smarginalfederal incometaxrateis32percent,andsheisnot subjectto any state or local incometaxes. What isthe after-taxrate of return (ATRR) on Felicia's potential investment?",
     "options": {
       "A": "20.0%",
       "B": "13.6%",
       "C": "8.0%",
       "D": "17.0%"
     },
-    "module": "T1-M4",
-    "source_question_pdf": "T1-M4题目，MCQ20道全.pdf",
-    "source_answer_pdf": "T1-M4答案，MCQ20道全.pdf",
     "correct_answer": "D",
     "explanations": {
-      "D": {
-        "status": "correct",
-        "explanation": "The after-tax rate of return (ATRR) on Felicia's potential investment is 17 percent. Return oninvestment (ROI) = (Investment sales price – Cost of investment) / Costof investment = ($150,000 –$120,000) / $120,000 = 25% After-tax rate of return (ATRR) = ROI × (1 –tax rate) = 25% × (1 – 32%) =17.0%"
-      },
       "A": {
         "status": "incorrect",
         "explanation": "Thisoption incorrectly uses the investment sales price rather than the cost of investment as the denominator in calculatingROI and ignores theincometaxratecompletely. $150,000 – $120,000) /$150,000 = 20.0%."
@@ -677,27 +878,31 @@
       "C": {
         "status": "incorrect",
         "explanation": "This option incorrectlymultiplies ROI by the tax rate rather than 1– the tax rate (25% × 32% = 8.0%)."
+      },
+      "D": {
+        "status": "correct",
+        "explanation": "The after-tax rate of return (ATRR) on Felicia's potential investment is 17 percent. Return oninvestment (ROI) = (Investment sales price – Cost of investment) / Costof investment = ($150,000 –$120,000) / $120,000 = 25% After-tax rate of return (ATRR) = ROI × (1 –tax rate) = 25% × (1 – 32%) =17.0%"
       }
     },
     "correct_explanation": "The after-tax rate of return (ATRR) on Felicia's potential investment is 17 percent. Return oninvestment (ROI) = (Investment sales price – Cost of investment) / Costof investment = ($150,000 –$120,000) / $120,000 = 25% After-tax rate of return (ATRR) = ROI × (1 –tax rate) = 25% × (1 – 32%) =17.0%",
+    "module": "T1-M4",
     "topic": "retirement_and_financial_planning",
-    "topic_guess": "retirement_and_financial_planning"
+    "topic_guess": "retirement_and_financial_planning",
+    "source_question_pdf": "T1-M4题目，MCQ20道全.pdf",
+    "source_answer_pdf": "T1-M4答案，MCQ20道全.pdf"
   },
   {
     "question_number": 5,
     "mcq_id": "MCQ-17187",
     "cognitive_level": "Remembering & Understanding",
     "aicpa_authored": false,
-    "question": "Which of the following is a correct statement regarding the nontaxable rollover of Section 529 plan funds to a beneficiary's Roth individual retirement account (IRA)?",
+    "question": "Whichofthe followingisacorrectstatement regardingthenontaxable rollover of Section 529 plan funds to a beneficiary's Roth individual retirementaccount (IRA)?",
     "options": {
-      "A": "The amount transferred each year is subject to the annual contribution limit for IRAs.",
+      "A": "The amount transferred each year is subject to the annual contribution limit for",
       "B": "The Roth IRA must have been maintained for at least 18 years.",
       "C": "There is a lifetime limit on transfers to the beneficiary's Roth IRA of $50,000.",
-      "D": "Contributions within the seven years prior to the transfer are not eligible for rollover."
+      "D": "Contributions within the seven years prior to the transfer are not eligible for"
     },
-    "module": "T1-M4",
-    "source_question_pdf": "T1-M4题目，MCQ20道全.pdf",
-    "source_answer_pdf": "T1-M4答案，MCQ20道全.pdf",
     "correct_answer": "A",
     "explanations": {
       "A": {
@@ -718,24 +923,24 @@
       }
     },
     "correct_explanation": "The amount that the beneficiary can transfer each year from a Section 529 plan tohis or her RothIRA is subject to the annual contribution limitfor IRAs.",
+    "module": "T1-M4",
     "topic": "retirement_and_financial_planning",
-    "topic_guess": "retirement_and_financial_planning"
+    "topic_guess": "retirement_and_financial_planning",
+    "source_question_pdf": "T1-M4题目，MCQ20道全.pdf",
+    "source_answer_pdf": "T1-M4答案，MCQ20道全.pdf"
   },
   {
     "question_number": 6,
     "mcq_id": "MCQ-17547",
     "cognitive_level": "Application",
     "aicpa_authored": true,
-    "question": "A CPA has a 58-year-old client who plans to retire in five years. The client's deductions currently result in a $0 income tax liability, and this situation is likely to continue until the client's retirement. The client's tax liability, however, will be significantly higher throughout retirement. Which of the following is the most advantageous retirement plan for the client?",
+    "question": "A CPA has a 58-year-old client who plans toretire infive years.The client's deductions currently result in a$0 incometax liability, andthis situation islikely to continueuntil the client's retirement. The client's taxliability, however,willbesignificantlyhigherthroughoutretirement. Which of the following is themost advantageous retirementplan for the client?",
     "options": {
       "A": "A Roth IRA plan.",
       "B": "A traditional 401(k) plan.",
       "C": "A traditional IRA plan.",
       "D": "A traditional SEP IRA plan."
     },
-    "module": "T1-M4",
-    "source_question_pdf": "T1-M4题目，MCQ20道全.pdf",
-    "source_answer_pdf": "T1-M4答案，MCQ20道全.pdf",
     "correct_answer": "A",
     "explanations": {
       "A": {
@@ -752,287 +957,90 @@
       },
       "D": {
         "status": "incorrect",
-        "explanation": "Atraditional SEP IRAis a type of retirement account that is availableto self-employed taxpayers. This type of plan would notbe the most advantageous for the client because the contributions are deductible inthe year they are made, and subsequentdistributions of bothprincipal (contributions) andearnings are fully taxable. Since theclient's other deductions currently result in a $0 incometax liability, the client would not benefit from the tax deduction for the contribution and would have topay incometax on the total distributions after the client retires and is in a higher tax bracket."
+        "explanation": "Atraditional SEP IRAis a type of retirement account that is availableto self-employed taxpayers. This type of plan would notbe the most advantageous for the client because the contributions are deductible inthe year they are made, and subsequentdistributions of bothprincipal (contributions) andearnings 第 8 页 共 21 页 are fully taxable. Since theclient's other deductions currently result in a $0 incometax liability, the client would not benefit from the tax deduction for the contribution and would have topay incometax on the total distributions after the client retires and is in a higher tax bracket."
       }
     },
     "correct_explanation": "ARoth IRA plan would be themost advantageous retirement plan for the client. A contribution to a Roth IRA isnot deductiblein theyear the contribution is made. However, since the client's other deductions currently resultin a$0 incometax liability, the client would not benefit from atax deduction for the contribution anyway. Because Roth IRA contributions are not deducted, later distributionof the contributions is nontaxable. Distributionsofearningsfrom aRothIRAwillalsobenontaxableifthe taxpayer is at least age 59½ and the distribution is made at least five years after the first day of the year in whichthe taxpayer makes his or her first contribution. Since the client is currently 58 years old and plans to retire infive years, both of these conditions would be met, andboththeearningsandcontributionsdistributedwillbenontaxable. A contribution to a Roth IRAis not deductible inthe year the contribution is made. However, since the client's other deductions currentlyresult ina $0 incometax liability, the client would notbenefit from a tax deduction for the contribution anyway.",
-    "topic": "retirement_and_financial_planning",
-    "topic_guess": "retirement_and_financial_planning"
-  },
-  {
-    "question_number": 7,
-    "mcq_id": "MCQ-12113",
-    "cognitive_level": "Remembering & Understanding",
-    "aicpa_authored": true,
-    "question": "Davis, a sole proprietor with no employees, has a SEP IRA plan to which he may contribute and deduct 20 percent of his annual earned income. For this purpose, \"earned income\" is defined as net self-employment earnings reduced by the:",
-    "options": {
-      "A": "Deductible SEP IRA contribution.",
-      "B": "Self-employment tax.",
-      "C": "Self-employment tax and one-half of the deductible SEP IRA contribution.",
-      "D": "One-half of the self-employment tax."
-    },
     "module": "T1-M4",
-    "source_question_pdf": "T1-M4题目，MCQ20道全.pdf",
-    "source_answer_pdf": "T1-M4答案，MCQ20道全.pdf",
-    "correct_answer": "D",
-    "explanations": {
-      "D": {
-        "status": "correct",
-        "explanation": "For SEP IRA plans, earned income is defined as net self-employment earnings reduced by one-half of the self-employment tax. Choices \"A\", \"B\",and\"C\" are incorrect per the above explanation."
-      }
-    },
-    "correct_explanation": "For SEP IRA plans, earned income is defined as net self-employment earnings reduced by one-half of the self-employment tax. Choices \"A\", \"B\",and\"C\" are incorrect per the above explanation.",
     "topic": "retirement_and_financial_planning",
-    "topic_guess": "retirement_and_financial_planning"
-  },
-  {
-    "question_number": 1,
-    "mcq_id": "MCQ-25098",
-    "cognitive_level": "Application",
-    "aicpa_authored": true,
-    "question": "An individual taxpayer received a payment of $43,000 for property with a basis of $12,000, which was involuntarily converted. The taxpayer did not pay tax on this gain and purchased qualified replacement property for $51,000. What is the taxpayer's basis in the new property?",
-    "options": {
-      "A": "$20,000",
-      "B": "$12,000",
-      "C": "$51,000",
-      "D": "$43,000"
-    },
-    "module": "T4-M1",
-    "source_question_pdf": "T4-M1-Questions，MCQ65Total.pdf",
-    "source_answer_pdf": "T4-M1-Answers，MCQ65Total.pdf",
-    "correct_answer": "A",
-    "explanations": {
-      "A": {
-        "status": "correct",
-        "explanation": "The basis in the replacement property is $20,000, calculatedas follows: Amount realized (proceeds) $43,000 Adjusted basis of property (12,000) Gain realized 31,000 Gain recognized (unreinvested proceeds) (0) Gain deferred $31,000 Cost of qualified replacement property $51,000 Less: Gain deferred (31,000) Basis of replacement property $20,000 A gain realizedon an involuntary conversion is only recognized to the extent that the proceeds are not reinvested in qualified replacement property. In this case, thereplacement property cost $51,000, so the entire proceeds of $43,000 arereinvested, and none of the gain is recognized.The gain isdeferred by reducing the basis of the replacement property."
-      },
-      "B": {
-        "status": "incorrect",
-        "explanation": "$12,000 was the basis inthe converted property, not the basis in the replacement property. The $12,000 amount is usedto calculate the realized gain and deferred gain. The basis of the replacement property is the cost of $51,000 reduced by the deferred gain of $31,000."
-      },
-      "C": {
-        "status": "incorrect",
-        "explanation": "$51,000 was the cost of the replacement property beforereducing itby the $31,000deferred gain."
-      },
-      "D": {
-        "status": "incorrect",
-        "explanation": "$43,000 was the amount of the payment received for the convertedproperty, not the basis in the replacement property. The $43,000 amount isused to calculate the realized gain anddeferredgain.Sincetheentireamountwasreinvestedinqualified replacement property, the basis of the replacement property is the costof $51,000 reduced by the $31,000 deferredgain."
-      }
-    },
-    "correct_explanation": "The basis in the replacement property is $20,000, calculatedas follows: Amount realized (proceeds) $43,000 Adjusted basis of property (12,000) Gain realized 31,000 Gain recognized (unreinvested proceeds) (0) Gain deferred $31,000 Cost of qualified replacement property $51,000 Less: Gain deferred (31,000) Basis of replacement property $20,000 A gain realizedon an involuntary conversion is only recognized to the extent that the proceeds are not reinvested in qualified replacement property. In this case, thereplacement property cost $51,000, so the entire proceeds of $43,000 arereinvested, and none of the gain is recognized.The gain isdeferred by reducing the basis of the replacement property.",
-    "topic": "property_transactions",
-    "topic_guess": "property_transactions"
-  },
-  {
-    "question_number": 2,
-    "mcq_id": "MCQ-06416",
-    "cognitive_level": "Application",
-    "aicpa_authored": false,
-    "question": "A taxpayer is trading real property used solely for business purposes for new real property to be used in his business. The real property originally cost $35,000 and he has taken $12,000 in depreciation. The old real property is currently worth $20,000 and the new real property the taxpayer wants in exchange is only worth $16,500. The other party agrees to give the taxpayer $3,500 in cash in addition to the new real property. What is the gain or loss realized by the taxpayer on this transaction?",
-    "options": {
-      "A": "$3,500 loss",
-      "B": "$3,500 gain",
-      "C": "$6,500 loss",
-      "D": "$3,000 loss"
-    },
-    "module": "T4-M1",
-    "source_question_pdf": "T4-M1-Questions，MCQ65Total.pdf",
-    "source_answer_pdf": "T4-M1-Answers，MCQ65Total.pdf",
-    "correct_answer": "D",
-    "explanations": {
-      "D": {
-        "status": "correct",
-        "explanation": "Thetaxpayer realizesa$3,000 loss(fair market value of new real property$16,500 + $3,500 boot received − $23,000 adjusted basis of old real property). Choices \"B\" and \"A\" are incorrect. $3,500isthe amount of cash boot received."
-      },
-      "C": {
-        "status": "incorrect",
-        "explanation": "A$6,500 loss would be realized if the boot of $3,500 were ignored (Fair market value of the new real propertyof $16,500− Adjusted basisof the old real property of $23,000)."
-      }
-    },
-    "correct_explanation": "Thetaxpayer realizesa$3,000 loss(fair market value of new real property$16,500 + $3,500 boot received − $23,000 adjusted basis of old real property). Choices \"B\" and \"A\" are incorrect. $3,500isthe amount of cash boot received.",
-    "topic": "property_transactions",
-    "topic_guess": "property_transactions"
-  },
-  {
-    "question_number": 5,
-    "mcq_id": "MCQ-08440",
-    "cognitive_level": "Application",
-    "aicpa_authored": true,
-    "question": "Baker, an unmarried individual, sold a personal residence, which has an adjusted basis of $70,000, for $165,000. Baker owned and lived in the residence for seven years. Selling expenses were $10,000. Four weeks prior to the sale, Baker paid a handyman $1,000 to paint and fix up the residence. What is the amount of Baker's recognized gain?",
-    "options": {
-      "A": "$84,000",
-      "B": "$95,000",
-      "C": "$85,000",
-      "D": "$0"
-    },
-    "module": "T4-M1",
-    "source_question_pdf": "T4-M1-Questions，MCQ65Total.pdf",
-    "source_answer_pdf": "T4-M1-Answers，MCQ65Total.pdf",
-    "correct_answer": "D",
-    "explanations": {
-      "D": {
-        "status": "correct",
-        "explanation": "This is aprincipal residence that thetaxpayer hasowned andlived infor the last seven years. This exceeds the requirementof at leasttwo of the last five years. Baker may therefore exclude up to $250,000 of gain. The realized gain is $85,000 ($165,000 selling price –$70,000 adjusted basis – $10,000 selling expenses). All of the realized gain is excluded, and none of it is recognized."
-      },
-      "A": {
-        "status": "incorrect",
-        "explanation": "$84,000 isthe realized gain of $85,000 less $1,000 of fix-up expenses, which do not reducethe realized gain. But none of the gain is recognized, due tothe homeowner's exclusion."
-      },
-      "B": {
-        "status": "incorrect",
-        "explanation": "$95,000 isthe realized gain before considering the selling expenses. But none of thegain is recognized, dueto the homeowner's exclusion."
-      },
-      "C": {
-        "status": "incorrect",
-        "explanation": "$85,000 is the realizedgain. But none of the gain is recognized, due tothe homeowner'sexclusion."
-      }
-    },
-    "correct_explanation": "This is aprincipal residence that thetaxpayer hasowned andlived infor the last seven years. This exceeds the requirementof at leasttwo of the last five years. Baker may therefore exclude up to $250,000 of gain. The realized gain is $85,000 ($165,000 selling price –$70,000 adjusted basis – $10,000 selling expenses). All of the realized gain is excluded, and none of it is recognized.",
-    "topic": "property_transactions",
-    "topic_guess": "property_transactions"
-  },
-  {
-    "question_number": 6,
-    "mcq_id": "MCQ-06907",
-    "cognitive_level": "Application",
-    "aicpa_authored": true,
-    "question": "A married couple purchased their principal residence for $300,000. They spent $40,000 on improvements. After living in it for 10 years, the couple sold the home for $650,000 and paid $36,000 in real estate commissions. What gain should the couple recognize on their joint return?",
-    "options": {
-      "A": "$0",
-      "B": "$60,000",
-      "C": "$274,000",
-      "D": "$310,000"
-    },
-    "module": "T4-M1",
-    "source_question_pdf": "T4-M1-Questions，MCQ65Total.pdf",
-    "source_answer_pdf": "T4-M1-Answers，MCQ65Total.pdf",
-    "correct_answer": "A",
-    "explanations": {
-      "A": {
-        "status": "correct",
-        "explanation": "The sale of the taxpayer's personal (primary or principal) residence issubject to an exclusion from gross incomefor gainof $500,000marriedfilingjointor $250,000single. Toqualify, the taxpayer must have owned and used the property as a principal residence for twoyears or more during the five year period ending on the date of the sale or exchange. Taxpayer's Basis: 300,000 Purchase price 40,000 Improvements 36,000 Real estate commissions 376,000 Ending basis Sales Price: 650,000 Gain on sale: 274,000 Under allowed $500,000 exclusion for married couple Choice \"B\"is incorrectbased on theabove calculation."
-      },
-      "C": {
-        "status": "incorrect",
-        "explanation": "$274,000 is the realized gain, yet it does not need to be recognized. Choice \"D\" is incorrect based on the above calculation."
-      }
-    },
-    "correct_explanation": "The sale of the taxpayer's personal (primary or principal) residence issubject to an exclusion from gross incomefor gainof $500,000marriedfilingjointor $250,000single. Toqualify, the taxpayer must have owned and used the property as a principal residence for twoyears or more during the five year period ending on the date of the sale or exchange. Taxpayer's Basis: 300,000 Purchase price 40,000 Improvements 36,000 Real estate commissions 376,000 Ending basis Sales Price: 650,000 Gain on sale: 274,000 Under allowed $500,000 exclusion for married couple Choice \"B\"is incorrectbased on theabove calculation.",
-    "topic": "property_transactions",
-    "topic_guess": "property_transactions"
-  },
-  {
-    "question_number": 7,
-    "mcq_id": "MCQ-06413",
-    "cognitive_level": "Application",
-    "aicpa_authored": false,
-    "question": "A taxpayer is trading real property used solely for business purposes for new real property to be used in his business. The real property originally cost $35,000 and he has taken $18,000 in depreciation. The old real property is currently worth $20,000 and the new real property the taxpayer wants in exchange is only worth $17,500. The other party agrees to give the taxpayer $2,500 in cash in addition to the new real property. What is the gain or loss realized by the taxpayer on this transaction?",
-    "options": {
-      "A": "$2,500 loss",
-      "B": "$500 gain",
-      "C": "$2,500 gain",
-      "D": "$3,000 gain"
-    },
-    "module": "T4-M1",
-    "source_question_pdf": "T4-M1-Questions，MCQ65Total.pdf",
-    "source_answer_pdf": "T4-M1-Answers，MCQ65Total.pdf",
-    "correct_answer": "D",
-    "explanations": {
-      "D": {
-        "status": "correct",
-        "explanation": "A $3,000 gain is realized on the transaction ($20,000 amount realized – $17,000 adjusted basis of old real property)."
-      },
-      "A": {
-        "status": "incorrect",
-        "explanation": "$2,500 is the difference between the $20,000 FMVof theold property andthe $17,500 FMV of the new property. It is also the amount of the cash boot received."
-      },
-      "B": {
-        "status": "incorrect",
-        "explanation": "$500 would be the gain realized ifthe boot received of $2,500 was ignored."
-      },
-      "C": {
-        "status": "incorrect",
-        "explanation": "$2,500is the cash boot received, not the gain realized."
-      }
-    },
-    "correct_explanation": "A $3,000 gain is realized on the transaction ($20,000 amount realized – $17,000 adjusted basis of old real property).",
-    "topic": "property_transactions",
-    "topic_guess": "property_transactions"
+    "topic_guess": "retirement_and_financial_planning",
+    "source_question_pdf": "T1-M4题目，MCQ20道全.pdf",
+    "source_answer_pdf": "T1-M4答案，MCQ20道全.pdf"
   },
   {
     "question_number": 8,
-    "mcq_id": "MCQ-06428",
-    "cognitive_level": "Application",
-    "aicpa_authored": false,
-    "question": "A taxpayer is trading real property used solely for business purposes for new real property to be used in his business. The real property originally cost $35,000 and he has taken $18,000 in depreciation. The old real property is currently worth $20,000 and the new real property the taxpayer wants in exchange is only worth $17,500. The taxpayer agrees to assume a liability secured by the new real property of $1,000. The other party also agrees to assume a liability secured by the taxpayer's old real property of $3,500. What is the gain or loss realized by the taxpayer on this transaction?",
+    "mcq_id": "MCQ-17549",
+    "cognitive_level": "Remembering & Understanding",
+    "aicpa_authored": true,
+    "question": "Which type of asset is weighted most heavily in determininga student's eligibility for federal financial aid?",
     "options": {
-      "A": "$2,000 loss",
-      "B": "$2,500 gain",
-      "C": "$500 gain",
-      "D": "$3,000 gain"
+      "A": "A custodial account owned by the student.",
+      "B": "A 529 savings plan owned by the student.",
+      "C": "A U.S. savings bond owned by the parent.",
+      "D": "A Coverdell education savings account owned by the parent."
     },
-    "module": "T4-M1",
-    "source_question_pdf": "T4-M1-Questions，MCQ65Total.pdf",
-    "source_answer_pdf": "T4-M1-Answers，MCQ65Total.pdf",
-    "correct_answer": "D",
+    "correct_answer": "A",
     "explanations": {
-      "D": {
-        "status": "correct",
-        "explanation": "A $3,000 gain is realized on the transaction [$20,000amountrealized($17,500FMVofnewproperty+$2,500net debt relief boot received) – $17,000 adjusted basis of old property]."
-      },
       "A": {
-        "status": "incorrect",
-        "explanation": "A $2,000 \"loss\" incorrectlytreats the $2,500 netdebt relief as boot paid, rather than boot received [$17,500 FMV of new property– $17,000 adjusted basis of old property– $2,500 net debt relief = ($2,000)]."
+        "status": "correct",
+        "explanation": "Acustodial account that is owned by the beneficiary student is the most heavily weighted of the four assets listed indetermining astudent's eligibility for federal financial aid. All of the accounts listed are accounts used to save for higher education andare family assets that are considered in determininga student's eligibility for federal financial aid. However, assets owned by the student carry more weight than assets owned by the parents. Only 5.64 percent of parental assets are expected to be used to help pay for collegeindeterminingastudent'sfederal financial aid, whereas20 percent of student assets are expected to be used to help pay for college."
       },
       "B": {
         "status": "incorrect",
-        "explanation": "$2,500 is the gain recognized (lesser of gain realized or boot received), not gain realized."
+        "explanation": "A Section 529 savings plan is afamily asset that isconsidered in determining a student'seligibility for federal financial aid, but it isconsidered a parentalasset whether it is owned by the student or the parents and is therefore weighted less heavily in determining federal financial aid eligibility."
       },
       "C": {
         "status": "incorrect",
-        "explanation": "$500 would be the gain realized if the liabilities were ignored."
+        "explanation": "AU.S. savings bond is a familyasset that is consideredindeterminingastudent'seligibilityforfederal financialaid, butsince it is owned by the parent, it isweighted less heavily."
+      },
+      "D": {
+        "status": "incorrect",
+        "explanation": "ACoverdell education savings account isa family asset that is considered in determining a student's eligibility for federal financial aid, but since it isowned by the parent, it is weighted less heavily."
       }
     },
-    "correct_explanation": "A $3,000 gain is realized on the transaction [$20,000amountrealized($17,500FMVofnewproperty+$2,500net debt relief boot received) – $17,000 adjusted basis of old property].",
-    "topic": "property_transactions",
-    "topic_guess": "property_transactions"
+    "correct_explanation": "Acustodial account that is owned by the beneficiary student is the most heavily weighted of the four assets listed indetermining astudent's eligibility for federal financial aid. All of the accounts listed are accounts used to save for higher education andare family assets that are considered in determininga student's eligibility for federal financial aid. However, assets owned by the student carry more weight than assets owned by the parents. Only 5.64 percent of parental assets are expected to be used to help pay for collegeindeterminingastudent'sfederal financial aid, whereas20 percent of student assets are expected to be used to help pay for college.",
+    "module": "T1-M4",
+    "topic": "retirement_and_financial_planning",
+    "topic_guess": "retirement_and_financial_planning",
+    "source_question_pdf": "T1-M4题目，MCQ20道全.pdf",
+    "source_answer_pdf": "T1-M4答案，MCQ20道全.pdf"
   },
   {
-    "question_number": 9,
-    "mcq_id": "MCQ-16216",
-    "cognitive_level": "Application",
-    "aicpa_authored": true,
-    "question": "A husband and wife filed for divorce and entered into a written agreement as part of a pending divorce settlement that the husband would transfer to the wife the following property: a house valued at $500,000 and jewelry valued at $10,000. Eighteen months later, the couple obtained a final divorce decree. Which of the following statements is correct concerning the transfer of the property?",
+    "question_number": 11,
+    "mcq_id": "MCQ-17025",
+    "cognitive_level": "Remembering & Understanding",
+    "aicpa_authored": false,
+    "question": "Which of the following types of higher education loans are based on student financial need?",
     "options": {
-      "A": "Only real property transferred as part of a divorce settlement is subject to income tax.",
-      "B": "Both real and personal property transferred as part of the divorce settlement are subject to income tax.",
-      "C": "None of the transferred property is subject to income tax.",
-      "D": "Only personal property transferred as part of a divorce settlement is subject to income tax."
+      "A": "Private bank loans",
+      "B": "Subsidized Stafford loans",
+      "C": "Parent loans for undergraduate students",
+      "D": "Unsubsidized Stafford loans"
     },
-    "module": "T4-M1",
-    "source_question_pdf": "T4-M1-Questions，MCQ65Total.pdf",
-    "source_answer_pdf": "T4-M1-Answers，MCQ65Total.pdf",
-    "correct_answer": "C",
+    "correct_answer": "B",
     "explanations": {
-      "C": {
-        "status": "correct",
-        "explanation": "None of the transferred property issubject to incometax. Atransferofpropertytoaspouseor formerspouseunder a divorce decree is not subjectto income tax. This applies to a property settlement agreed on before the divorceifit was made part of or approved by the decree."
-      },
       "A": {
         "status": "incorrect",
-        "explanation": "The transfer of real property to aspouse or former spouse under a divorce decree is not subject to incometax."
+        "explanation": "Privatebank loans used for higher education are not based on student financial need."
       },
       "B": {
+        "status": "correct",
+        "explanation": "Subsidized Stafford loans are based on student financial need."
+      },
+      "C": {
         "status": "incorrect",
-        "explanation": "The transfer of real or personal property to a spouse or former spouse under adivorce decree is not subject to incometax."
+        "explanation": "Parent loans for undergraduate students (PLUS loans) are not based on student financial need."
       },
       "D": {
         "status": "incorrect",
-        "explanation": "The transfer of personal property to aspouse or former spouse under adivorce decree is not subject to incometax."
+        "explanation": "Unsubsidized Stafford loans are not basedon student financial need."
       }
     },
-    "correct_explanation": "None of the transferred property issubject to incometax. Atransferofpropertytoaspouseor formerspouseunder a divorce decree is not subjectto income tax. This applies to a property settlement agreed on before the divorceifit was made part of or approved by the decree.",
-    "topic": "property_transactions",
-    "topic_guess": "property_transactions"
+    "correct_explanation": "Subsidized Stafford loans are based on student financial need.",
+    "module": "T1-M4",
+    "topic": "retirement_and_financial_planning",
+    "topic_guess": "retirement_and_financial_planning",
+    "source_question_pdf": "T1-M4题目，MCQ20道全.pdf",
+    "source_answer_pdf": "T1-M4答案，MCQ20道全.pdf"
   }
 ]
