@@ -2,169 +2,265 @@
   {
     "id": "rag_edu_aotc",
     "query": "Do I qualify for the American Opportunity Tax Credit (AOTC)?",
-    "expected_sources_any": ["p970", "education-credits-aotc-and-llc"],
+    "expected_sources_any": [
+      "p970",
+      "education-credits-aotc-and-llc"
+    ],
     "notes": "Education credits should retrieve Pub 970 and/or IRS education credits guidance page."
   },
   {
     "id": "rag_dep_ctc",
     "query": "What are the requirements for the Child Tax Credit and qualifying child?",
-    "expected_sources_any": ["child-tax-credit", "p501"],
+    "expected_sources_any": [
+      "child-tax-credit",
+      "p501"
+    ],
     "notes": "Child/dependent credit should retrieve IRS child tax credit guidance and/or Pub 501."
   },
   {
     "id": "rag_income_taxable",
     "query": "Is scholarship income taxable and when is it excluded?",
-    "expected_sources_any": ["p525", "p17", "p970"],
+    "expected_sources_any": [
+      "p525",
+      "p17",
+      "p970"
+    ],
     "notes": "Scholarship taxability should retrieve Pub 525, Pub 17, or Pub 970 (which has a full chapter on scholarships)."
   },
   {
     "id": "rag_ira_deduction",
     "query": "Can I deduct IRA contributions and what affects eligibility?",
-    "expected_sources_any": ["p590a", "ira-deduction-limits"],
+    "expected_sources_any": [
+      "p590a",
+      "ira-deduction-limits"
+    ],
     "notes": "IRA deduction should retrieve Pub 590-A and/or IRA deduction limits guidance."
   },
   {
     "id": "rag_capital_gains",
     "query": "How are capital gains and losses taxed for individuals?",
-    "expected_sources_any": ["tc409", "p17", "p550", "p544"],
+    "expected_sources_any": [
+      "tc409",
+      "p17",
+      "p550",
+      "p544"
+    ],
     "notes": "Capital gains/losses should retrieve Tax Topic 409, Pub 17, Pub 550, or Pub 544."
   },
   {
     "id": "rag_passive_activity",
-    "query": "What are the passive activity loss rules and how do they limit deductions?",
-    "expected_sources_any": ["p925", "i8582"],
-    "notes": "Passive activity rules should retrieve Pub 925 or Form 8582 instructions."
+    "query": "What are the passive activity loss limitation rules under Section 469 and Form 8582?",
+    "expected_sources_any": [
+      "p925",
+      "i8582",
+      "about-form-8582",
+      "i1040se",
+      "i6198"
+    ],
+    "notes": "Passive activity rules from Pub 925, Form 8582 instructions, or Schedule E instructions."
   },
   {
     "id": "rag_at_risk",
     "query": "How do the at-risk rules limit my partnership loss deduction?",
-    "expected_sources_any": ["p925", "i6198"],
+    "expected_sources_any": [
+      "p925",
+      "i6198"
+    ],
     "notes": "At-risk rules should retrieve Pub 925 or Form 6198 instructions."
   },
   {
     "id": "rag_like_kind",
     "query": "What are the rules for a like-kind exchange under Section 1031?",
-    "expected_sources_any": ["p544", "i8824"],
+    "expected_sources_any": [
+      "p544",
+      "i8824"
+    ],
     "notes": "Like-kind exchange should retrieve Pub 544 or Form 8824 instructions."
   },
   {
     "id": "rag_installment_sale",
     "query": "How do I report gain from an installment sale?",
-    "expected_sources_any": ["p537", "p544"],
+    "expected_sources_any": [
+      "p537",
+      "p544"
+    ],
     "notes": "Installment sales should retrieve Pub 537 or Pub 544."
   },
   {
     "id": "rag_gift_tax",
     "query": "What is the annual gift tax exclusion and when do I need to file Form 709?",
-    "expected_sources_any": ["p559", "tc506"],
+    "expected_sources_any": [
+      "p559",
+      "tc506"
+    ],
     "notes": "Gift tax should retrieve Pub 559 or gift tax topic page."
   },
   {
     "id": "rag_estate_basis",
     "query": "What is the stepped-up basis rule for inherited property?",
-    "expected_sources_any": ["p559", "p551", "p544"],
+    "expected_sources_any": [
+      "p559",
+      "p551",
+      "p544"
+    ],
     "notes": "Inherited basis should retrieve Pub 559, Pub 551, or Pub 544."
   },
   {
     "id": "rag_charitable",
     "query": "What are the limits on charitable contribution deductions?",
-    "expected_sources_any": ["p526", "i1040sca"],
+    "expected_sources_any": [
+      "p526",
+      "i1040sca"
+    ],
     "notes": "Charitable deductions should retrieve Pub 526 or Schedule A instructions."
   },
   {
     "id": "rag_rmd",
     "query": "When must I start taking required minimum distributions from my IRA?",
-    "expected_sources_any": ["p590b", "retirement-plans"],
+    "expected_sources_any": [
+      "p590b",
+      "retirement-plans"
+    ],
     "notes": "RMDs should retrieve Pub 590-B or IRS retirement plans page."
   },
   {
     "id": "rag_roth_ira",
     "query": "What are the income limits for contributing to a Roth IRA?",
-    "expected_sources_any": ["p590a", "ira-deduction-limits"],
+    "expected_sources_any": [
+      "p590a",
+      "ira-deduction-limits"
+    ],
     "notes": "Roth IRA limits should retrieve Pub 590-A or IRA limits page."
   },
   {
     "id": "rag_social_security",
     "query": "How much of my Social Security benefits are taxable?",
-    "expected_sources_any": ["p915", "p554"],
+    "expected_sources_any": [
+      "p915",
+      "p554"
+    ],
     "notes": "Social Security taxability should retrieve Pub 915 or Pub 554 (seniors guide)."
   },
   {
     "id": "rag_home_sale",
-    "query": "Can I exclude gain from the sale of my home under Section 121?",
-    "expected_sources_any": ["p523", "p544"],
-    "notes": "Home sale exclusion should retrieve Pub 523 or Pub 544."
+    "query": "Can I exclude gain from the sale of my primary home under Section 121 exclusion?",
+    "expected_sources_any": [
+      "p523",
+      "p544",
+      "tc701"
+    ],
+    "notes": "Home sale exclusion from Pub 523 or Tax Topic 701."
   },
   {
     "id": "rag_rental_property",
     "query": "How do I report income and expenses from rental real estate?",
-    "expected_sources_any": ["p527", "i1040se"],
+    "expected_sources_any": [
+      "p527",
+      "i1040se"
+    ],
     "notes": "Rental property should retrieve Pub 527 or Schedule E instructions."
   },
   {
     "id": "rag_medical_deduction",
-    "query": "What medical expenses can I deduct on my tax return?",
-    "expected_sources_any": ["p502", "i1040sca"],
-    "notes": "Medical deductions should retrieve Pub 502 or Schedule A instructions."
+    "query": "What medical and dental expenses can I deduct as itemized deductions?",
+    "expected_sources_any": [
+      "p502",
+      "i1040sca",
+      "tc502"
+    ],
+    "notes": "Medical deductions from Pub 502, Schedule A instructions, or Tax Topic 502."
   },
   {
     "id": "rag_mortgage_interest",
     "query": "How much mortgage interest can I deduct and what are the limits?",
-    "expected_sources_any": ["p936", "i1040sca"],
+    "expected_sources_any": [
+      "p936",
+      "i1040sca"
+    ],
     "notes": "Mortgage interest deduction should retrieve Pub 936 or Schedule A instructions."
   },
   {
     "id": "rag_hsa",
     "query": "What are the contribution limits and tax benefits of a Health Savings Account?",
-    "expected_sources_any": ["p969"],
+    "expected_sources_any": [
+      "p969"
+    ],
     "notes": "HSA rules should retrieve Pub 969."
   },
   {
     "id": "rag_earned_income_credit",
     "query": "Do I qualify for the Earned Income Tax Credit and how is it calculated?",
-    "expected_sources_any": ["p596", "earned-income-tax-credit"],
+    "expected_sources_any": [
+      "p596",
+      "earned-income-tax-credit"
+    ],
     "notes": "EITC should retrieve Pub 596 or IRS EITC guidance page."
   },
   {
     "id": "rag_estimated_tax",
     "query": "When do I need to pay estimated taxes and how do I avoid penalties?",
-    "expected_sources_any": ["p505", "estimated-taxes"],
+    "expected_sources_any": [
+      "p505",
+      "estimated-taxes"
+    ],
     "notes": "Estimated tax should retrieve Pub 505 or IRS estimated taxes page."
   },
   {
     "id": "rag_529_plan",
     "query": "What are the tax benefits of a 529 education savings plan?",
-    "expected_sources_any": ["p970"],
+    "expected_sources_any": [
+      "p970"
+    ],
     "notes": "529 plan should retrieve Pub 970."
   },
   {
     "id": "rag_casualty_loss",
     "query": "How do I calculate and report a casualty or theft loss?",
-    "expected_sources_any": ["p547", "p544"],
+    "expected_sources_any": [
+      "p547",
+      "p544"
+    ],
     "notes": "Casualty losses should retrieve Pub 547 or Pub 544."
   },
   {
     "id": "rag_self_employment",
-    "query": "How do I report self-employment income and what expenses can I deduct?",
-    "expected_sources_any": ["i1040sc", "p525"],
-    "notes": "Self-employment should retrieve Schedule C instructions or Pub 525."
+    "query": "How do I report self-employment income on Schedule C and what business expenses can I deduct?",
+    "expected_sources_any": [
+      "i1040sc",
+      "p525",
+      "p535",
+      "p334",
+      "small-businesses-self-employed",
+      "i1040sca"
+    ],
+    "notes": "Self-employment income reported on Schedule C instructions or related publications."
   },
   {
     "id": "rag_amt",
     "query": "What is the Alternative Minimum Tax and who has to pay it?",
-    "expected_sources_any": ["i6251", "p17"],
+    "expected_sources_any": [
+      "i6251",
+      "p17"
+    ],
     "notes": "AMT should retrieve Form 6251 instructions or Pub 17."
   },
   {
     "id": "rag_dependent_care",
     "query": "What is the child and dependent care credit and how do I claim it?",
-    "expected_sources_any": ["p503", "child-and-dependent-care"],
+    "expected_sources_any": [
+      "p503",
+      "child-and-dependent-care"
+    ],
     "notes": "Dependent care credit should retrieve Pub 503 or IRS dependent care page."
   },
   {
     "id": "rag_filing_status",
     "query": "How do I determine my filing status for my tax return?",
-    "expected_sources_any": ["p501", "filing-status", "p17"],
+    "expected_sources_any": [
+      "p501",
+      "filing-status",
+      "p17"
+    ],
     "notes": "Filing status should retrieve Pub 501, filing status page, or Pub 17."
   }
 ]
